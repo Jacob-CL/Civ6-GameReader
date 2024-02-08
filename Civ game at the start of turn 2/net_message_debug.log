@@ -1,0 +1,75 @@
+[2024-02-08 19:55:29]	Validating App Game Configuration for Game Mode -379035929
+[2024-02-08 19:55:29]	Validate App Game Configuration, Disabling turn timer for singleplayer. previous turn timer mode=-1525060181
+[2024-02-08 19:55:29]	Validate App Game Configuration, creating LastTurnPhaseType.
+[2024-02-08 19:55:29]	PlayerConnected: iPlayerID = 0
+[2024-02-08 19:55:29]	Net SEND (0): size=50: NetRegister : Version=1.0.12.54 (951533), My Version=1.0.12.54 (951533), From=-1
+[2024-02-08 19:55:29]	Net SEND (0): size=28: NetLaunchGame
+[2024-02-08 19:55:41]	Net RECV (0) :NetRegister : Version=1.0.12.54 (951533), My Version=1.0.12.54 (951533), From=0
+[2024-02-08 19:55:41]	Net RECV (0) :NetLaunchGame
+[2024-02-08 19:55:41]	Net SEND (0): size=33: NetAppRegister : PlayerID=0, m_bInfoOnly=0
+[2024-02-08 19:55:41]	Net RECV (0) :NetAppRegister : PlayerID=0, m_bInfoOnly=0
+[2024-02-08 19:55:41]	MultiplayerJoinGameComplete, client joined game.
+[2024-02-08 19:55:42]	CanRecieveMessage: Queuing Messages Start, State = kRecieveMessage_LoadInProgress
+[2024-02-08 19:56:06]	Initialized Random Seed: -2049104093
+[2024-02-08 19:56:58]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=1
+[2024-02-08 19:56:58]	CanRecieveMessage: Queuing Messages End, Previous State = kRecieveMessage_LoadInProgress
+[2024-02-08 19:56:58]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=1
+[2024-02-08 19:56:58]	Game Turn: 1
+[2024-02-08 19:56:58]	Turn Phase: (null)
+[2024-02-08 19:56:58]	Player 0 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:56:58]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:56:58]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:31]	GameCore SEND: UnitOperation: Unit=65536, Owner=0, InsertMode=0, Request={eOperation: UNITOPERATION_MOVE_TO (19), eDirective: -1, iFlags: 0, dest: 5, 17, uiModifiers: 16400, bAppend: 0, bFromUser: 0}
+[2024-02-08 19:58:31]	GameCore RECV (0): UnitOperation: Unit=65536, Owner=0, InsertMode=0, Request={eOperation: UNITOPERATION_MOVE_TO (19), eDirective: -1, iFlags: 0, dest: 5, 17, uiModifiers: 16400, bAppend: 0, bFromUser: 0}
+[2024-02-08 19:58:48]	GameCore SEND: UnitOperation: Unit=196610, Owner=0, InsertMode=0, Request={eOperation: UNITOPERATION_MOVE_TO (19), eDirective: -1, iFlags: 0, dest: 5, 16, uiModifiers: 16400, bAppend: 0, bFromUser: 0}
+[2024-02-08 19:58:48]	GameCore RECV (0): UnitOperation: Unit=196610, Owner=0, InsertMode=0, Request={eOperation: UNITOPERATION_MOVE_TO (19), eDirective: -1, iFlags: 0, dest: 5, 16, uiModifiers: 16400, bAppend: 0, bFromUser: 0}
+[2024-02-08 19:58:51]	GameCore SEND: UnitOperation: Unit=131073, Owner=0, InsertMode=0, Request={eOperation: UNITOPERATION_MOVE_TO (19), eDirective: -1, iFlags: 0, dest: 5, 17, uiModifiers: 16400, bAppend: 0, bFromUser: 0}
+[2024-02-08 19:58:51]	GameCore RECV (0): UnitOperation: Unit=131073, Owner=0, InsertMode=0, Request={eOperation: UNITOPERATION_MOVE_TO (19), eDirective: -1, iFlags: 0, dest: 5, 17, uiModifiers: 16400, bAppend: 0, bFromUser: 0}
+[2024-02-08 19:58:52]	GameCore SEND: PlayerTurnComplete: ePlayer=0, eReason=0xb6fa1284
+[2024-02-08 19:58:52]	GameCore RECV (0): PlayerTurnComplete: ePlayer=0, eReason=0xb6fa1284
+[2024-02-08 19:58:52]	Player 0 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Player 1 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	Player 1 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Player 2 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	Player 2 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Player 3 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	Player 3 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Player 4 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	Player 4 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Player 62 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	Player 62 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Player 63 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	Player 63 set TurnActive 0, TurnActiveCount: 0
+[2024-02-08 19:58:52]	Performing End-of-Tactical Phase Unit Automation.
+[2024-02-08 19:58:52]	Turn Phase: End of Game Turn
+[2024-02-08 19:58:52]	GameCore SEND: GameTurnComplete: ePlayer=0
+[2024-02-08 19:58:52]	Game Turn Ended: 1
+[2024-02-08 19:58:52]	GameCore RECV (0): GameTurnComplete: ePlayer=0
+[2024-02-08 19:58:52]	StartGameSyncCheck()
+[2024-02-08 19:58:52]	Net SEND (0): size=32: NetGameSyncProcessed: m_playerID=0
+[2024-02-08 19:58:52]	Net RECV (0) :NetGameSyncProcessed: m_playerID=0
+[2024-02-08 19:58:52]	GameSyncComplete
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=1
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=1
+[2024-02-08 19:58:52]	Game Turn: 2
+[2024-02-08 19:58:52]	Turn Phase: (null)
+[2024-02-08 19:58:52]	Player 0 set TurnActive 1, TurnActiveCount: 1
+[2024-02-08 19:58:52]	GameCore SEND: GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 19:58:52]	GameCore RECV (0): GameUpdate: From=0, Passes=1, InitialTurnProcessing=0
+[2024-02-08 20:05:58]	ShutdownGame() leaving the network session.
+[2024-02-08 20:05:58]	Network manager leaving game.
+[2024-02-08 20:05:58]	Closing network session.
+[2024-02-08 20:05:58]	Net SEND (0): size=32: NetCloseConnection : m_iPlayerID=0
+[2024-02-08 20:06:03]	Network manager leaving game.

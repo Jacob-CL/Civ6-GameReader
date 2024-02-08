@@ -1,0 +1,1060 @@
+Game Turn, Range, Value, Seed, Type, Location
+1, 50, 26, 2245863203, sync, Choose random civilization
+1, 2, 0, 2301133856, sync, Choose random civilization/leader combo
+1, 49, 15, 255996377, sync, Choose random civilization
+1, 1, 0, 1362462622, sync, Choose random civilization/leader combo
+1, 48, 42, 3847295615, sync, Unknown
+1, 47, 28, 3831611980, sync, Unknown
+1, 46, 39, 2577076885, sync, Unknown
+1, 45, 35, 3673063338, sync, Unknown
+1, 44, 31, 3387840411, sync, Unknown
+1, 43, 39, 3054417720, sync, Unknown
+1, 42, 30, 3982967569, sync, Unknown
+1, 41, 26, 3146574966, sync, Unknown
+1, 40, 23, 2756760183, sync, Unknown
+1, 39, 8, 2509508324, sync, Unknown
+1, 38, 17, 887881549, sync, Unknown
+1, 37, 15, 1926453762, sync, Unknown
+1, 36, 19, 1760960275, sync, Unknown
+1, 35, 34, 2314548560, sync, Unknown
+1, 34, 9, 4286989129, sync, Unknown
+1, 33, 9, 1210127438, sync, Unknown
+1, 32, 8, 1285134703, sync, Unknown
+1, 31, 26, 1157650044, sync, Unknown
+1, 30, 0, 3680946949, sync, Unknown
+1, 29, 26, 125708122, sync, Unknown
+1, 28, 25, 3931135371, sync, Unknown
+1, 27, 21, 3845807720, sync, Unknown
+1, 26, 13, 3473805953, sync, Unknown
+1, 25, 17, 2204589862, sync, Unknown
+1, 24, 21, 2942650215, sync, Unknown
+1, 23, 21, 3934976276, sync, Unknown
+1, 22, 8, 4001912253, sync, Unknown
+1, 21, 3, 1733969842, sync, Unknown
+1, 20, 15, 687141635, sync, Unknown
+1, 19, 0, 3383267968, sync, Unknown
+1, 18, 11, 141136057, sync, Unknown
+1, 17, 9, 2803969278, sync, Unknown
+1, 16, 4, 2403974239, sync, Unknown
+1, 15, 2, 1245992620, sync, Unknown
+1, 14, 8, 646545269, sync, Unknown
+1, 13, 8, 2531203850, sync, Unknown
+1, 12, 7, 2868363131, sync, Unknown
+1, 11, 4, 2616603032, sync, Unknown
+1, 10, 4, 1585421809, sync, Unknown
+1, 9, 8, 2010897878, sync, Unknown
+1, 8, 6, 4021868631, sync, Unknown
+1, 7, 1, 3454586692, sync, Unknown
+1, 6, 0, 769599533, sync, Unknown
+1, 5, 2, 101712226, sync, Unknown
+1, 4, 0, 1762173683, sync, Unknown
+1, 3, 1, 356883376, sync, Unknown
+1, 2, 0, 1580407337, sync, Unknown
+1, 1, 0, 1383125422, sync, Unknown
+1, 48, 2, 3565189967, sync, Unknown
+1, 47, 8, 241222364, sync, Unknown
+1, 46, 44, 750399461, sync, Unknown
+1, 45, 1, 4126956218, sync, Unknown
+1, 44, 39, 99843435, sync, Unknown
+1, 43, 8, 3836031176, sync, Unknown
+1, 42, 17, 836953441, sync, Unknown
+1, 41, 18, 1770350726, sync, Unknown
+1, 40, 2, 1900709191, sync, Unknown
+1, 39, 10, 222335348, sync, Unknown
+1, 38, 2, 1149728413, sync, Unknown
+1, 37, 17, 239044370, sync, Unknown
+1, 36, 0, 1981820643, sync, Unknown
+1, 35, 11, 9392352, sync, Unknown
+1, 34, 6, 1424613273, sync, Unknown
+1, 33, 25, 856359518, sync, Unknown
+1, 32, 3, 3374110271, sync, Unknown
+1, 31, 30, 508074764, sync, Unknown
+1, 30, 4, 4218412117, sync, Unknown
+1, 29, 2, 578872938, sync, Unknown
+1, 28, 18, 387094363, sync, Unknown
+1, 27, 5, 2825542648, sync, Unknown
+1, 26, 0, 924772561, sync, Unknown
+1, 25, 18, 96403254, sync, Unknown
+1, 24, 12, 3185135159, sync, Unknown
+1, 23, 13, 2162507684, sync, Unknown
+1, 22, 3, 2547532045, sync, Unknown
+1, 21, 4, 670292162, sync, Unknown
+1, 20, 1, 921343699, sync, Unknown
+1, 19, 15, 369668624, sync, Unknown
+1, 18, 16, 3495223561, sync, Unknown
+1, 17, 9, 3869949710, sync, Unknown
+1, 16, 10, 2411580719, sync, Unknown
+1, 15, 6, 2846809916, sync, Unknown
+1, 14, 4, 1809941701, sync, Unknown
+1, 13, 0, 1524088346, sync, Unknown
+1, 12, 10, 199494987, sync, Unknown
+1, 11, 1, 3743986472, sync, Unknown
+1, 10, 5, 601532481, sync, Unknown
+1, 9, 7, 2258870758, sync, Unknown
+1, 8, 1, 3437507367, sync, Unknown
+1, 7, 0, 1005181396, sync, Unknown
+1, 6, 3, 283674493, sync, Unknown
+1, 5, 0, 2482501234, sync, Unknown
+1, 4, 0, 467065539, sync, Unknown
+1, 3, 2, 116703040, sync, Unknown
+1, 2, 0, 3019579001, sync, Unknown
+1, 1, 0, 1875576766, sync, Unknown
+1, 2, 1, 2965528607, sync, Choosing a random cost for a civic to have
+1, 2, 1, 3003551596, sync, Choosing a random cost for a civic to have
+1, 2, 1, 2466654517, sync, Choosing a random cost for a civic to have
+1, 2, 0, 3458982346, sync, Choosing a random cost for a civic to have
+1, 2, 1, 330751803, sync, Choosing a random cost for a civic to have
+1, 1, 0, 3213047384, sync, Choosing how many prerequisites for a civic to have
+1, 100, 38, 3850183601, sync, Choosing a random prerequisite for a civic to have
+1, 1, 0, 1661882518, sync, Choosing how many prerequisites for a civic to have
+1, 100, 73, 4088017943, sync, Choosing a random prerequisite for a civic to have
+1, 1, 0, 3156303876, sync, Choosing how many prerequisites for a civic to have
+1, 1, 0, 2358200813, sync, Choosing a random prerequisite for a civic to have
+1, 1, 0, 3688292386, sync, Choosing how many prerequisites for a civic to have
+1, 1, 0, 252967603, sync, Choosing a random prerequisite for a civic to have
+1, 1, 0, 3679877232, sync, Choosing how many prerequisites for a civic to have
+1, 1, 0, 1394841577, sync, Choosing a random prerequisite for a civic to have
+1, 4, 0, 3852917870, sync, Choosing how many prerequisites for a civic to have
+1, 400, 99, 172592911, sync, Choosing a random prerequisite for a civic to have
+1, 2, 0, 1065528220, sync, Choosing a random cost for a tech to have
+1, 2, 0, 831834533, sync, Choosing a random cost for a tech to have
+1, 2, 0, 1281905018, sync, Choosing a random cost for a tech to have
+1, 2, 1, 1335495979, sync, Choosing a random cost for a tech to have
+1, 2, 0, 4007454088, sync, Choosing a random cost for a tech to have
+1, 2, 1, 288185121, sync, Choosing a random cost for a tech to have
+1, 1, 0, 4271508294, sync, Choosing how many prerequisites for a tech to have
+1, 300, 30, 3576320263, sync, Choosing a random prerequisite for a tech to have
+1, 1, 0, 438227508, sync, Choosing how many prerequisites for a tech to have
+1, 201, 101, 1264814173, sync, Choosing a random prerequisite for a tech to have
+1, 1, 0, 2178651602, sync, Choosing how many prerequisites for a tech to have
+1, 102, 13, 1687221923, sync, Choosing a random prerequisite for a tech to have
+1, 1, 0, 569433504, sync, Choosing how many prerequisites for a tech to have
+1, 3, 0, 3772075353, sync, Choosing a random prerequisite for a tech to have
+1, 2, 1, 607730974, sync, Choosing how many prerequisites for a tech to have
+1, 400, 211, 3224525311, sync, Choosing a random prerequisite for a tech to have
+1, 301, 42, 2266379212, sync, Choosing a random prerequisite for a tech to have
+1, 2, 1, 604268053, sync, Choosing how many prerequisites for a tech to have
+1, 202, 153, 4130868522, sync, Choosing a random prerequisite for a tech to have
+1, 103, 71, 3260847899, sync, Choosing a random prerequisite for a tech to have
+1, 2, 0, 2975383736, sync, Choosing how many prerequisites for a tech to have
+1, 200, 70, 1406291601, sync, Choosing a random prerequisite for a tech to have
+1, 1, 0, 1503777270, sync, Choosing how many prerequisites for a tech to have
+1, 100, 22, 1378060791, sync, Choosing a random prerequisite for a tech to have
+1, 100, 38, 959787108, sync, Random Diplomatic Value
+1, 100, 69, 1639727821, sync, Random Diplomatic Value
+1, 100, 78, 2970687362, sync, Random Diplomatic Value
+1, 100, 12, 3388788371, sync, Random Diplomatic Value
+1, 100, 87, 541519568, sync, Random Diplomatic Value
+1, 100, 48, 3755425481, sync, Random Diplomatic Value
+1, 100, 17, 2084383182, sync, Random Diplomatic Value
+1, 100, 14, 740016367, sync, Random Diplomatic Value
+1, 100, 82, 611592188, sync, Random Diplomatic Value
+1, 100, 92, 3532390021, sync, Random Diplomatic Value
+1, 100, 25, 3976598746, sync, Random Diplomatic Value
+1, 100, 10, 1083014411, sync, Random Diplomatic Value
+1, 100, 88, 433702888, sync, Random Diplomatic Value
+1, 100, 75, 3792895489, sync, Random Diplomatic Value
+1, 100, 47, 3242239142, sync, Random Diplomatic Value
+1, 100, 96, 2031410919, sync, Random Diplomatic Value
+1, 100, 15, 4151802516, sync, Random Diplomatic Value
+1, 100, 92, 665876797, sync, Random Diplomatic Value
+1, 100, 21, 3980551474, sync, Random Diplomatic Value
+1, 100, 1, 918979203, sync, Random Diplomatic Value
+1, 100, 57, 43756544, sync, Random Diplomatic Value
+1, 100, 38, 2461035577, sync, Random Diplomatic Value
+1, 100, 80, 1663935102, sync, Random Diplomatic Value
+1, 100, 26, 3445933023, sync, Random Diplomatic Value
+1, 100, 62, 1158645804, sync, Random Diplomatic Value
+1, 100, 1, 2703397621, sync, Random Diplomatic Value
+1, 100, 37, 50161802, sync, Random Diplomatic Value
+1, 100, 22, 1618722555, sync, Random Diplomatic Value
+1, 100, 90, 973273880, sync, Random Diplomatic Value
+1, 100, 49, 3897977201, sync, Random Diplomatic Value
+1, 100, 46, 2136048470, sync, Random Diplomatic Value
+1, 100, 36, 1983729623, sync, Random Diplomatic Value
+1, 100, 66, 1572384964, sync, Random Diplomatic Value
+1, 100, 76, 2836868013, sync, Random Diplomatic Value
+1, 100, 85, 3271196386, sync, Random Diplomatic Value
+1, 100, 4, 3692892787, sync, Random Diplomatic Value
+1, 100, 42, 200414512, sync, Random Diplomatic Value
+1, 100, 13, 1806161321, sync, Random Diplomatic Value
+1, 100, 22, 591767342, sync, Random Diplomatic Value
+1, 100, 84, 959210191, sync, Random Diplomatic Value
+1, 100, 37, 3642446940, sync, Random Diplomatic Value
+1, 100, 41, 1602167653, sync, Random Diplomatic Value
+1, 100, 41, 1795754042, sync, Random Diplomatic Value
+1, 100, 32, 1781947627, sync, Random Diplomatic Value
+1, 100, 97, 1379359304, sync, Random Diplomatic Value
+1, 100, 54, 4207120609, sync, Random Diplomatic Value
+1, 100, 51, 2322558470, sync, Random Diplomatic Value
+1, 100, 81, 2208029895, sync, Random Diplomatic Value
+1, 100, 8, 3482047220, sync, Random Diplomatic Value
+1, 100, 46, 361191965, sync, Random Diplomatic Value
+1, 100, 8, 2005165202, sync, Random Diplomatic Value
+1, 100, 77, 351239779, sync, Random Diplomatic Value
+1, 100, 48, 3322751584, sync, Random Diplomatic Value
+1, 100, 54, 2093251353, sync, Random Diplomatic Value
+1, 100, 4, 2340435934, sync, Random Diplomatic Value
+1, 100, 76, 173120959, sync, Random Diplomatic Value
+1, 100, 72, 3280637068, sync, Random Diplomatic Value
+1, 100, 40, 3105402837, sync, Random Diplomatic Value
+1, 100, 27, 1758721002, sync, Random Diplomatic Value
+1, 100, 0, 1200379611, sync, Random Diplomatic Value
+1, 100, 52, 26862968, sync, Random Diplomatic Value
+1, 100, 21, 2235659345, sync, Random Diplomatic Value
+1, 100, 84, 905274550, sync, Random Diplomatic Value
+1, 100, 23, 3639575991, sync, Random Diplomatic Value
+1, 100, 18, 994304292, sync, Random Diplomatic Value
+1, 100, 72, 811074701, sync, Random Diplomatic Value
+1, 100, 33, 3102414402, sync, Random Diplomatic Value
+1, 100, 19, 1441580627, sync, Random Diplomatic Value
+1, 100, 90, 829418384, sync, Random Diplomatic Value
+1, 100, 62, 3888995465, sync, Random Diplomatic Value
+1, 100, 81, 2677560462, sync, Random Diplomatic Value
+1, 100, 3, 3514004655, sync, Random Diplomatic Value
+1, 100, 64, 168833212, sync, Random Diplomatic Value
+1, 100, 0, 2770745413, sync, Random Diplomatic Value
+1, 100, 45, 13183898, sync, Random Diplomatic Value
+1, 100, 46, 1946987723, sync, Random Diplomatic Value
+1, 100, 23, 1980603560, sync, Random Diplomatic Value
+1, 100, 88, 997659585, sync, Random Diplomatic Value
+1, 100, 60, 3791546214, sync, Random Diplomatic Value
+1, 100, 28, 2612480679, sync, Random Diplomatic Value
+1, 100, 75, 1240718164, sync, Random Diplomatic Value
+1, 100, 30, 3231722237, sync, Random Diplomatic Value
+1, 100, 11, 1308201970, sync, Random Diplomatic Value
+1, 100, 95, 495184451, sync, Random Diplomatic Value
+1, 100, 30, 4116535488, sync, Random Diplomatic Value
+1, 100, 28, 1313438201, sync, Random Diplomatic Value
+1, 100, 1, 1208548670, sync, Random Diplomatic Value
+1, 100, 2, 82896799, sync, Random Diplomatic Value
+1, 100, 83, 85934316, sync, Random Diplomatic Value
+1, 100, 65, 3600727221, sync, Random Diplomatic Value
+1, 100, 92, 2819862346, sync, Random Diplomatic Value
+1, 100, 61, 3976617659, sync, Random Diplomatic Value
+1, 100, 53, 2620751832, sync, Random Diplomatic Value
+1, 100, 66, 2295033649, sync, Random Diplomatic Value
+1, 100, 80, 2875553302, sync, Random Diplomatic Value
+1, 100, 56, 3476171671, sync, Random Diplomatic Value
+1, 100, 0, 2406400388, sync, Random Diplomatic Value
+1, 100, 77, 20368749, sync, Random Diplomatic Value
+1, 100, 89, 3325746594, sync, Random Diplomatic Value
+1, 100, 56, 3823364659, sync, Random Diplomatic Value
+1, 100, 25, 2413326832, sync, Random Diplomatic Value
+1, 100, 0, 1098896233, sync, Random Diplomatic Value
+1, 100, 94, 34419182, sync, Random Diplomatic Value
+1, 100, 56, 4041799311, sync, Random Diplomatic Value
+1, 100, 17, 2414525724, sync, Random Diplomatic Value
+1, 100, 95, 741948709, sync, Random Diplomatic Value
+1, 100, 13, 4104027898, sync, Random Diplomatic Value
+1, 100, 31, 562588843, sync, Random Diplomatic Value
+1, 100, 0, 1333038856, sync, Random Diplomatic Value
+1, 100, 10, 6653601, sync, Random Diplomatic Value
+1, 100, 26, 465932486, sync, Random Diplomatic Value
+1, 100, 72, 1147086983, sync, Random Diplomatic Value
+1, 100, 6, 3125253044, sync, Random Diplomatic Value
+1, 100, 16, 280161245, sync, Random Diplomatic Value
+1, 100, 4, 704246610, sync, Random Diplomatic Value
+1, 100, 52, 184272419, sync, Random Diplomatic Value
+1, 100, 69, 2242131744, sync, Random Diplomatic Value
+1, 100, 56, 2994170073, sync, Random Diplomatic Value
+1, 100, 65, 2409624222, sync, Random Diplomatic Value
+1, 100, 22, 2805637503, sync, Random Diplomatic Value
+1, 100, 12, 946185548, sync, Random Diplomatic Value
+1, 100, 30, 543996309, sync, Random Diplomatic Value
+1, 100, 88, 1293195946, sync, Random Diplomatic Value
+1, 100, 53, 3798062747, sync, Random Diplomatic Value
+1, 100, 80, 2314062392, sync, Random Diplomatic Value
+1, 100, 84, 3442235921, sync, Random Diplomatic Value
+1, 100, 53, 3648632694, sync, Random Diplomatic Value
+1, 100, 76, 2315075959, sync, Random Diplomatic Value
+1, 100, 38, 3285275108, sync, Random Diplomatic Value
+1, 100, 66, 1634436685, sync, Random Diplomatic Value
+1, 100, 80, 2856441090, sync, Random Diplomatic Value
+1, 100, 57, 3464134163, sync, Random Diplomatic Value
+1, 100, 38, 2453907536, sync, Random Diplomatic Value
+1, 100, 65, 1643592265, sync, Random Diplomatic Value
+1, 100, 93, 2809937742, sync, Random Diplomatic Value
+1, 100, 43, 4018464879, sync, Random Diplomatic Value
+1, 100, 22, 1866660220, sync, Random Diplomatic Value
+1, 100, 59, 963654149, sync, Random Diplomatic Value
+1, 100, 32, 2564883034, sync, Random Diplomatic Value
+1, 100, 58, 1377934475, sync, Random Diplomatic Value
+1, 100, 13, 2491691368, sync, Random Diplomatic Value
+1, 100, 34, 566684033, sync, Random Diplomatic Value
+1, 100, 86, 1469901350, sync, Random Diplomatic Value
+1, 100, 12, 3700127335, sync, Random Diplomatic Value
+1, 100, 16, 538901524, sync, Random Diplomatic Value
+1, 100, 31, 695704765, sync, Random Diplomatic Value
+1, 100, 20, 1356694194, sync, Random Diplomatic Value
+1, 100, 84, 869208579, sync, Random Diplomatic Value
+1, 100, 31, 3623470464, sync, Random Diplomatic Value
+1, 100, 64, 1350977465, sync, Random Diplomatic Value
+1, 100, 21, 2770147326, sync, Random Diplomatic Value
+1, 100, 71, 925289311, sync, Random Diplomatic Value
+1, 100, 47, 3086334380, sync, Random Diplomatic Value
+1, 100, 93, 2033886837, sync, Random Diplomatic Value
+1, 100, 83, 4029593098, sync, Random Diplomatic Value
+1, 100, 21, 3575037563, sync, Random Diplomatic Value
+1, 100, 65, 920306840, sync, Random Diplomatic Value
+1, 100, 52, 2828809457, sync, Random Diplomatic Value
+1, 100, 8, 2248812758, sync, Random Diplomatic Value
+1, 100, 92, 373868375, sync, Random Diplomatic Value
+1, 100, 82, 3993211460, sync, Random Diplomatic Value
+1, 100, 68, 3534630701, sync, Random Diplomatic Value
+1, 100, 97, 2958556258, sync, Random Diplomatic Value
+1, 100, 6, 4196958707, sync, Random Diplomatic Value
+1, 100, 18, 264867504, sync, Random Diplomatic Value
+1, 100, 22, 778801449, sync, Random Diplomatic Value
+1, 100, 50, 951942318, sync, Random Diplomatic Value
+1, 100, 84, 2168408655, sync, Random Diplomatic Value
+1, 100, 80, 3635471836, sync, Random Diplomatic Value
+1, 100, 29, 3447920357, sync, Random Diplomatic Value
+1, 100, 0, 1273542074, sync, Random Diplomatic Value
+1, 100, 90, 22035563, sync, Random Diplomatic Value
+1, 100, 95, 3881075656, sync, Random Diplomatic Value
+1, 100, 50, 4090707041, sync, Random Diplomatic Value
+1, 100, 62, 2170319750, sync, Random Diplomatic Value
+1, 100, 15, 2670998599, sync, Random Diplomatic Value
+1, 100, 41, 655496308, sync, Random Diplomatic Value
+1, 100, 57, 1789279645, sync, Random Diplomatic Value
+1, 100, 54, 2482782738, sync, Random Diplomatic Value
+1, 100, 72, 2322976227, sync, Random Diplomatic Value
+1, 100, 79, 3111519200, sync, Random Diplomatic Value
+1, 100, 9, 3417183897, sync, Random Diplomatic Value
+1, 100, 33, 391671134, sync, Random Diplomatic Value
+1, 100, 4, 1454204223, sync, Random Diplomatic Value
+1, 100, 49, 174554636, sync, Random Diplomatic Value
+1, 100, 20, 2143322965, sync, Random Diplomatic Value
+1, 100, 55, 901382506, sync, Random Diplomatic Value
+1, 100, 98, 2392659547, sync, Random Diplomatic Value
+1, 100, 92, 4212420344, sync, Random Diplomatic Value
+1, 100, 26, 3981639633, sync, Random Diplomatic Value
+1, 100, 36, 1122945590, sync, Random Diplomatic Value
+1, 100, 81, 1561115959, sync, Random Diplomatic Value
+1, 100, 7, 3483206308, sync, Random Diplomatic Value
+1, 100, 68, 313968653, sync, Random Diplomatic Value
+1, 100, 90, 2949993410, sync, Random Diplomatic Value
+1, 100, 29, 3882218963, sync, Random Diplomatic Value
+1, 100, 53, 1266820368, sync, Random Diplomatic Value
+1, 100, 66, 2283067401, sync, Random Diplomatic Value
+1, 100, 71, 2863196686, sync, Random Diplomatic Value
+1, 100, 15, 3054509103, sync, Random Diplomatic Value
+1, 100, 64, 684491324, sync, Random Diplomatic Value
+1, 100, 46, 2770987973, sync, Random Diplomatic Value
+1, 100, 27, 2014157082, sync, Random Diplomatic Value
+1, 100, 83, 1183599691, sync, Random Diplomatic Value
+1, 100, 27, 3590161960, sync, Random Diplomatic Value
+1, 100, 31, 1187151681, sync, Random Diplomatic Value
+1, 100, 63, 1356606694, sync, Random Diplomatic Value
+1, 100, 15, 2740019751, sync, Random Diplomatic Value
+1, 100, 43, 649649364, sync, Random Diplomatic Value
+1, 100, 31, 1878445693, sync, Random Diplomatic Value
+1, 100, 61, 1353593202, sync, Random Diplomatic Value
+1, 100, 38, 2640837059, sync, Random Diplomatic Value
+1, 100, 76, 1664152128, sync, Random Diplomatic Value
+1, 100, 75, 3274102137, sync, Random Diplomatic Value
+1, 100, 1, 3240751806, sync, Random Diplomatic Value
+1, 100, 88, 63336223, sync, Random Diplomatic Value
+1, 100, 55, 3797086828, sync, Random Diplomatic Value
+1, 100, 80, 2394312757, sync, Random Diplomatic Value
+1, 100, 95, 3457055946, sync, Random Diplomatic Value
+1, 100, 10, 4100775483, sync, Random Diplomatic Value
+1, 100, 91, 447924568, sync, Random Diplomatic Value
+1, 100, 42, 3918052017, sync, Random Diplomatic Value
+1, 100, 13, 1845468054, sync, Random Diplomatic Value
+1, 100, 83, 591471383, sync, Random Diplomatic Value
+1, 100, 10, 3593937668, sync, Random Diplomatic Value
+1, 100, 4, 457003245, sync, Random Diplomatic Value
+1, 100, 69, 202496802, sync, Random Diplomatic Value
+1, 100, 95, 2997541299, sync, Random Diplomatic Value
+1, 100, 29, 4102384496, sync, Random Diplomatic Value
+1, 100, 24, 1277890281, sync, Random Diplomatic Value
+1, 100, 97, 1041663854, sync, Random Diplomatic Value
+1, 100, 90, 4193213967, sync, Random Diplomatic Value
+1, 100, 22, 3895316124, sync, Random Diplomatic Value
+1, 100, 57, 958181541, sync, Random Diplomatic Value
+1, 100, 33, 2477239418, sync, Random Diplomatic Value
+1, 100, 85, 1431161899, sync, Random Diplomatic Value
+1, 100, 40, 3667343496, sync, Random Diplomatic Value
+1, 100, 28, 1724690977, sync, Random Diplomatic Value
+1, 100, 85, 1240733254, sync, Random Diplomatic Value
+1, 100, 13, 3688562695, sync, Random Diplomatic Value
+1, 100, 6, 581653812, sync, Random Diplomatic Value
+1, 100, 43, 287395677, sync, Random Diplomatic Value
+1, 100, 59, 1883984082, sync, Random Diplomatic Value
+1, 100, 47, 2535298467, sync, Random Diplomatic Value
+1, 100, 82, 2051182752, sync, Random Diplomatic Value
+1, 100, 78, 3525870681, sync, Random Diplomatic Value
+1, 100, 59, 3379144734, sync, Random Diplomatic Value
+1, 100, 11, 2557077759, sync, Random Diplomatic Value
+1, 100, 73, 508565196, sync, Random Diplomatic Value
+1, 100, 45, 3168013589, sync, Random Diplomatic Value
+1, 100, 3, 1971595306, sync, Random Diplomatic Value
+1, 100, 77, 134092315, sync, Random Diplomatic Value
+1, 100, 40, 3318600632, sync, Random Diplomatic Value
+1, 100, 19, 1735746961, sync, Random Diplomatic Value
+1, 100, 3, 823434486, sync, Random Diplomatic Value
+1, 100, 10, 165542135, sync, Random Diplomatic Value
+1, 100, 13, 459830116, sync, Random Diplomatic Value
+1, 100, 70, 570018253, sync, Random Diplomatic Value
+1, 100, 7, 3026555522, sync, Random Diplomatic Value
+1, 100, 14, 342830483, sync, Random Diplomatic Value
+1, 100, 32, 636182992, sync, Random Diplomatic Value
+1, 100, 49, 1407595977, sync, Random Diplomatic Value
+1, 100, 8, 2145277134, sync, Random Diplomatic Value
+1, 100, 79, 349507567, sync, Random Diplomatic Value
+1, 100, 74, 3412904700, sync, Random Diplomatic Value
+1, 100, 12, 3188942213, sync, Random Diplomatic Value
+1, 100, 48, 554627034, sync, Random Diplomatic Value
+1, 100, 35, 2097986571, sync, Random Diplomatic Value
+1, 100, 11, 1530501864, sync, Random Diplomatic Value
+1, 100, 73, 472503553, sync, Random Diplomatic Value
+1, 100, 9, 3162255270, sync, Random Diplomatic Value
+1, 100, 79, 399052263, sync, Random Diplomatic Value
+1, 100, 38, 3397483924, sync, Random Diplomatic Value
+1, 100, 40, 1641922621, sync, Random Diplomatic Value
+1, 100, 24, 1747689522, sync, Random Diplomatic Value
+1, 100, 6, 1041146243, sync, Random Diplomatic Value
+1, 100, 56, 264429312, sync, Random Diplomatic Value
+1, 100, 63, 2414551865, sync, Random Diplomatic Value
+1, 100, 79, 2733608318, sync, Random Diplomatic Value
+1, 100, 78, 3398423263, sync, Random Diplomatic Value
+1, 100, 86, 3371625260, sync, Random Diplomatic Value
+1, 100, 95, 3704732149, sync, Random Diplomatic Value
+1, 100, 90, 4101178250, sync, Random Diplomatic Value
+1, 100, 9, 3871915515, sync, Random Diplomatic Value
+1, 100, 67, 410881560, sync, Random Diplomatic Value
+1, 100, 50, 2907766897, sync, Random Diplomatic Value
+1, 100, 55, 2181418582, sync, Random Diplomatic Value
+1, 100, 39, 2379955927, sync, Random Diplomatic Value
+1, 100, 59, 1690923972, sync, Random Diplomatic Value
+1, 100, 14, 2560897709, sync, Random Diplomatic Value
+1, 100, 37, 606632418, sync, Random Diplomatic Value
+1, 100, 40, 1630204275, sync, Random Diplomatic Value
+1, 100, 45, 1724647472, sync, Random Diplomatic Value
+1, 100, 28, 1954434217, sync, Random Diplomatic Value
+1, 100, 16, 1222136366, sync, Random Diplomatic Value
+1, 100, 69, 716779983, sync, Random Diplomatic Value
+1, 100, 14, 3005314908, sync, Random Diplomatic Value
+1, 100, 68, 616958565, sync, Random Diplomatic Value
+1, 100, 16, 2929419066, sync, Random Diplomatic Value
+1, 100, 66, 692132843, sync, Random Diplomatic Value
+1, 100, 66, 2851908936, sync, Random Diplomatic Value
+1, 100, 76, 2870077409, sync, Random Diplomatic Value
+1, 100, 0, 3293346054, sync, Random Diplomatic Value
+1, 100, 47, 34835399, sync, Random Diplomatic Value
+1, 100, 69, 2043893236, sync, Random Diplomatic Value
+1, 100, 22, 2984517917, sync, Random Diplomatic Value
+1, 100, 95, 967253906, sync, Random Diplomatic Value
+1, 100, 62, 4105379171, sync, Random Diplomatic Value
+1, 100, 56, 2697583968, sync, Random Diplomatic Value
+1, 100, 4, 2410066457, sync, Random Diplomatic Value
+1, 100, 67, 211002078, sync, Random Diplomatic Value
+1, 100, 9, 2888838335, sync, Random Diplomatic Value
+1, 100, 48, 417296268, sync, Random Diplomatic Value
+1, 100, 12, 2103924437, sync, Random Diplomatic Value
+1, 100, 79, 523439850, sync, Random Diplomatic Value
+1, 100, 10, 3393508827, sync, Random Diplomatic Value
+1, 100, 48, 450492536, sync, Random Diplomatic Value
+1, 100, 13, 2102627153, sync, Random Diplomatic Value
+1, 100, 3, 581644214, sync, Random Diplomatic Value
+1, 100, 14, 137426103, sync, Random Diplomatic Value
+1, 100, 17, 603071524, sync, Random Diplomatic Value
+1, 100, 38, 754224013, sync, Random Diplomatic Value
+1, 100, 53, 1655869762, sync, Random Diplomatic Value
+1, 100, 66, 2304124243, sync, Random Diplomatic Value
+1, 100, 49, 2856279696, sync, Random Diplomatic Value
+1, 100, 74, 2133545865, sync, Random Diplomatic Value
+1, 100, 73, 3185344398, sync, Random Diplomatic Value
+1, 100, 67, 3147023279, sync, Random Diplomatic Value
+1, 100, 10, 2883834812, sync, Random Diplomatic Value
+1, 100, 83, 434937669, sync, Random Diplomatic Value
+1, 100, 88, 3601139354, sync, Random Diplomatic Value
+1, 100, 1, 3781356491, sync, Random Diplomatic Value
+1, 100, 82, 83390376, sync, Random Diplomatic Value
+1, 100, 28, 3552373441, sync, Random Diplomatic Value
+1, 100, 13, 1228730982, sync, Random Diplomatic Value
+1, 100, 21, 565344679, sync, Random Diplomatic Value
+1, 100, 55, 943251028, sync, Random Diplomatic Value
+1, 100, 44, 2364305917, sync, Random Diplomatic Value
+1, 100, 72, 1914031858, sync, Random Diplomatic Value
+1, 100, 8, 3112372547, sync, Random Diplomatic Value
+1, 100, 37, 376409024, sync, Random Diplomatic Value
+1, 100, 6, 1620259065, sync, Random Diplomatic Value
+1, 100, 66, 288221246, sync, Random Diplomatic Value
+1, 100, 43, 2873292447, sync, Random Diplomatic Value
+1, 100, 91, 1889641452, sync, Random Diplomatic Value
+1, 100, 83, 3914130357, sync, Random Diplomatic Value
+1, 100, 3, 3592178250, sync, Random Diplomatic Value
+1, 100, 75, 132799931, sync, Random Diplomatic Value
+1, 100, 8, 3237679832, sync, Random Diplomatic Value
+1, 100, 62, 364185137, sync, Random Diplomatic Value
+1, 100, 67, 2698821910, sync, Random Diplomatic Value
+1, 100, 46, 2916555415, sync, Random Diplomatic Value
+1, 100, 78, 1987740804, sync, Random Diplomatic Value
+1, 100, 1, 3366114413, sync, Random Diplomatic Value
+1, 100, 9, 56350882, sync, Random Diplomatic Value
+1, 100, 31, 426297651, sync, Random Diplomatic Value
+1, 100, 25, 1331520752, sync, Random Diplomatic Value
+1, 100, 31, 1092962921, sync, Random Diplomatic Value
+1, 100, 63, 1338170606, sync, Random Diplomatic Value
+1, 100, 93, 2740766095, sync, Random Diplomatic Value
+1, 100, 2, 3997949980, sync, Random Diplomatic Value
+1, 100, 24, 104801317, sync, Random Diplomatic Value
+1, 100, 28, 1065605626, sync, Random Diplomatic Value
+1, 100, 58, 1223306155, sync, Random Diplomatic Value
+1, 100, 82, 2521096712, sync, Random Diplomatic Value
+1, 100, 99, 3529694625, sync, Random Diplomatic Value
+1, 100, 85, 4280654790, sync, Random Diplomatic Value
+1, 100, 72, 3651000199, sync, Random Diplomatic Value
+1, 100, 72, 3108640436, sync, Random Diplomatic Value
+1, 100, 16, 3132011229, sync, Random Diplomatic Value
+1, 100, 15, 718253650, sync, Random Diplomatic Value
+1, 100, 77, 653681955, sync, Random Diplomatic Value
+1, 100, 55, 3318475296, sync, Random Diplomatic Value
+1, 100, 2, 2380832729, sync, Random Diplomatic Value
+1, 100, 56, 127294878, sync, Random Diplomatic Value
+1, 100, 37, 2445291647, sync, Random Diplomatic Value
+1, 100, 15, 1591052364, sync, Random Diplomatic Value
+1, 100, 2, 658137237, sync, Random Diplomatic Value
+1, 100, 6, 92714410, sync, Random Diplomatic Value
+1, 100, 91, 288445851, sync, Random Diplomatic Value
+1, 100, 19, 3942178104, sync, Random Diplomatic Value
+1, 100, 33, 816673041, sync, Random Diplomatic Value
+1, 100, 56, 1450345078, sync, Random Diplomatic Value
+1, 100, 14, 2412097655, sync, Random Diplomatic Value
+1, 100, 56, 637179108, sync, Random Diplomatic Value
+1, 100, 14, 2439449933, sync, Random Diplomatic Value
+1, 100, 22, 628903938, sync, Random Diplomatic Value
+1, 100, 12, 970644755, sync, Random Diplomatic Value
+1, 100, 51, 557718352, sync, Random Diplomatic Value
+1, 100, 73, 2208575817, sync, Random Diplomatic Value
+1, 100, 10, 3143854670, sync, Random Diplomatic Value
+1, 100, 87, 437008239, sync, Random Diplomatic Value
+1, 100, 5, 3740376188, sync, Random Diplomatic Value
+1, 100, 60, 242587909, sync, Random Diplomatic Value
+1, 100, 12, 2609896794, sync, Random Diplomatic Value
+1, 100, 45, 525261707, sync, Random Diplomatic Value
+1, 100, 37, 1945764968, sync, Random Diplomatic Value
+1, 100, 39, 1597751425, sync, Random Diplomatic Value
+1, 100, 40, 1709077798, sync, Random Diplomatic Value
+1, 100, 36, 1758307687, sync, Random Diplomatic Value
+1, 100, 24, 1553923860, sync, Random Diplomatic Value
+1, 100, 3, 1055056829, sync, Random Diplomatic Value
+1, 100, 45, 153927090, sync, Random Diplomatic Value
+1, 100, 43, 1938108675, sync, Random Diplomatic Value
+1, 100, 62, 1878456448, sync, Random Diplomatic Value
+1, 100, 57, 2665414329, sync, Random Diplomatic Value
+1, 100, 52, 2460287742, sync, Random Diplomatic Value
+1, 100, 61, 2241845855, sync, Random Diplomatic Value
+1, 100, 97, 2652052652, sync, Random Diplomatic Value
+1, 100, 64, 4192718197, sync, Random Diplomatic Value
+1, 100, 45, 2781499658, sync, Random Diplomatic Value
+1, 100, 39, 1938931067, sync, Random Diplomatic Value
+1, 100, 1, 1693144984, sync, Random Diplomatic Value
+1, 100, 41, 74763249, sync, Random Diplomatic Value
+1, 100, 60, 1766093782, sync, Random Diplomatic Value
+1, 100, 65, 2599728727, sync, Random Diplomatic Value
+1, 100, 91, 2819249476, sync, Random Diplomatic Value
+1, 100, 45, 3908646445, sync, Random Diplomatic Value
+1, 100, 68, 1953232738, sync, Random Diplomatic Value
+1, 100, 33, 2938396915, sync, Random Diplomatic Value
+1, 100, 4, 1459192240, sync, Random Diplomatic Value
+1, 100, 3, 199231529, sync, Random Diplomatic Value
+1, 100, 70, 160835502, sync, Random Diplomatic Value
+1, 100, 5, 3013220687, sync, Random Diplomatic Value
+1, 100, 7, 242026716, sync, Random Diplomatic Value
+1, 100, 66, 323485157, sync, Random Diplomatic Value
+1, 100, 25, 2837516474, sync, Random Diplomatic Value
+1, 100, 62, 1074330475, sync, Random Diplomatic Value
+1, 100, 68, 2687489736, sync, Random Diplomatic Value
+1, 100, 78, 2927596385, sync, Random Diplomatic Value
+1, 100, 91, 3376381574, sync, Random Diplomatic Value
+1, 100, 17, 3929662279, sync, Random Diplomatic Value
+1, 100, 34, 768579444, sync, Random Diplomatic Value
+1, 100, 24, 1497433245, sync, Random Diplomatic Value
+1, 100, 44, 1048902930, sync, Random Diplomatic Value
+1, 100, 25, 1906797795, sync, Random Diplomatic Value
+1, 100, 8, 1107867360, sync, Random Diplomatic Value
+1, 100, 62, 380521881, sync, Random Diplomatic Value
+1, 100, 3, 2704398430, sync, Random Diplomatic Value
+1, 100, 8, 148501567, sync, Random Diplomatic Value
+1, 100, 87, 351428876, sync, Random Diplomatic Value
+1, 100, 73, 3758959189, sync, Random Diplomatic Value
+1, 100, 84, 3141475434, sync, Random Diplomatic Value
+1, 100, 90, 3632502107, sync, Random Diplomatic Value
+1, 100, 26, 3874128376, sync, Random Diplomatic Value
+1, 100, 79, 1128470225, sync, Random Diplomatic Value
+1, 100, 59, 3408565558, sync, Random Diplomatic Value
+1, 100, 11, 2556177463, sync, Random Diplomatic Value
+1, 100, 42, 507626916, sync, Random Diplomatic Value
+1, 100, 15, 1829850893, sync, Random Diplomatic Value
+1, 100, 85, 662884034, sync, Random Diplomatic Value
+1, 100, 57, 3653063891, sync, Random Diplomatic Value
+1, 100, 60, 2477234192, sync, Random Diplomatic Value
+1, 100, 55, 2601570057, sync, Random Diplomatic Value
+1, 100, 37, 2402489614, sync, Random Diplomatic Value
+1, 100, 22, 1610509103, sync, Random Diplomatic Value
+1, 100, 69, 961946940, sync, Random Diplomatic Value
+1, 100, 19, 2976797381, sync, Random Diplomatic Value
+1, 100, 63, 848262170, sync, Random Diplomatic Value
+1, 100, 3, 2727381835, sync, Random Diplomatic Value
+1, 100, 43, 150886696, sync, Random Diplomatic Value
+1, 100, 25, 1885754945, sync, Random Diplomatic Value
+1, 100, 33, 1092663270, sync, Random Diplomatic Value
+1, 100, 89, 1423610151, sync, Random Diplomatic Value
+1, 100, 52, 3832799188, sync, Random Diplomatic Value
+1, 100, 53, 2239829373, sync, Random Diplomatic Value
+1, 100, 56, 2284874866, sync, Random Diplomatic Value
+1, 100, 83, 2413107395, sync, Random Diplomatic Value
+1, 100, 45, 3575194944, sync, Random Diplomatic Value
+1, 100, 42, 1955499129, sync, Random Diplomatic Value
+1, 100, 97, 1846861246, sync, Random Diplomatic Value
+1, 100, 83, 4184243743, sync, Random Diplomatic Value
+1, 100, 7, 3591066988, sync, Random Diplomatic Value
+1, 100, 33, 341997365, sync, Random Diplomatic Value
+1, 100, 2, 1446844362, sync, Random Diplomatic Value
+1, 100, 8, 92200251, sync, Random Diplomatic Value
+1, 100, 10, 353262680, sync, Random Diplomatic Value
+1, 100, 22, 458248625, sync, Random Diplomatic Value
+1, 100, 17, 972875414, sync, Random Diplomatic Value
+1, 100, 33, 754192919, sync, Random Diplomatic Value
+1, 100, 96, 1446569476, sync, Random Diplomatic Value
+1, 100, 0, 4150745069, sync, Random Diplomatic Value
+1, 100, 71, 35182114, sync, Random Diplomatic Value
+1, 100, 89, 3055401139, sync, Random Diplomatic Value
+1, 100, 93, 3865075312, sync, Random Diplomatic Value
+1, 100, 92, 4000220649, sync, Random Diplomatic Value
+1, 100, 41, 3977392750, sync, Random Diplomatic Value
+1, 100, 28, 1798384911, sync, Random Diplomatic Value
+1, 100, 25, 1212477852, sync, Random Diplomatic Value
+1, 100, 5, 1101043621, sync, Random Diplomatic Value
+1, 100, 35, 238225274, sync, Random Diplomatic Value
+1, 100, 53, 1516079915, sync, Random Diplomatic Value
+1, 100, 81, 2289929096, sync, Random Diplomatic Value
+1, 100, 69, 3509061921, sync, Random Diplomatic Value
+1, 100, 48, 2975473990, sync, Random Diplomatic Value
+1, 100, 89, 2074586887, sync, Random Diplomatic Value
+1, 100, 48, 3827554356, sync, Random Diplomatic Value
+1, 100, 18, 2069567069, sync, Random Diplomatic Value
+1, 100, 84, 797379538, sync, Random Diplomatic Value
+1, 100, 18, 3632673955, sync, Random Diplomatic Value
+1, 100, 20, 775963552, sync, Random Diplomatic Value
+1, 100, 50, 867679065, sync, Random Diplomatic Value
+1, 100, 56, 2149978910, sync, Random Diplomatic Value
+1, 100, 12, 2436724735, sync, Random Diplomatic Value
+1, 100, 55, 536213964, sync, Random Diplomatic Value
+1, 100, 57, 2376053781, sync, Random Diplomatic Value
+1, 100, 85, 2468102954, sync, Random Diplomatic Value
+1, 100, 49, 3690698011, sync, Random Diplomatic Value
+1, 100, 21, 2137974456, sync, Random Diplomatic Value
+1, 100, 24, 919895185, sync, Random Diplomatic Value
+1, 100, 85, 1066625014, sync, Random Diplomatic Value
+1, 100, 78, 3652478967, sync, Random Diplomatic Value
+1, 100, 61, 3381114468, sync, Random Diplomatic Value
+1, 100, 32, 2645774541, sync, Random Diplomatic Value
+1, 100, 86, 1401294210, sync, Random Diplomatic Value
+1, 100, 78, 3703409811, sync, Random Diplomatic Value
+1, 100, 74, 3392918736, sync, Random Diplomatic Value
+1, 100, 6, 3207670985, sync, Random Diplomatic Value
+1, 100, 48, 269189070, sync, Random Diplomatic Value
+1, 100, 31, 2099928815, sync, Random Diplomatic Value
+1, 100, 84, 1339125244, sync, Random Diplomatic Value
+1, 100, 11, 3633761413, sync, Random Diplomatic Value
+1, 100, 58, 509856474, sync, Random Diplomatic Value
+1, 100, 89, 2531785483, sync, Random Diplomatic Value
+1, 100, 47, 3838143976, sync, Random Diplomatic Value
+1, 100, 78, 2029825025, sync, Random Diplomatic Value
+1, 100, 5, 3385047718, sync, Random Diplomatic Value
+1, 100, 23, 228146407, sync, Random Diplomatic Value
+1, 100, 18, 1014464660, sync, Random Diplomatic Value
+1, 100, 3, 780601149, sync, Random Diplomatic Value
+1, 100, 94, 165731122, sync, Random Diplomatic Value
+1, 100, 74, 4063412355, sync, Random Diplomatic Value
+1, 100, 79, 3197506048, sync, Random Diplomatic Value
+1, 100, 66, 3412187705, sync, Random Diplomatic Value
+1, 100, 39, 2856155262, sync, Random Diplomatic Value
+1, 100, 36, 1716969951, sync, Random Diplomatic Value
+1, 100, 99, 1565150764, sync, Random Diplomatic Value
+1, 100, 60, 4269596917, sync, Random Diplomatic Value
+1, 100, 34, 2587139722, sync, Random Diplomatic Value
+1, 100, 63, 1500626171, sync, Random Diplomatic Value
+1, 100, 73, 2720276760, sync, Random Diplomatic Value
+1, 100, 19, 3154614129, sync, Random Diplomatic Value
+1, 100, 98, 835066198, sync, Random Diplomatic Value
+1, 100, 61, 4220857815, sync, Random Diplomatic Value
+1, 100, 69, 2647013060, sync, Random Diplomatic Value
+1, 100, 96, 2980919725, sync, Random Diplomatic Value
+1, 100, 50, 4146230498, sync, Random Diplomatic Value
+1, 100, 14, 2182402163, sync, Random Diplomatic Value
+1, 100, 76, 642906928, sync, Random Diplomatic Value
+1, 100, 19, 3264267177, sync, Random Diplomatic Value
+1, 100, 60, 821493038, sync, Random Diplomatic Value
+1, 100, 56, 2581725391, sync, Random Diplomatic Value
+1, 100, 27, 2425592412, sync, Random Diplomatic Value
+1, 100, 31, 1191768421, sync, Random Diplomatic Value
+1, 100, 63, 1366933050, sync, Random Diplomatic Value
+1, 100, 81, 2745686763, sync, Random Diplomatic Value
+1, 100, 54, 3488481352, sync, Random Diplomatic Value
+1, 100, 2, 2350661345, sync, Random Diplomatic Value
+1, 100, 58, 104170502, sync, Random Diplomatic Value
+1, 100, 66, 2510764743, sync, Random Diplomatic Value
+1, 100, 80, 2835798260, sync, Random Diplomatic Value
+1, 100, 47, 3468486685, sync, Random Diplomatic Value
+1, 100, 12, 2023086738, sync, Random Diplomatic Value
+1, 100, 38, 525515875, sync, Random Diplomatic Value
+1, 100, 68, 1664258144, sync, Random Diplomatic Value
+1, 100, 4, 2932140313, sync, Random Diplomatic Value
+1, 100, 41, 187895262, sync, Random Diplomatic Value
+1, 100, 14, 1789574079, sync, Random Diplomatic Value
+1, 100, 83, 614486668, sync, Random Diplomatic Value
+1, 100, 62, 3585211861, sync, Random Diplomatic Value
+1, 100, 59, 2682137066, sync, Random Diplomatic Value
+1, 100, 89, 2539214043, sync, Random Diplomatic Value
+1, 100, 30, 3846572920, sync, Random Diplomatic Value
+1, 100, 19, 1294049873, sync, Random Diplomatic Value
+1, 100, 79, 846002870, sync, Random Diplomatic Value
+1, 100, 64, 3415106487, sync, Random Diplomatic Value
+1, 100, 75, 2760664868, sync, Random Diplomatic Value
+1, 100, 32, 3238859405, sync, Random Diplomatic Value
+1, 100, 46, 1413876802, sync, Random Diplomatic Value
+1, 100, 30, 1989903443, sync, Random Diplomatic Value
+1, 100, 66, 1304088976, sync, Random Diplomatic Value
+1, 100, 83, 2848279177, sync, Random Diplomatic Value
+1, 100, 13, 3568085646, sync, Random Diplomatic Value
+1, 100, 46, 558895791, sync, Random Diplomatic Value
+1, 100, 10, 1998812860, sync, Random Diplomatic Value
+1, 100, 63, 430900805, sync, Random Diplomatic Value
+1, 100, 90, 2714558874, sync, Random Diplomatic Value
+1, 100, 90, 3893701323, sync, Random Diplomatic Value
+1, 100, 66, 3893314216, sync, Random Diplomatic Value
+1, 100, 68, 2864628161, sync, Random Diplomatic Value
+1, 100, 47, 2928115046, sync, Random Diplomatic Value
+1, 100, 56, 2060036263, sync, Random Diplomatic Value
+1, 100, 78, 2439635284, sync, Random Diplomatic Value
+1, 100, 41, 3350509821, sync, Random Diplomatic Value
+1, 100, 24, 1761479154, sync, Random Diplomatic Value
+1, 100, 39, 1046358083, sync, Random Diplomatic Value
+1, 100, 30, 1697496768, sync, Random Diplomatic Value
+1, 100, 5, 1293477881, sync, Random Diplomatic Value
+1, 100, 92, 232706878, sync, Random Diplomatic Value
+1, 100, 22, 3962635679, sync, Random Diplomatic Value
+1, 100, 24, 948963052, sync, Random Diplomatic Value
+1, 100, 89, 1039600309, sync, Random Diplomatic Value
+1, 100, 79, 3832603978, sync, Random Diplomatic Value
+1, 100, 61, 3408551099, sync, Random Diplomatic Value
+1, 100, 3, 2632754648, sync, Random Diplomatic Value
+1, 100, 18, 140156209, sync, Random Diplomatic Value
+1, 100, 36, 794823702, sync, Random Diplomatic Value
+1, 100, 35, 1587022231, sync, Random Diplomatic Value
+1, 100, 58, 1534216068, sync, Random Diplomatic Value
+1, 100, 36, 2508905325, sync, Random Diplomatic Value
+1, 100, 15, 1581831074, sync, Random Diplomatic Value
+1, 100, 99, 650750003, sync, Random Diplomatic Value
+1, 100, 13, 4287518704, sync, Random Diplomatic Value
+1, 100, 79, 570868073, sync, Random Diplomatic Value
+1, 100, 81, 3422849006, sync, Random Diplomatic Value
+1, 100, 60, 3479999631, sync, Random Diplomatic Value
+1, 100, 59, 2618884892, sync, Random Diplomatic Value
+1, 100, 8, 2571176741, sync, Random Diplomatic Value
+1, 100, 90, 364197114, sync, Random Diplomatic Value
+1, 100, 71, 3886541483, sync, Random Diplomatic Value
+1, 100, 94, 3074503944, sync, Random Diplomatic Value
+1, 100, 83, 4045157537, sync, Random Diplomatic Value
+1, 100, 99, 3599869638, sync, Random Diplomatic Value
+1, 100, 3, 4294477447, sync, Random Diplomatic Value
+1, 100, 75, 154704308, sync, Random Diplomatic Value
+1, 100, 32, 3240524253, sync, Random Diplomatic Value
+1, 100, 78, 1416718674, sync, Random Diplomatic Value
+1, 100, 47, 3385656355, sync, Random Diplomatic Value
+1, 100, 6, 2040503584, sync, Random Diplomatic Value
+1, 100, 41, 295032537, sync, Random Diplomatic Value
+1, 100, 58, 1763231902, sync, Random Diplomatic Value
+1, 100, 53, 2497822591, sync, Random Diplomatic Value
+1, 100, 11, 2276551500, sync, Random Diplomatic Value
+1, 100, 70, 503580565, sync, Random Diplomatic Value
+1, 100, 27, 3024408746, sync, Random Diplomatic Value
+1, 100, 3, 1180488859, sync, Random Diplomatic Value
+1, 100, 53, 154136632, sync, Random Diplomatic Value
+1, 100, 88, 2280294417, sync, Random Diplomatic Value
+1, 100, 64, 3799469430, sync, Random Diplomatic Value
+1, 100, 92, 2779389815, sync, Random Diplomatic Value
+1, 100, 20, 3960461284, sync, Random Diplomatic Value
+1, 100, 58, 887002189, sync, Random Diplomatic Value
+1, 100, 60, 2491599618, sync, Random Diplomatic Value
+1, 100, 40, 2601991187, sync, Random Diplomatic Value
+1, 100, 83, 1726254672, sync, Random Diplomatic Value
+1, 100, 20, 3566020681, sync, Random Diplomatic Value
+1, 100, 73, 869700942, sync, Random Diplomatic Value
+1, 100, 76, 3157231215, sync, Random Diplomatic Value
+1, 100, 79, 3289137020, sync, Random Diplomatic Value
+1, 100, 74, 3396796421, sync, Random Diplomatic Value
+1, 100, 25, 3213539418, sync, Random Diplomatic Value
+1, 100, 70, 1104681611, sync, Random Diplomatic Value
+1, 100, 96, 3013334888, sync, Random Diplomatic Value
+1, 100, 36, 4151089025, sync, Random Diplomatic Value
+1, 100, 26, 1579941926, sync, Random Diplomatic Value
+1, 100, 81, 1143723111, sync, Random Diplomatic Value
+1, 100, 62, 3490382356, sync, Random Diplomatic Value
+1, 100, 25, 2664049341, sync, Random Diplomatic Value
+1, 100, 84, 1078458546, sync, Random Diplomatic Value
+1, 100, 75, 3625406467, sync, Random Diplomatic Value
+1, 100, 38, 3248499584, sync, Random Diplomatic Value
+1, 100, 12, 1668527545, sync, Random Diplomatic Value
+1, 100, 41, 532213246, sync, Random Diplomatic Value
+1, 100, 17, 1790241119, sync, Random Diplomatic Value
+1, 100, 9, 748453804, sync, Random Diplomatic Value
+1, 100, 40, 412152949, sync, Random Diplomatic Value
+1, 100, 46, 1739713546, sync, Random Diplomatic Value
+1, 100, 33, 1986575483, sync, Random Diplomatic Value
+1, 100, 88, 1445456536, sync, Random Diplomatic Value
+1, 100, 81, 3792265969, sync, Random Diplomatic Value
+1, 100, 42, 3515530966, sync, Random Diplomatic Value
+1, 100, 17, 1841079639, sync, Random Diplomatic Value
+1, 100, 87, 738007108, sync, Random Diplomatic Value
+1, 100, 0, 3770694957, sync, Random Diplomatic Value
+1, 100, 46, 38531682, sync, Random Diplomatic Value
+1, 100, 10, 2013020147, sync, Random Diplomatic Value
+1, 100, 40, 450196656, sync, Random Diplomatic Value
+1, 100, 45, 1720745769, sync, Random Diplomatic Value
+1, 100, 35, 1962594990, sync, Random Diplomatic Value
+1, 100, 87, 1536223311, sync, Random Diplomatic Value
+1, 100, 42, 3751095260, sync, Random Diplomatic Value
+1, 100, 74, 1846076645, sync, Random Diplomatic Value
+1, 100, 69, 3181734842, sync, Random Diplomatic Value
+1, 100, 24, 2988292715, sync, Random Diplomatic Value
+1, 100, 81, 1060579784, sync, Random Diplomatic Value
+1, 100, 94, 3521636961, sync, Random Diplomatic Value
+1, 100, 25, 4046358918, sync, Random Diplomatic Value
+1, 100, 31, 1113297479, sync, Random Diplomatic Value
+1, 100, 50, 1366891124, sync, Random Diplomatic Value
+1, 100, 74, 2153237405, sync, Random Diplomatic Value
+1, 100, 10, 3185162258, sync, Random Diplomatic Value
+1, 100, 79, 464849891, sync, Random Diplomatic Value
+1, 100, 64, 3393677792, sync, Random Diplomatic Value
+1, 100, 50, 2783610009, sync, Random Diplomatic Value
+1, 100, 81, 2157396830, sync, Random Diplomatic Value
+1, 100, 42, 3483534143, sync, Random Diplomatic Value
+1, 100, 54, 1844003852, sync, Random Diplomatic Value
+1, 100, 38, 2354434389, sync, Random Diplomatic Value
+1, 100, 89, 1662007146, sync, Random Diplomatic Value
+1, 100, 60, 3838186587, sync, Random Diplomatic Value
+1, 100, 65, 2615973112, sync, Random Diplomatic Value
+1, 100, 30, 2834247121, sync, Random Diplomatic Value
+1, 100, 37, 1316118582, sync, Random Diplomatic Value
+1, 100, 61, 1606916919, sync, Random Diplomatic Value
+1, 100, 8, 2631010468, sync, Random Diplomatic Value
+1, 100, 24, 384292365, sync, Random Diplomatic Value
+1, 100, 99, 1056721346, sync, Random Diplomatic Value
+1, 100, 11, 4260410323, sync, Random Diplomatic Value
+1, 100, 47, 511249168, sync, Random Diplomatic Value
+1, 100, 26, 2034812425, sync, Random Diplomatic Value
+1, 100, 49, 1145651214, sync, Random Diplomatic Value
+1, 100, 4, 2106112559, sync, Random Diplomatic Value
+1, 100, 0, 189515836, sync, Random Diplomatic Value
+1, 100, 22, 11450821, sync, Random Diplomatic Value
+1, 100, 6, 979193626, sync, Random Diplomatic Value
+1, 100, 65, 267438667, sync, Random Diplomatic Value
+1, 100, 6, 2821401640, sync, Random Diplomatic Value
+1, 100, 2, 281423169, sync, Random Diplomatic Value
+1, 100, 81, 124863206, sync, Random Diplomatic Value
+1, 100, 64, 3514810407, sync, Random Diplomatic Value
+1, 100, 75, 2770002644, sync, Random Diplomatic Value
+1, 100, 91, 3246873725, sync, Random Diplomatic Value
+1, 100, 88, 3934168946, sync, Random Diplomatic Value
+1, 100, 54, 3810408387, sync, Random Diplomatic Value
+1, 100, 21, 2360170560, sync, Random Diplomatic Value
+1, 100, 15, 942818169, sync, Random Diplomatic Value
+1, 100, 50, 646695102, sync, Random Diplomatic Value
+1, 100, 74, 2174913823, sync, Random Diplomatic Value
+1, 100, 57, 3190798444, sync, Random Diplomatic Value
+1, 100, 8, 2483723829, sync, Random Diplomatic Value
+1, 100, 21, 381137610, sync, Random Diplomatic Value
+1, 100, 86, 921492539, sync, Random Diplomatic Value
+1, 100, 91, 3734368088, sync, Random Diplomatic Value
+1, 100, 46, 3939756209, sync, Random Diplomatic Value
+1, 100, 0, 1996894614, sync, Random Diplomatic Value
+1, 100, 42, 12779799, sync, Random Diplomatic Value
+1, 100, 56, 1814472964, sync, Random Diplomatic Value
+1, 100, 42, 2433572589, sync, Random Diplomatic Value
+1, 100, 3, 1844171042, sync, Random Diplomatic Value
+1, 100, 87, 158111667, sync, Random Diplomatic Value
+1, 100, 66, 3773256048, sync, Random Diplomatic Value
+1, 100, 63, 2850946281, sync, Random Diplomatic Value
+1, 100, 30, 2727992686, sync, Random Diplomatic Value
+1, 100, 56, 1309604879, sync, Random Diplomatic Value
+1, 100, 73, 2412254364, sync, Random Diplomatic Value
+1, 100, 42, 3139468965, sync, Random Diplomatic Value
+1, 100, 30, 1812619898, sync, Random Diplomatic Value
+1, 100, 15, 1321814571, sync, Random Diplomatic Value
+1, 100, 75, 680517256, sync, Random Diplomatic Value
+1, 100, 89, 3225378849, sync, Random Diplomatic Value
+1, 100, 64, 3838585926, sync, Random Diplomatic Value
+1, 100, 55, 2760924679, sync, Random Diplomatic Value
+1, 100, 97, 2391300916, sync, Random Diplomatic Value
+1, 100, 43, 4195409245, sync, Random Diplomatic Value
+1, 100, 9, 1871627986, sync, Random Diplomatic Value
+1, 100, 42, 415945635, sync, Random Diplomatic Value
+1, 100, 45, 1844049568, sync, Random Diplomatic Value
+1, 100, 97, 1971515993, sync, Random Diplomatic Value
+1, 100, 60, 4167990814, sync, Random Diplomatic Value
+1, 100, 73, 2595030783, sync, Random Diplomatic Value
+1, 100, 2, 3154631884, sync, Random Diplomatic Value
+1, 100, 99, 107436821, sync, Random Diplomatic Value
+1, 100, 18, 4278214186, sync, Random Diplomatic Value
+1, 100, 5, 777327643, sync, Random Diplomatic Value
+1, 100, 19, 238811576, sync, Random Diplomatic Value
+1, 100, 20, 837784465, sync, Random Diplomatic Value
+1, 100, 69, 891171574, sync, Random Diplomatic Value
+1, 100, 45, 2980501239, sync, Random Diplomatic Value
+1, 100, 26, 1939011940, sync, Random Diplomatic Value
+1, 100, 24, 1156110285, sync, Random Diplomatic Value
+1, 100, 7, 1047693442, sync, Random Diplomatic Value
+1, 100, 23, 317189011, sync, Random Diplomatic Value
+1, 100, 56, 1027098576, sync, Random Diplomatic Value
+1, 100, 86, 2444764105, sync, Random Diplomatic Value
+1, 100, 33, 3703876302, sync, Random Diplomatic Value
+1, 100, 88, 1427877359, sync, Random Diplomatic Value
+1, 100, 57, 3785494780, sync, Random Diplomatic Value
+1, 100, 58, 2450928517, sync, Random Diplomatic Value
+1, 100, 49, 2500109786, sync, Random Diplomatic Value
+1, 100, 90, 2115975691, sync, Random Diplomatic Value
+1, 100, 40, 3866968296, sync, Random Diplomatic Value
+1, 100, 59, 1753973505, sync, Random Diplomatic Value
+1, 100, 29, 2568439206, sync, Random Diplomatic Value
+1, 100, 48, 1250257895, sync, Random Diplomatic Value
+1, 100, 99, 2103018388, sync, Random Diplomatic Value
+1, 100, 50, 4255927869, sync, Random Diplomatic Value
+1, 100, 26, 2187466290, sync, Random Diplomatic Value
+1, 100, 24, 1127407491, sync, Random Diplomatic Value
+1, 100, 70, 1058358528, sync, Random Diplomatic Value
+1, 100, 16, 3038023993, sync, Random Diplomatic Value
+1, 100, 56, 689398654, sync, Random Diplomatic Value
+1, 100, 19, 2428104927, sync, Random Diplomatic Value
+1, 100, 46, 839495980, sync, Random Diplomatic Value
+1, 100, 64, 1982072821, sync, Random Diplomatic Value
+1, 100, 65, 2755803530, sync, Random Diplomatic Value
+1, 100, 2, 2826353659, sync, Random Diplomatic Value
+1, 100, 51, 116831256, sync, Random Diplomatic Value
+1, 100, 24, 2222599793, sync, Random Diplomatic Value
+1, 100, 68, 1049781334, sync, Random Diplomatic Value
+1, 100, 22, 2943032535, sync, Random Diplomatic Value
+1, 100, 39, 950991300, sync, Random Diplomatic Value
+1, 100, 92, 1681014957, sync, Random Diplomatic Value
+1, 100, 18, 3957878754, sync, Random Diplomatic Value
+1, 100, 47, 786083699, sync, Random Diplomatic Value
+1, 100, 77, 2055466544, sync, Random Diplomatic Value
+1, 100, 54, 3319741097, sync, Random Diplomatic Value
+1, 100, 46, 2342627374, sync, Random Diplomatic Value
+1, 100, 63, 1990643663, sync, Random Diplomatic Value
+1, 100, 21, 2708585820, sync, Random Diplomatic Value
+1, 100, 1, 910678117, sync, Random Diplomatic Value
+1, 100, 78, 61086010, sync, Random Diplomatic Value
+1, 100, 95, 3379206635, sync, Random Diplomatic Value
+1, 100, 5, 4094382920, sync, Random Diplomatic Value
+1, 100, 0, 232953313, sync, Random Diplomatic Value
+1, 100, 18, 2789126, sync, Random Diplomatic Value
+1, 100, 55, 777447879, sync, Random Diplomatic Value
+1, 100, 85, 2368101364, sync, Random Diplomatic Value
+1, 100, 89, 3692146461, sync, Random Diplomatic Value
+1, 100, 51, 3830486418, sync, Random Diplomatic Value
+1, 100, 23, 2228116323, sync, Random Diplomatic Value
+1, 100, 28, 1028080480, sync, Random Diplomatic Value
+1, 100, 21, 1243553817, sync, Random Diplomatic Value
+1, 100, 20, 928938206, sync, Random Diplomatic Value
+1, 100, 8, 901860031, sync, Random Diplomatic Value
+1, 100, 19, 382547340, sync, Random Diplomatic Value
+1, 100, 60, 838378709, sync, Random Diplomatic Value
+1, 100, 62, 2597668074, sync, Random Diplomatic Value
+1, 100, 56, 2664027099, sync, Random Diplomatic Value
+1, 100, 39, 2430475896, sync, Random Diplomatic Value
+1, 100, 8, 1688975697, sync, Random Diplomatic Value
+1, 100, 7, 356173238, sync, Random Diplomatic Value
+1, 100, 92, 319279799, sync, Random Diplomatic Value
+1, 100, 36, 3977423396, sync, Random Diplomatic Value
+1, 100, 24, 1554094477, sync, Random Diplomatic Value
+1, 100, 5, 1034258242, sync, Random Diplomatic Value
+1, 100, 29, 230482771, sync, Random Diplomatic Value
+1, 100, 84, 1273119888, sync, Random Diplomatic Value
+1, 100, 57, 3617276297, sync, Random Diplomatic Value
+1, 100, 94, 2483606926, sync, Random Diplomatic Value
+1, 100, 60, 4071121327, sync, Random Diplomatic Value
+1, 100, 7, 2614041020, sync, Random Diplomatic Value
+1, 100, 7, 342715717, sync, Random Diplomatic Value
+1, 100, 46, 306232474, sync, Random Diplomatic Value
+1, 100, 30, 2015586763, sync, Random Diplomatic Value
+1, 100, 18, 1330779560, sync, Random Diplomatic Value
+1, 100, 75, 813471937, sync, Random Diplomatic Value
+1, 100, 58, 3252553830, sync, Random Diplomatic Value
+1, 100, 52, 2533152679, sync, Random Diplomatic Value
+1, 100, 87, 2240210004, sync, Random Diplomatic Value
+1, 100, 88, 3774414845, sync, Random Diplomatic Value
+1, 100, 60, 3803333874, sync, Random Diplomatic Value
+1, 100, 6, 2618640195, sync, Random Diplomatic Value
+1, 100, 51, 295170496, sync, Random Diplomatic Value
+1, 100, 93, 2212142841, sync, Random Diplomatic Value
+1, 100, 71, 3994795582, sync, Random Diplomatic Value
+1, 100, 55, 3082491039, sync, Random Diplomatic Value
+1, 100, 26, 2364172780, sync, Random Diplomatic Value
+1, 100, 51, 1151152565, sync, Random Diplomatic Value
+1, 100, 15, 2198962250, sync, Random Diplomatic Value
+1, 100, 37, 650533819, sync, Random Diplomatic Value
+1, 100, 81, 1611282648, sync, Random Diplomatic Value
+1, 100, 2, 3501995057, sync, Random Diplomatic Value
+1, 100, 81, 116348694, sync, Random Diplomatic Value
+1, 100, 43, 3514103959, sync, Random Diplomatic Value
+1, 100, 84, 1851132548, sync, Random Diplomatic Value
+1, 100, 52, 3622756973, sync, Random Diplomatic Value
+1, 100, 98, 2265042594, sync, Random Diplomatic Value
+1, 100, 81, 4228286259, sync, Random Diplomatic Value
+1, 100, 32, 3496692464, sync, Random Diplomatic Value
+1, 100, 15, 1411659881, sync, Random Diplomatic Value
+1, 100, 39, 651309806, sync, Random Diplomatic Value
+1, 100, 78, 1696097167, sync, Random Diplomatic Value
+1, 100, 33, 3377604124, sync, Random Diplomatic Value
+1, 100, 15, 1430188581, sync, Random Diplomatic Value
+1, 100, 92, 657625082, sync, Random Diplomatic Value
+1, 100, 88, 3988892075, sync, Random Diplomatic Value
+1, 100, 79, 3798566920, sync, Random Diplomatic Value
+1, 100, 32, 3432090529, sync, Random Diplomatic Value
+1, 100, 65, 1376367046, sync, Random Diplomatic Value
+1, 100, 85, 2809083271, sync, Random Diplomatic Value
+1, 100, 57, 3658685620, sync, Random Diplomatic Value
+1, 100, 33, 2484748509, sync, Random Diplomatic Value
+1, 100, 88, 1457464402, sync, Random Diplomatic Value
+1, 100, 81, 3816792867, sync, Random Diplomatic Value
+1, 100, 67, 3508490272, sync, Random Diplomatic Value
+1, 100, 39, 2910784985, sync, Random Diplomatic Value
+1, 100, 62, 1680290718, sync, Random Diplomatic Value
+1, 100, 88, 2694794879, sync, Random Diplomatic Value
+1, 100, 45, 3807989324, sync, Random Diplomatic Value
+1, 100, 3, 1959374485, sync, Random Diplomatic Value
+1, 100, 44, 156167082, sync, Random Diplomatic Value
+1, 100, 8, 1910789019, sync, Random Diplomatic Value
+1, 100, 26, 345178936, sync, Random Diplomatic Value
+1, 100, 17, 1122213649, sync, Random Diplomatic Value
+1, 100, 73, 763893878, sync, Random Diplomatic Value
+1, 100, 27, 3148516983, sync, Random Diplomatic Value
+1, 20, 14, 1175526116, sync, Choose random agenda
+1, 20, 13, 3151108941, sync, Choose random agenda
+1, 7, 6, 2807383554, sync, Random River
+1, 9, 5, 3794770707, sync, Random Ocean
+1, 5, 3, 2469855568, sync, Random River
+1, 55, 41, 3300007753, sync, Random Desert
+1, 4, 3, 3235233870, sync, Generating a random new Great Person
+1, 4, 1, 3320763759, sync, Generating a random new Great Person
+1, 4, 3, 1318249084, sync, Generating a random new Great Person
+1, 3, 2, 3715393285, sync, Generating a random new Great Person
+1, 6, 3, 3033633626, sync, Generating a random new Great Person
+1, 4, 2, 2847758731, sync, Generating a random new Great Person
+1, 5, 1, 2204740200, sync, Generating a random new Great Person
+1, 5, 4, 1515810433, sync, Generating a random new Great Person
+1, 6, 2, 4035283750, sync, Generating a random new Great Person
+1, 5, 3, 1587938151, sync, BT Research Choice
+1, 6, 4, 2858616084, sync, BT Research Choice
+1, 5, 3, 3106763197, sync, BT Research Choice
+1, 13, 4, 2788111282, sync, Barbarian camp region placement
+1, 9, 8, 1367699203, sync, Barbarian camp location
+1, 10, 0, 4243938944, sync, Barb Tribe Roll
+2, 2500, 2464, 239365305, sync, Random Event Roll

@@ -1,0 +1,139 @@
+[2024-02-08 19:54:39]	,            UIManager_Update, 209.54 ms
+[2024-02-08 19:54:39]	,        UIUpdateJob_Update, 209.78 ms
+[2024-02-08 19:54:39]	,    Civ6App_UpdateFrame, 211.67 ms
+[2024-02-08 19:54:39]	,----- FRAME: 1 time: 211.94ms Moving avg: 3.88ms 2 frames since last 
+[2024-02-08 19:54:39]	,            UIEvent::ContextLoaded, 18.37 ms
+[2024-02-08 19:54:39]	,        UIPublishEvents, 18.43 ms
+[2024-02-08 19:54:39]	,----- FRAME: 3 time: 19.25ms Moving avg: 4.39ms 3 frames since last 
+[2024-02-08 19:54:53]	,                                        Civ6App_UpdateFrame, 800.54 ms
+[2024-02-08 19:54:53]	,----- FRAME: 1079 time: 800.71ms Moving avg: 13.85ms 1077 frames since last 
+[2024-02-08 19:55:08]	,    Civ6App_HandleGameStateSwap, 10386.22 ms
+[2024-02-08 19:55:08]	,            LocalMachineEvent::ApplicationSessionStarted, 8.31 ms
+[2024-02-08 19:55:08]	,        FiraxisLive_OnLoginStatusNotify, 8.41 ms
+[2024-02-08 19:55:08]	,            LuaContext::My2K, 11.43 ms
+[2024-02-08 19:55:08]	,        LocalMachineEvent::My2KActivate, 11.50 ms
+[2024-02-08 19:55:08]	,    Civ6App_FiraxisLiveUpdate, 23.29 ms
+[2024-02-08 19:55:08]	,----- FRAME: 1361 time: 10411.39ms Moving avg: 163.47ms 283 frames since last 
+[2024-02-08 19:55:14]	,UIManager_ProcessInput, 3144.47 ms
+[2024-02-08 19:55:14]	,            LuaContext::AdvancedSetup, 40.95 ms
+[2024-02-08 19:55:14]	,        SerialEvent::FinishedGameplayContentConfigure, 41.06 ms
+[2024-02-08 19:55:14]	,----- FRAME: 1538 time: 54.65ms Moving avg: 2.23ms 178 frames since last 
+[2024-02-08 19:55:15]	,    UIManager_ProcessInput, 198.32 ms
+[2024-02-08 19:55:15]	,----- FRAME: 1592 time: 5.41ms Moving avg: 2.34ms 55 frames since last 
+[2024-02-08 19:55:16]	,    UIManager_ProcessInput, 41.63 ms
+[2024-02-08 19:55:16]	,----- FRAME: 1671 time: 1.85ms Moving avg: 1.32ms 80 frames since last 
+[2024-02-08 19:55:17]	,    UIManager_ProcessInput, 37.03 ms
+[2024-02-08 19:55:17]	,----- FRAME: 1757 time: 2.50ms Moving avg: 2.63ms 87 frames since last 
+[2024-02-08 19:55:26]	,    UIManager_ProcessInput, 14.36 ms
+[2024-02-08 19:55:26]	,----- FRAME: 2381 time: 0.97ms Moving avg: 1.71ms 625 frames since last 
+[2024-02-08 19:55:29]	,    UIManager_ProcessInput, 151.11 ms
+[2024-02-08 19:55:41]	,            LocalMachineEvent::AppUpdate, 12060.30 ms
+[2024-02-08 19:55:41]	,        Civ6App_PublishLocalMachine, 12060.32 ms
+[2024-02-08 19:55:41]	,    Civ6App_PublishEvents, 12060.33 ms
+[2024-02-08 19:55:41]	,----- FRAME: 2524 time: 12062.13ms Moving avg: 189.98ms 144 frames since last 
+[2024-02-08 19:55:41]	,                LuaContext::AdvancedSetup, 34.58 ms
+[2024-02-08 19:55:41]	,            SerialEvent::FinishedGameplayContentConfigure, 35.90 ms
+[2024-02-08 19:55:42]	,----- FRAME: 2525 time: 962.35ms Moving avg: 205.00ms 2 frames since last 
+[2024-02-08 19:55:57]	,            lua_RegisterDatabase, 396.96 ms
+[2024-02-08 19:55:57]	,----- FRAME: 3433 time: 0.76ms Moving avg: 0.76ms 909 frames since last 
+[2024-02-08 19:56:00]	,            UILoadLock, 1174.02 ms
+[2024-02-08 19:56:00]	,        SerialEvent::AfterGameplayContentChange, 1920.39 ms
+[2024-02-08 19:56:00]	,    Civ6App_UpdateFrame, 1176.02 ms
+[2024-02-08 19:56:00]	,----- FRAME: 3521 time: 1176.40ms Moving avg: 19.45ms 89 frames since last 
+[2024-02-08 19:56:06]	,                    LuaContext::LoadScreen, 75.45 ms
+[2024-02-08 19:56:06]	,                SequenceEvent::LoadScreenContentReady, 75.52 ms
+[2024-02-08 19:56:06]	,            Civ6App_SequencerEvents, 75.52 ms
+[2024-02-08 19:56:06]	,----- FRAME: 3875 time: 107.42ms Moving avg: 2.68ms 355 frames since last 
+[2024-02-08 19:56:16]	,        UIManager_Update, 8370.03 ms
+[2024-02-08 19:56:16]	,    UIUpdateJob_Update, 8370.05 ms
+[2024-02-08 19:56:16]	,    UIUpdateJob_Render, 93.95 ms
+[2024-02-08 19:56:16]	,Civ6App_UpdateFrame, 8466.14 ms
+[2024-02-08 19:56:16]	,----- FRAME: 3962 time: 8466.28ms Moving avg: 133.57ms 88 frames since last 
+[2024-02-08 19:56:52]	,        SequenceEvent::PostLoadBegin, 25.16 ms
+[2024-02-08 19:56:52]	,            LuaContext::UnitFlagManager, 64.60 ms
+[2024-02-08 19:56:52]	,        GameCoreEvent::UnitAddedToMap, 86.99 ms
+[2024-02-08 19:56:52]	,            LuaContext::NotificationPanel, 7.38 ms
+[2024-02-08 19:56:52]	,        GameCoreEvent::NotificationAdded, 7.49 ms
+[2024-02-08 19:56:52]	,        GameCoreEvent::ImprovementAddedToMap, 5.05 ms
+[2024-02-08 19:56:52]	,    Civ6App_PublishGameCoreEvents, 131.33 ms
+[2024-02-08 19:56:52]	,            LuaContext::MapLabelManager, 12.77 ms
+[2024-02-08 19:56:52]	,        SerialEvent::OverlaySystemInitialized, 12.80 ms
+[2024-02-08 19:56:52]	,Civ6App_PublishEvents, 174.36 ms
+[2024-02-08 19:56:52]	,----- FRAME: 6093 time: 200.70ms Moving avg: 4.41ms 2132 frames since last 
+[2024-02-08 19:56:53]	,                LuaContext::WorldViewIconsManager, 202.92 ms
+[2024-02-08 19:56:53]	,                LuaContext::qd_launchbutton, 15.04 ms
+[2024-02-08 19:56:53]	,            SequenceEvent::LoadGameViewStateDone, 226.60 ms
+[2024-02-08 19:56:53]	,        Civ6App_SequencerEvents, 226.62 ms
+[2024-02-08 19:56:53]	,                LuaContext::SelectedUnit, 26.52 ms
+[2024-02-08 19:56:53]	,                LuaContext::UnitPanel, 39.86 ms
+[2024-02-08 19:56:53]	,            SerialEvent::UnitSelectionChanged, 66.81 ms
+[2024-02-08 19:56:53]	,        Civ6App_PublishSerialEvents, 66.82 ms
+[2024-02-08 19:56:53]	,    Civ6App_PublishEvents, 293.52 ms
+[2024-02-08 19:56:53]	,----- FRAME: 6152 time: 304.96ms Moving avg: 14.37ms 60 frames since last 
+[2024-02-08 19:56:53]	,            SerialEvent::LensUpdateSelectedPosition, 14.30 ms
+[2024-02-08 19:56:53]	,----- FRAME: 6153 time: 24.46ms Moving avg: 14.74ms 2 frames since last 
+[2024-02-08 19:56:58]	, ****GameViewState Begin****
+[2024-02-08 19:56:58]	,                        SerialEvent::PreTurnBegin, 141.98 ms
+[2024-02-08 19:56:58]	,----- FRAME: 6435 time: 20.70ms Moving avg: 3.95ms 283 frames since last 
+[2024-02-08 19:57:02]	,UIManager_ProcessInput, 74.77 ms
+[2024-02-08 19:57:02]	,----- FRAME: 6944 time: 5.99ms Moving avg: 6.59ms 510 frames since last 
+[2024-02-08 19:57:05]	,UIManager_ProcessInput, 17.34 ms
+[2024-02-08 19:57:05]	,----- FRAME: 7376 time: 3.41ms Moving avg: 6.55ms 433 frames since last 
+[2024-02-08 19:57:05]	,        UIManager_ProcessInput, 57.53 ms
+[2024-02-08 19:57:05]	,----- FRAME: 7397 time: 3.11ms Moving avg: 6.60ms 22 frames since last 
+[2024-02-08 19:57:06]	,UIManager_ProcessInput, 23.81 ms
+[2024-02-08 19:57:06]	,----- FRAME: 7413 time: 3.33ms Moving avg: 6.65ms 17 frames since last 
+[2024-02-08 19:57:06]	,        UIManager_ProcessInput, 26.49 ms
+[2024-02-08 19:57:06]	,----- FRAME: 7433 time: 3.03ms Moving avg: 6.70ms 21 frames since last 
+[2024-02-08 19:57:06]	,UIManager_ProcessInput, 10.90 ms
+[2024-02-08 19:57:06]	,----- FRAME: 7473 time: 3.39ms Moving avg: 6.62ms 41 frames since last 
+[2024-02-08 19:57:07]	,UIManager_ProcessInput, 227.44 ms
+[2024-02-08 19:57:07]	,----- FRAME: 7519 time: 3.67ms Moving avg: 6.77ms 47 frames since last 
+[2024-02-08 19:57:07]	,UIManager_ProcessInput, 165.22 ms
+[2024-02-08 19:57:07]	,----- FRAME: 7608 time: 13.71ms Moving avg: 6.96ms 90 frames since last 
+[2024-02-08 19:58:16]	,LuaContext::WorldViewIconsManager, 277.73 ms
+[2024-02-08 19:58:16]	,SerialEvent::UnitSelectionChanged, 279.38 ms
+[2024-02-08 19:58:16]	,Civ6App_PublishSerialEvents, 279.39 ms
+[2024-02-08 19:58:16]	,Civ6App_PublishEvents, 279.43 ms
+[2024-02-08 19:58:16]	,----- FRAME: 17186 time: 283.42ms Moving avg: 10.92ms 9579 frames since last 
+[2024-02-08 19:58:18]	,LocalMachineEvent::InputActionStarted, 13.50 ms
+[2024-02-08 19:58:18]	,----- FRAME: 17490 time: 16.24ms Moving avg: 7.04ms 305 frames since last 
+[2024-02-08 19:58:31]	,LuaContext::WorldViewIconsManager, 20.67 ms
+[2024-02-08 19:58:31]	,GameCoreEvent::ResourceVisibilityChanged, 20.74 ms
+[2024-02-08 19:58:31]	,----- FRAME: 19457 time: 29.01ms Moving avg: 7.05ms 1968 frames since last 
+[2024-02-08 19:58:32]	,SerialEvent::PlayCameraAnimationAtHex, 6.33 ms
+[2024-02-08 19:58:32]	,----- FRAME: 19475 time: 11.41ms Moving avg: 7.17ms 19 frames since last 
+[2024-02-08 19:58:36]	,LuaContext::NotificationPanel, 10.48 ms
+[2024-02-08 19:58:36]	,GameCoreEvent::NotificationAdded, 10.64 ms
+[2024-02-08 19:58:36]	,LuaContext::WorldViewIconsManager, 153.36 ms
+[2024-02-08 19:58:36]	,GameCoreEvent::PlotVisibilityChanged, 153.53 ms
+[2024-02-08 19:58:36]	,Civ6App_PublishGameCoreEvents, 176.22 ms
+[2024-02-08 19:58:36]	,Civ6App_PublishEvents, 181.40 ms
+[2024-02-08 19:58:36]	,----- FRAME: 20039 time: 221.50ms Moving avg: 10.20ms 565 frames since last 
+[2024-02-08 19:58:40]	,LuaContext::BoostUnlockedPopup, 10.60 ms
+[2024-02-08 19:58:40]	,SerialEvent::UIIdle, 10.66 ms
+[2024-02-08 19:58:40]	,----- FRAME: 20609 time: 13.53ms Moving avg: 6.68ms 571 frames since last 
+[2024-02-08 19:58:43]	,LuaContext::UnitPanel, 34.72 ms
+[2024-02-08 19:58:43]	,SerialEvent::UnitSelectionChanged, 35.26 ms
+[2024-02-08 19:58:43]	,----- FRAME: 21023 time: 38.81ms Moving avg: 6.88ms 415 frames since last 
+[2024-02-08 19:58:52]	,LuaContext::CityBannerManager, 43.55 ms
+[2024-02-08 19:58:52]	,GameCoreEvent::CityAddedToMap, 44.14 ms
+[2024-02-08 19:58:52]	,LuaContext::CityBannerManager, 13.14 ms
+[2024-02-08 19:58:52]	,GameCoreEvent::DistrictAddedToMap, 13.76 ms
+[2024-02-08 19:58:52]	,Civ6App_PublishGameCoreEvents, 63.18 ms
+[2024-02-08 19:58:52]	,----- FRAME: 22371 time: 69.40ms Moving avg: 7.57ms 1349 frames since last 
+[2024-02-08 19:58:52]	,                LuaContext::CityBannerManager, 7.72 ms
+[2024-02-08 19:58:52]	,            GameCoreEvent::CityAddedToMap, 7.82 ms
+[2024-02-08 19:58:52]	,----- FRAME: 22389 time: 17.67ms Moving avg: 8.03ms 19 frames since last 
+[2024-02-08 19:58:52]	,SerialEvent::PreTurnBegin, 86.07 ms
+[2024-02-08 19:58:52]	,----- FRAME: 22412 time: 7.96ms Moving avg: 7.79ms 24 frames since last 
+[2024-02-08 19:58:52]	,            GameCoreEvent::PlotYieldChanged, 8.43 ms
+[2024-02-08 19:58:52]	,----- FRAME: 22415 time: 25.98ms Moving avg: 8.06ms 4 frames since last 
+[2024-02-08 20:01:08]	,WorldView_Update_JobSetWait, 18.60 ms
+[2024-02-08 20:01:08]	,----- FRAME: 41619 time: 53.41ms Moving avg: 10.39ms 19205 frames since last 
+[2024-02-08 20:05:56]	,UIManager_ProcessInput, 16.45 ms
+[2024-02-08 20:05:56]	,----- FRAME: 82934 time: 8.76ms Moving avg: 6.84ms 41316 frames since last 
+[2024-02-08 20:05:58]	,        UIManager_ProcessInput, 52.69 ms
+[2024-02-08 20:05:58]	, ****GameViewState End****
+[2024-02-08 20:06:03]	,        Civ6App_HandleGameStateSwap, 5581.12 ms
+[2024-02-08 20:06:03]	,----- FRAME: 83209 time: 5584.88ms Moving avg: 94.03ms 276 frames since last 

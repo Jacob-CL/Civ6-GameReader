@@ -1,0 +1,2660 @@
+[2280453.868] Initializing Modding Framework.
+[2280453.869] Connected to modding database!
+[2280453.869] Ensuring Foreign Key support is enabled and set to initially deferred.
+[2280453.869] Checking database version...
+[2280453.869] Modding database is up-to-date!
+[2280453.869] Initializing Services...
+[2280453.869] Component Discovery Service initialized.
+[2280453.871] File Service initialized.
+[2280453.871] Localization Service initialized.
+[2280453.871] Mod Association Service initialized
+[2280453.871] Mod Discovery Service initialized.
+[2280453.871] Mod Loader Service initialized.
+[2280453.871] Mod Selection Service missing. Skipping.
+[2280453.871] Ownership Service initialized.
+[2280453.871] Properties Service initialized.
+[2280453.871] Setting Discovery Service initialized.
+[2280453.872] Subscription Service - Detected 4 subscriptions
+[2280453.872] Subscription Service - Subscription 2460661464 - Installed? 1, Downloading? 0, DownloadPending? 0
+[2280453.872] Subscription Service - Subscription 2428969051 - Installed? 1, Downloading? 0, DownloadPending? 0
+[2280453.872] Subscription Service - Subscription 2542898147 - Installed? 1, Downloading? 0, DownloadPending? 0
+[2280453.872] Subscription Service - Subscription 872457850 - Installed? 1, Downloading? 0, DownloadPending? 0
+[2280453.873] Subscription Service initialized.
+[2280453.873] User Data Service missing. Skipping.
+[2280453.873] Services initialized!
+[2280453.873] Modding Framework is initialized.
+[2280453.873] Initializing Modding Framework took - 4ms.
+[2280453.884] Verifying enabled mods can coexist.
+[2280453.895] Discovering new mods...
+[2280455.369] Finished Discovery.
+[2280455.369] Discovery Summary:
+[2280455.369] Deleted 0 mods.
+[2280455.369] Discovered 0 mods.
+[2280455.369] Discovering Mods took - 1474ms.
+[2280455.387] Bootstrapping game content
+[2280455.387] Loading Vanilla DLL.
+[2280455.570] Building gameplay database.
+[2280456.664] Updating gameplay database with embedded GameCore data.
+[2280456.727] Updated gameplay database with GameCore data.
+[2280456.741] Initializing Vanilla DLL.
+[2280456.755] Instantiate GameCore UI Manager.
+[2280456.755] Saving a debug version of the gameplay database.
+[2280456.800] Successfully bootstrapped game content.
+[2280456.807] Set Default Enabled Mods
+[2280456.807] Game Mode: Single-Player
+[2280456.822] Configuring game content
+[2280456.822] Enabled Mods (in no particular order):
+[2280456.822] No active mods.
+[2280456.822] Target Mods (in no particular order):
+[2280456.822] 02A8BDDE-67EA-4D38-9540-26E685E3156E (LOC_AZTEC_MONTEZUMA_MOD_TITLE)
+[2280456.823] 05698E46-1032-43C7-A40C-FA3D02858D2A (LOC_MOD_VIKINGS_SCENARIO_TITLE)
+[2280456.823] 113D9459-0A3B-4FCB-A49C-483F40303575 (Teddy Roosevelt Persona Pack)
+[2280456.823] 129b79ff-afee-4dff-90db-baee14d9564a (Starting Builder)
+[2280456.823] 19ED1A36-D744-4A58-8F8B-0376C2BA86E5 (Barbarian Clans Game Mode)
+[2280456.823] 19d1c7ec-54de-11ea-a2e3-2e728ce88125 (Tech and Civic Shuffle Game Mode)
+[2280456.824] 1B28771A-C749-434B-9053-D1380C553DE9 (LOC_EXPANSION1_MOD_TITLE)
+[2280456.824] 1B394FE9-23DC-4868-8F0A-5220CB8FB427 (Ethiopia Pack)
+[2280456.824] 1F367231-A040-4793-BDBB-088816853683 (LOC_INDONESIA_KHMER_MOD_TITLE)
+[2280456.825] 249D9276-0832-48E4-B370-14531FA4E33C (LOC_GREAT_BUILDERS_MOD_TITLE)
+[2280456.825] 258EF3CA-890B-4863-8A52-982822EFF7BD (LOC_RULERS_OF_ENGLAND_MOD_TITLE)
+[2280456.825] 2F3A65C2-0883-4BF6-8C70-EDA688C66F3C (LOC_MOD_ALEXANDER_SCENARIO_TITLE)
+[2280456.826] 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (LOC_MOD_VIKINGSLANDMARKS_TITLE)
+[2280456.826] 3809975F-263F-40A2-A747-8BFB171D821A (LOC_POLAND_JADWIGA_MOD_TITLE)
+[2280456.826] 4873eb62-8ccc-4574-b784-dda455e74e68 (LOC_EXPANSION2_MOD_TITLE)
+[2280456.827] 4922ba47-61e1-4b15-9281-db996b14522d (Sukritact's Oceans)
+[2280456.827] 4ecfcc62-5471-4435-b295-590df213e8d8 (Detailed Map Tacks)
+[2280456.827] 5B0445C9-1376-45AD-9B51-C96A83A8F17D (LOC_WARMACHINE_MOD_TITLE)
+[2280456.827] 5aceed03-8639-4a81-8cbf-03f54d543502 (Quick Deals)
+[2280456.828] 643EA320-8E1A-4CF1-A01C-00D88DDD131A (LOC_NUBIA_MOD_TITLE)
+[2280456.828] 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (LOC_COLDWAR_MOD_TITLE)
+[2280456.829] 7619F77B-BAA7-4912-AA6E-45C124E6ECFD (LOC_MOD_NUBIA_SCENARIO_TITLE)
+[2280456.829] 7A66DB58-B354-4061-8C80-95B638DD6F6C (LOC_GREAT_NEGOTIATORS_MOD_TITLE)
+[2280456.830] 7D27831B-BAA6-4A8B-A39C-94243BAD3F47 (LOC_RULERS_OF_CHINA_MOD_TITLE)
+[2280456.830] 82AE6F24-930F-4640-833C-FCDFD4845757 (LOC_RULERS_OF_THE_SAHARA_MOD_TITLE)
+[2280456.830] 8424840C-92EF-4426-A9B4-B4E0CB818049 (Babylon Pack)
+[2280456.830] 8550ED6C-E370-426C-80CD-AB4B46B201DD (LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE)
+[2280456.830] 9DE86512-DE1A-400D-8C0A-AB46EBBF76B9 (Maya and Gran Colombia Pack)
+[2280456.830] A1100FC4-70F2-4129-AC27-2A65A685ED08 (Byzantium and Gaul Pack)
+[2280456.830] A3F42CD4-6C3E-4F5A-BC81-BE29E0C0B87C (Vietnam and Kublai Khan Pack)
+[2280456.830] A55FAFB4-9070-4597-9453-B28A99910CDA (Multiplayer Scenario: Pirates)
+[2280456.831] C1F775D8-59B5-401B-B86D-78FAF3446EC7 (LOC_BLACKDEATH_MOD_TITLE)
+[2280456.832] CD953AD5-2869-4654-91EC-E48D118EF3F3 (LOC_MOD_POLAND_SCENARIO_TITLE)
+[2280456.832] CE5876CD-6900-46D1-9C9C-8DBA1F28872E (Catherine de Medici Persona Pack)
+[2280456.832] D70C8F1F-3954-460F-A9D9-09498BF773C9 (LOC_MOD_AUSTRALIA_SCENARIO_TITLE)
+[2280456.832] E2749E9A-8056-45CD-901B-C368C8E83DEB (LOC_MACEDONIA_PERSIA_MOD_TITLE)
+[2280456.833] E3F53C61-371C-440B-96CE-077D318B36C0 (LOC_AUSTRALIA_MOD_TITLE)
+[2280456.833] F264EE10-F21B-4A9A-BBCD-D534E9843E90 (LOC_CIV_ROYALE_MOD_TITLE)
+[2280456.833] F48213B4-56F5-45DD-92F7-AC78E49BDA49 (LOC_GREAT_WARLORDS_MOD_TITLE)
+[2280456.834] F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (LOC_ANCIENT_RIVALS_MOD_TITLE)
+[2280456.834] FFDF4E79-DEE2-47BB-919B-F5739106627A (Portugal Pack)
+[2280456.834] {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (LOC_RELIGIOUS_COMBAT_MOD_TITLE)
+[2280456.835] {5E991A08-08FD-4774-968B-A85377ECF60D} (LOC_NAPOLEON_MOD_TITLE)
+[2280456.867] Warning: The activation order of mods is not the same as it was with a prior sorting algorithm.
+[2280456.912] Warning: The activation order of mods is not the same as it was with a prior sorting algorithm.
+[2280456.919] Game configuration needs to change to match target config.
+[2280456.919] Performing pre-configure processing.
+[2280456.919] Rebuilding configuration database.
+[2280456.919] Localization database unchanged, no rollback needed.
+[2280456.919] Configuration database unchanged, no rollback needed.
+[2280456.919] ConfigureContent - Importing implicit files, pre settings
+[2280457.257] Applying settings.
+[2280457.257] Modding Framework - Apply Settings
+[2280457.257] UpdateColors - Loading Data/Aztec_Montezuma_Colors.xml
+[2280457.258] ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[2280457.273] ModdingUpdateConfigurationDatabase - Loading Data/Indonesia_Khmer_ConfigData.xml
+[2280457.285] UISettingHandler - Loading DLC6.dep
+[2280457.307] UpdateColors - Loading Data/Indonesia_Khmer_Colors.xml
+[2280457.307] Creating database save point.
+[2280457.307] LocalizedText - Loading Text/en_US/Indonesia_Khmer_ConfigText.xml
+[2280457.318] LocalizedText - Loading Text/Indonesia_Khmer_Translations_ConfigText.xml
+[2280457.337] LocalizedText - Loading Text/Indonesia_Khmer_Translations_ConfigText_China.xml
+[2280457.338] Warning: Unable to load ../../../DLC/Indonesia_Khmer/Text/Indonesia_Khmer_Translations_ConfigText_China.xml
+[2280457.338] Warning: LocalizedText - Failed loading XML.
+[2280457.339] Successfully released save point.
+[2280457.339] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Buildings.xml
+[2280457.339] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Civilizations.xml
+[2280457.340] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Features.xml
+[2280457.340] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Leaders.xml
+[2280457.340] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_UnitActions.xml
+[2280457.340] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_UnitPortraits.xml
+[2280457.340] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Units.xml
+[2280457.340] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Wonders.xml
+[2280457.341] UISettingHandler - Loading VikingsLandmarks.dep
+[2280457.348] UpdateColors - Loading Data/VikingsLandmarks_Colors.xml
+[2280457.349] ModdingUpdateConfigurationDatabase - Loading Data/VikingsLandmarks_Config.xml
+[2280457.357] UpdateIcons - Loading Data/VikingsLandmarks_Icons_Civilizations.xml
+[2280457.357] UpdateIcons - Loading Data/VikingsLandmarks_Icons_Features.xml
+[2280457.358] Creating database save point.
+[2280457.358] LocalizedText - Loading Text/en_US/VikingsLandmarks_ConfigText.xml
+[2280457.364] LocalizedText - Loading Text/VikingsLandmarks_Translations_ConfigText.xml
+[2280457.370] LocalizedText - Loading Text/VikingsLandmarks_Translations_ConfigText_China.xml
+[2280457.370] Warning: Unable to load ../../../DLC/VikingsLandmarks/Text/VikingsLandmarks_Translations_ConfigText_China.xml
+[2280457.370] Warning: LocalizedText - Failed loading XML.
+[2280457.370] Successfully released save point.
+[2280457.371] UISettingHandler - Loading DLC2.dep
+[2280457.390] UpdateColors - Loading Data/Poland_Jadwiga_Colors.xml
+[2280457.390] ModdingUpdateConfigurationDatabase - Loading Data/Poland_Jadwiga_ConfigData.xml
+[2280457.391] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Buildings.xml
+[2280457.391] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Civilizations.xml
+[2280457.392] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Leaders.xml
+[2280457.392] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Units.xml
+[2280457.392] Creating database save point.
+[2280457.392] LocalizedText - Loading Text/Poland_Translations_ConfigText.xml
+[2280457.398] LocalizedText - Loading Text/en_US/Poland_Jadwiga_ConfigText.xml
+[2280457.405] Successfully released save point.
+[2280457.405] ModdingUpdateConfigurationDatabase - Loading config/dmt_config.xml
+[2280457.415] Creating database save point.
+[2280457.415] LocalizedText - Loading config/en_us/dmt_options_text.xml
+[2280457.415] LocalizedText - Loading config/dmt_options_translations_text.xml
+[2280457.423] Successfully released save point.
+[2280457.423] ModdingUpdateConfigurationDatabase - Loading config/qd_config.xml
+[2280457.424] Creating database save point.
+[2280457.424] LocalizedText - Loading config/en_us/qd_options_text.xml
+[2280457.424] Successfully released save point.
+[2280457.424] ModdingUpdateConfigurationDatabase - Loading Data/Nubia_ConfigData.xml
+[2280457.434] UISettingHandler - Loading DLC5.dep
+[2280457.442] UpdateColors - Loading Data/Nubia_Colors.xml
+[2280457.443] UpdateColors - Loading Data/Nubia_PlayerColors.xml
+[2280457.443] Creating database save point.
+[2280457.443] LocalizedText - Loading Text/en_US/Nubia_ConfigText.xml
+[2280457.455] LocalizedText - Loading Text/Nubia_Amanitore_Translations_ConfigText.xml
+[2280457.469] LocalizedText - Loading Text/Nubia_Amanitore_Translations_ConfigText_China.xml
+[2280457.470] Warning: Unable to load ../../../DLC/Nubia_Amanitore/Text/Nubia_Amanitore_Translations_ConfigText_China.xml
+[2280457.470] Warning: LocalizedText - Failed loading XML.
+[2280457.470] Successfully released save point.
+[2280457.470] UpdateIcons - Loading Data/Nubia_Icons_Civilizations.xml
+[2280457.470] UpdateIcons - Loading Data/Nubia_Icons_Leaders.xml
+[2280457.470] UpdateIcons - Loading Data/Nubia_Icons_UnitActions.xml
+[2280457.470] UpdateIcons - Loading Data/Nubia_Icons_UnitPortraits.xml
+[2280457.470] UpdateIcons - Loading Data/Nubia_Icons_Units.xml
+[2280457.470] ModdingUpdateConfigurationDatabase - Loading ColdWarScenario_Config.xml
+[2280457.482] UISettingHandler - Loading PiratesScenario.dep
+[2280457.491] ModdingUpdateConfigurationDatabase - Loading Data/PiratesScenario_Config.xml
+[2280457.504] UpdateColors - Loading Data/PiratesScenario_PlayerColors.xml
+[2280457.505] UpdateIcons - Loading Data/PiratesScenario_Icons_Civilizations.xml
+[2280457.505] UpdateIcons - Loading Data/PiratesScenario_Icons_Leaders.xml
+[2280457.505] Creating database save point.
+[2280457.505] LocalizedText - Loading Text/en_US/PiratesScenario_ConfigText.xml
+[2280457.513] LocalizedText - Loading Text/en_US/PiratesScenario_PackageText.xml
+[2280457.524] LocalizedText - Loading Text/PiratesScenario_Translations_ConfigText.xml
+[2280457.541] LocalizedText - Loading Text/PiratesScenario_Translations_PackageText.xml
+[2280457.554] Successfully released save point.
+[2280457.555] UISettingHandler - Loading DLC4.dep
+[2280457.565] ModdingUpdateConfigurationDatabase - Loading Data/Macedonia_Persia_ConfigData.xml
+[2280457.566] UpdateColors - Loading Data/Macedonia_Persia_Colors.xml
+[2280457.566] UpdateColors - Loading Data/Macedonia_Persia_PlayerColors.xml
+[2280457.566] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Buildings.xml
+[2280457.567] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Civilizations.xml
+[2280457.567] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Leaders.xml
+[2280457.567] UpdateIcons - Loading Data/Macedonia_Persia_Icons_UnitActions.xml
+[2280457.567] UpdateIcons - Loading Data/Macedonia_Persia_Icons_UnitPortraits.xml
+[2280457.567] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Units.xml
+[2280457.567] Creating database save point.
+[2280457.567] LocalizedText - Loading Text/en_US/Macedonia_Persia_ConfigText.xml
+[2280457.578] LocalizedText - Loading Text/Macedonia_Persia_Translations_ConfigText.xml
+[2280457.591] LocalizedText - Loading Text/Macedonia_Persia_Translations_ConfigText_China.xml
+[2280457.592] Warning: Unable to load ../../../DLC/Macedonia_Persia/Text/Macedonia_Persia_Translations_ConfigText_China.xml
+[2280457.592] Warning: LocalizedText - Failed loading XML.
+[2280457.593] Successfully released save point.
+[2280457.593] ModdingUpdateConfigurationDatabase - Loading Data/Australia_Config.xml
+[2280457.598] UpdateColors - Loading Data/Australia_Colors.xml
+[2280457.599] UpdateIcons - Loading Data/Australia_Icons_Civilizations.xml
+[2280457.599] UpdateIcons - Loading Data/Australia_Icons_Features.xml
+[2280457.599] UpdateIcons - Loading Data/Australia_Icons_Leaders.xml
+[2280457.599] UpdateIcons - Loading Data/Australia_Icons_UnitActions.xml
+[2280457.599] UpdateIcons - Loading Data/Australia_Icons_UnitPortraits.xml
+[2280457.599] UpdateIcons - Loading Data/Australia_Icons_Units.xml
+[2280457.599] UISettingHandler - Loading DLC3.dep
+[2280457.601] Creating database save point.
+[2280457.601] LocalizedText - Loading Text/en_US/Australia_ConfigText.xml
+[2280457.617] LocalizedText - Loading Text/Australia_Translations_ConfigText.xml
+[2280457.625] LocalizedText - Loading Text/Australia_Translations_ConfigText_China.xml
+[2280457.625] Warning: Unable to load ../../../DLC/Australia/Text/Australia_Translations_ConfigText_China.xml
+[2280457.625] Warning: LocalizedText - Failed loading XML.
+[2280457.626] Successfully released save point.
+[2280457.626] UISettingHandler - Loading CivRoyaleScenario.dep
+[2280457.657] ModdingUpdateConfigurationDatabase - Loading Data/CivRoyaleScenario_Config.xml
+[2280457.669] UpdateColors - Loading Data/CivRoyaleScenario_PlayerColors.xml
+[2280457.669] UpdateIcons - Loading Data/CivRoyaleScenario_Icons_Civilizations.xml
+[2280457.669] UpdateIcons - Loading Data/CivRoyaleScenario_Icons_Leaders.xml
+[2280457.670] UpdateIcons - Loading Data/CivRoyaleScenario_Icons_UnitActions.xml
+[2280457.670] UpdateIcons - Loading Data/CivRoyaleScenario_Icons_UnitPortraits.xml
+[2280457.670] UpdateIcons - Loading Data/CivRoyaleScenario_Icons_Units.xml
+[2280457.670] Creating database save point.
+[2280457.670] LocalizedText - Loading Text/en_US/CivRoyaleScenario_ConfigText.xml
+[2280457.672] LocalizedText - Loading Text/CivRoyaleScenario_Translations_ConfigText.xml
+[2280457.695] LocalizedText - Loading Text/CivRoyaleScenario_Translations_ConfigText_China.xml
+[2280457.696] Warning: Unable to load ../../../DLC/CivRoyaleScenario/Text/CivRoyaleScenario_Translations_ConfigText_China.xml
+[2280457.696] Warning: LocalizedText - Failed loading XML.
+[2280457.698] Successfully released save point.
+[2280457.699] ModdingUpdateConfigurationDatabase - Loading AncientRivalsScenario_Config.xml
+[2280457.711] ModdingUpdateConfigurationDatabase - Loading ReligiousCombatScenario_Config.xml
+[2280457.724] ModdingUpdateConfigurationDatabase - Loading NapoleonScenario_Config.xml
+[2280457.729] ModdingUpdateConfigurationDatabase - Loading Data/Indonesia_KhmerScenario_Config.xml
+[2280457.737] UISettingHandler - Loading Indonesia_KhmerScenario.dep
+[2280457.748] UpdateColors - Loading Data/Indonesia_KhmerScenario_Colors.xml
+[2280457.749] UpdateColors - Loading Data/Indonesia_KhmerScenario_PlayerColors.xml
+[2280457.749] UpdateIcons - Loading Data/Indonesia_KhmerScenario_Icons_Civilizations.xml
+[2280457.749] UpdateIcons - Loading Data/Indonesia_KhmerScenario_Icons_Leaders.xml
+[2280457.750] Creating database save point.
+[2280457.750] LocalizedText - Loading Text/en_US/Indonesia_KhmerScenario_ConfigText.xml
+[2280457.764] LocalizedText - Loading Text/Indonesia_KhmerScenario_Translations_ConfigText.xml
+[2280457.783] LocalizedText - Loading Text/Indonesia_KhmerScenario_Translations_ConfigText_China.xml
+[2280457.783] Warning: Unable to load ../../../DLC/Indonesia_KhmerScenario/Text/Indonesia_KhmerScenario_Translations_ConfigText_China.xml
+[2280457.783] Warning: LocalizedText - Failed loading XML.
+[2280457.785] Successfully released save point.
+[2280457.785] UpdateColors - Loading Data/VikingsScenario_Colors.xml
+[2280457.786] UpdateColors - Loading Data/VikingsScenario_PlayerColors_Config.xml
+[2280457.786] UpdateIcons - Loading Data/VikingsScenario_Icons_Config.xml
+[2280457.786] ModdingUpdateConfigurationDatabase - Loading Data/VikingsScenario_Config.xml
+[2280457.803] Creating database save point.
+[2280457.803] LocalizedText - Loading Text/VikingsScenario_Translations_ConfigText.xml
+[2280457.825] LocalizedText - Loading Text/VikingsScenario_Translations_ConfigText_China.xml
+[2280457.825] Warning: Unable to load ../../../DLC/VikingsScenario/Text/VikingsScenario_Translations_ConfigText_China.xml
+[2280457.825] Warning: LocalizedText - Failed loading XML.
+[2280457.825] LocalizedText - Loading Text/en_US/VikingsScenario_ConfigText.xml
+[2280457.840] Successfully released save point.
+[2280457.840] UISettingHandler - Loading VikingScenario.dep
+[2280457.863] UpdateIcons - Loading Data/PolandScenario_Icons_Config.xml
+[2280457.863] UISettingHandler - Loading PolandScenario.dep
+[2280457.895] UpdateColors - Loading Data/PolandScenario_Colors.xml
+[2280457.895] UpdateColors - Loading Data/PolandScenario_PlayerColors.xml
+[2280457.896] ModdingUpdateConfigurationDatabase - Loading Data/PolandScenario_Config.xml
+[2280457.908] Creating database save point.
+[2280457.909] LocalizedText - Loading Text/PolandScenario_Translations_ConfigText.xml
+[2280457.919] LocalizedText - Loading Text/PolandScenario_Translations_ConfigText_China.xml
+[2280457.920] Warning: Unable to load ../../../DLC/PolandScenario/Text/PolandScenario_Translations_ConfigText_China.xml
+[2280457.920] Warning: LocalizedText - Failed loading XML.
+[2280457.920] LocalizedText - Loading Text/en_US/PolandScenario_ConfigText.xml
+[2280457.932] Successfully released save point.
+[2280457.932] ModdingUpdateConfigurationDatabase - Loading Data/NubiaScenario_Config.xml
+[2280457.943] UISettingHandler - Loading NubiaScenario.dep
+[2280457.969] UpdateColors - Loading Data/NubiaScenario_Colors.xml
+[2280457.969] UpdateColors - Loading Data/NubiaScenario_PlayerColors.xml
+[2280457.969] UpdateIcons - Loading Data/NubiaScenario_Icons_Config.xml
+[2280457.970] Creating database save point.
+[2280457.970] LocalizedText - Loading Text/en_US/NubiaScenario_ConfigText.xml
+[2280457.980] LocalizedText - Loading Text/NubiaScenario_Translations_ConfigText.xml
+[2280457.998] LocalizedText - Loading Text/NubiaScenario_Translations_ConfigText_China.xml
+[2280457.998] Warning: Unable to load ../../../DLC/NubiaScenario/Text/NubiaScenario_Translations_ConfigText_China.xml
+[2280457.998] Warning: LocalizedText - Failed loading XML.
+[2280457.998] Successfully released save point.
+[2280457.998] UISettingHandler - Loading AlexanderScenario.dep
+[2280458.008] ModdingUpdateConfigurationDatabase - Loading Data/AlexanderScenario_Config.xml
+[2280458.019] Creating database save point.
+[2280458.019] LocalizedText - Loading Text/en_US/AlexanderScenario_ConfigText.xml
+[2280458.032] LocalizedText - Loading Text/AlexanderScenario_Translations_ConfigText.xml
+[2280458.046] LocalizedText - Loading Text/AlexanderScenario_Translations_ConfigText_China.xml
+[2280458.047] Warning: Unable to load ../../../DLC/AlexanderScenario/Text/AlexanderScenario_Translations_ConfigText_China.xml
+[2280458.047] Warning: LocalizedText - Failed loading XML.
+[2280458.047] Successfully released save point.
+[2280458.047] UISettingHandler - Loading Expansion1.dep
+[2280458.074] UpdateColors - Loading Data/Expansion1_PlayerColors.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_Buildings.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_CityStates.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_Civilizations.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_Districts.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_Features.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_FontIcons.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_Improvements.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_Leaders.xml
+[2280458.075] UpdateIcons - Loading Data/Expansion1_Icons_UnitPortraits.xml
+[2280458.076] UpdateIcons - Loading Data/Expansion1_Icons_Units.xml
+[2280458.076] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_Config.xml
+[2280458.090] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_EarthMaps.xml
+[2280458.099] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_Players.xml
+[2280458.105] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_StandardMaps.xml
+[2280458.115] Creating database save point.
+[2280458.115] LocalizedText - Loading Text/en_US/Expansion1_ConfigText.xml
+[2280458.128] LocalizedText - Loading Text/en_US/Expansion1_HallofFame_Text.xml
+[2280458.128] LocalizedText - Loading Text/Expansion1_Translations_ConfigText.xml
+[2280458.159] LocalizedText - Loading Text/Expansion1_Translations_ConfigText_China.xml
+[2280458.160] Warning: Unable to load ../../../DLC/Expansion1/Text/Expansion1_Translations_ConfigText_China.xml
+[2280458.160] Warning: LocalizedText - Failed loading XML.
+[2280458.165] Successfully released save point.
+[2280458.165] UpdateColors - Loading Data/AustraliaScenario_Colors.xml
+[2280458.166] UpdateColors - Loading Data/AustraliaScenario_PlayerColors.xml
+[2280458.166] UpdateIcons - Loading Data/AustraliaScenario_Icons_Civilizations.xml
+[2280458.166] UpdateIcons - Loading Data/AustraliaScenario_Icons_Leaders.xml
+[2280458.166] UISettingHandler - Loading AustraliaScenario.dep
+[2280458.174] ModdingUpdateConfigurationDatabase - Loading Data/AustraliaScenario_Config.xml
+[2280458.182] Creating database save point.
+[2280458.182] LocalizedText - Loading Text/en_US/AustraliaScenario_ConfigText.xml
+[2280458.187] LocalizedText - Loading Text/AustraliaScenario_Translations_ConfigText.xml
+[2280458.199] LocalizedText - Loading Text/AustraliaScenario_Translations_ConfigText_China.xml
+[2280458.199] Warning: Unable to load ../../../DLC/AustraliaScenario/Text/AustraliaScenario_Translations_ConfigText_China.xml
+[2280458.199] Warning: LocalizedText - Failed loading XML.
+[2280458.200] Successfully released save point.
+[2280458.201] UISettingHandler - Loading Expansion2.dep
+[2280458.232] Creating database save point.
+[2280458.232] LocalizedText - Loading Text/en_US/Expansion1_HallofFame_Text.xml
+[2280458.232] LocalizedText - Loading Text/en_US/Expansion2_ConfigText.xml
+[2280458.246] LocalizedText - Loading Text/en_US/Expansion2_HallofFame_Text.xml
+[2280458.254] LocalizedText - Loading Text/Expansion2_Translations_ConfigText.xml
+[2280458.296] LocalizedText - Loading Text/Expansion2_Translations_ConfigText_China.xml
+[2280458.296] Warning: Unable to load ../../../DLC/Expansion2/Text/Expansion2_Translations_ConfigText_China.xml
+[2280458.296] Warning: LocalizedText - Failed loading XML.
+[2280458.304] Successfully released save point.
+[2280458.304] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_Config.xml
+[2280458.310] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_EarthMaps.xml
+[2280458.324] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_Players.xml
+[2280458.329] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_StandardMaps.xml
+[2280458.329] UpdateColors - Loading Data/Expansion2_PlayerColors.xml
+[2280458.330] UpdateIcons - Loading Data/Expansion1_Icons_FontIcons.xml
+[2280458.330] UpdateIcons - Loading Data/Expansion2_Icons_Beliefs.xml
+[2280458.330] UpdateIcons - Loading Data/Expansion2_Icons_Buildings.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_CityStates.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_Civilizations.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_DistrictBuildings.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_Districts.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_EnvironmentalEffects.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_Features.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_FontIcons.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_Leaders.xml
+[2280458.331] UpdateIcons - Loading Data/Expansion2_Icons_Stats.xml
+[2280458.332] UpdateIcons - Loading Data/Expansion2_Icons_UnitActions.xml
+[2280458.332] UpdateIcons - Loading Data/Expansion2_Icons_UnitPortraits.xml
+[2280458.332] UpdateIcons - Loading Data/Expansion2_Icons_Units.xml
+[2280458.332] UpdateIcons - Loading Data/Expansion2_Icons_Victories.xml
+[2280458.332] UpdateIcons - Loading Data/Expansion2_Icons_Yields.xml
+[2280458.333] UISettingHandler - Loading TeddyRoosevelt.dep
+[2280458.343] UpdateColors - Loading Data/TeddyRoosevelt_Colors.xml
+[2280458.343] ModdingUpdateConfigurationDatabase - Loading Data/TeddyRoosevelt_ConfigData.xml
+[2280458.344] UpdateIcons - Loading Data/TeddyRoosevelt_Icons.xml
+[2280458.345] Creating database save point.
+[2280458.345] LocalizedText - Loading Text/en_US/TeddyRoosevelt_ConfigText.xml
+[2280458.345] LocalizedText - Loading Text/en_US/TeddyRoosevelt_PackageText.xml
+[2280458.346] LocalizedText - Loading Text/TeddyRoosevelt_Translations_ConfigText.xml
+[2280458.355] LocalizedText - Loading Text/TeddyRoosevelt_Translations_PackageText.xml
+[2280458.368] Successfully released save point.
+[2280458.368] UISettingHandler - Loading BarbarianClansMode.dep
+[2280458.369] ModdingUpdateConfigurationDatabase - Loading Data/BarbarianClansMode_ConfigData.xml
+[2280458.379] UpdateIcons - Loading Data/BarbarianClansMode_Icons.xml
+[2280458.379] UpdateIcons - Loading Data/BarbarianClansMode_Icons_GameModes.xml
+[2280458.379] Creating database save point.
+[2280458.379] LocalizedText - Loading Text/en_US/BarbarianClansMode_ConfigText.xml
+[2280458.381] LocalizedText - Loading Text/en_US/BarbarianClansMode_PackageText.xml
+[2280458.381] LocalizedText - Loading Text/BarbarianClansMode_Translations_ConfigText.xml
+[2280458.388] LocalizedText - Loading Text/BarbarianClansMode_Translations_PackageText.xml
+[2280458.389] Successfully released save point.
+[2280458.389] UISettingHandler - Loading TreeRandomizer.dep
+[2280458.402] ModdingUpdateConfigurationDatabase - Loading Data/TreeRandomizer_ConfigData.xml
+[2280458.403] UpdateIcons - Loading Data/TreeRandomizer_Icons_GameModes.xml
+[2280458.403] Creating database save point.
+[2280458.403] LocalizedText - Loading Text/en_US/TreeRandomizer_ConfigText.xml
+[2280458.404] LocalizedText - Loading Text/en_US/TreeRandomizer_PackageText.xml
+[2280458.404] LocalizedText - Loading Text/TreeRandomizer_Translations_ConfigText.xml
+[2280458.409] LocalizedText - Loading Text/TreeRandomizer_Translations_PackageText.xml
+[2280458.411] Successfully released save point.
+[2280458.411] UISettingHandler - Loading RulersOfEngland.dep
+[2280458.425] ModdingUpdateConfigurationDatabase - Loading Data/RulersOfEngland_ConfigData.xml
+[2280458.437] UpdateColors - Loading Data/RulersOfEngland_Colors.xml
+[2280458.437] UpdateIcons - Loading Data/RulersOfEngland_Icons_Leaders.xml
+[2280458.438] Creating database save point.
+[2280458.438] LocalizedText - Loading Text/en_US/RulersOfEngland_ConfigText.xml
+[2280458.453] LocalizedText - Loading Text/RulersOfEngland_Translations_ConfigText.xml
+[2280458.470] Successfully released save point.
+[2280458.470] ModdingUpdateConfigurationDatabase - Loading Core/Suk_Oceans_Config.sql
+[2280458.485] Creating database save point.
+[2280458.485] LocalizedText - Loading Core/Suk_Oceans_Localisation.sql
+[2280458.492] LocalizedText - Loading Translations/Suk_Oceans_Localisation_BR.sql
+[2280458.503] LocalizedText - Loading Translations/Suk_Oceans_Localisation_CN.sql
+[2280458.514] LocalizedText - Loading Translations/Suk_Oceans_Localisation_ES.sql
+[2280458.525] LocalizedText - Loading Translations/Suk_Oceans_Localisation_RU.sql
+[2280458.535] Successfully released save point.
+[2280458.535] UISettingHandler - Loading Sukritact_s_Oceans.dep
+[2280458.546] UpdateIcons - Loading Core/Suk_Oceans_Icons.sql
+[2280458.546] UISettingHandler - Loading WarMachineScenario.dep
+[2280458.568] UpdateColors - Loading Data/WarMachineScenario_PlayerColors.xml
+[2280458.569] UpdateIcons - Loading Data/WarMachineScenario_AllIcons.xml
+[2280458.570] ModdingUpdateConfigurationDatabase - Loading Data/WarMachineScenario_Config.xml
+[2280458.584] Creating database save point.
+[2280458.584] LocalizedText - Loading Text/en_US/WarMachineScenario_ConfigText.xml
+[2280458.589] LocalizedText - Loading Text/WarMachineScenario_Translations_ConfigText.xml
+[2280458.604] LocalizedText - Loading Text/WarMachineScenario_Translations_ConfigText_China.xml
+[2280458.604] Warning: Unable to load ../../../DLC/WarMachineScenario/Text/WarMachineScenario_Translations_ConfigText_China.xml
+[2280458.604] Warning: LocalizedText - Failed loading XML.
+[2280458.605] Successfully released save point.
+[2280458.605] UISettingHandler - Loading GreatNegotiators.dep
+[2280458.631] ModdingUpdateConfigurationDatabase - Loading Data/GreatNegotiators_ConfigData.xml
+[2280458.648] UpdateColors - Loading Data/GreatNegotiators_Colors.xml
+[2280458.648] UpdateIcons - Loading Data/GreatNegotiators_Icons_Buildings.xml
+[2280458.648] UpdateIcons - Loading Data/GreatNegotiators_Icons_Civilizations.xml
+[2280458.648] UpdateIcons - Loading Data/GreatNegotiators_Icons_Districts.xml
+[2280458.648] UpdateIcons - Loading Data/GreatNegotiators_Icons_Leaders.xml
+[2280458.649] UpdateIcons - Loading Data/GreatNegotiators_Icons_UnitPortraits.xml
+[2280458.649] UpdateIcons - Loading Data/GreatNegotiators_Icons_Units.xml
+[2280458.649] Creating database save point.
+[2280458.649] LocalizedText - Loading Text/en_US/GreatNegotiators_ConfigText.xml
+[2280458.657] LocalizedText - Loading Text/GreatNegotiators_Translations_ConfigText.xml
+[2280458.665] Successfully released save point.
+[2280458.665] UISettingHandler - Loading RulersOfChina.dep
+[2280458.708] ModdingUpdateConfigurationDatabase - Loading Data/RulersOfChina_ConfigData.xml
+[2280458.709] UpdateColors - Loading Data/RulersOfChina_Colors.xml
+[2280458.709] UpdateIcons - Loading Data/RulersOfChina_Icons_Leaders.xml
+[2280458.710] Creating database save point.
+[2280458.710] LocalizedText - Loading Text/en_US/RulersOfChina_ConfigText.xml
+[2280458.729] LocalizedText - Loading Text/RulersOfChina_Translations_ConfigText.xml
+[2280458.739] Successfully released save point.
+[2280458.739] UISettingHandler - Loading RulersOfTheSahara.dep
+[2280458.753] ModdingUpdateConfigurationDatabase - Loading Data/RulersOfTheSahara_ConfigData.xml
+[2280458.755] UpdateColors - Loading Data/RulersOfTheSahara_Colors.xml
+[2280458.755] UpdateIcons - Loading Data/RulersOfTheSahara_Icons_Leaders.xml
+[2280458.755] Creating database save point.
+[2280458.755] LocalizedText - Loading Text/en_US/RulersOfTheSahara_ConfigText.xml
+[2280458.762] LocalizedText - Loading Text/RulersOfTheSahara_Translations_ConfigText.xml
+[2280458.775] Successfully released save point.
+[2280458.776] UISettingHandler - Loading GranColombia_Maya.dep
+[2280458.808] UpdateColors - Loading Data/GranColombia_Maya_Colors.xml
+[2280458.809] ModdingUpdateConfigurationDatabase - Loading Data/GranColombia_Maya_ConfigData.xml
+[2280458.819] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Civilizations.xml
+[2280458.819] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Districts.xml
+[2280458.819] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Emergencies.xml
+[2280458.819] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Features.xml
+[2280458.819] UpdateIcons - Loading Data/GranColombia_Maya_Icons_FontIcons.xml
+[2280458.820] UpdateIcons - Loading Data/GranColombia_Maya_Icons_GameModes.xml
+[2280458.820] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Leaders.xml
+[2280458.820] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Notifications.xml
+[2280458.820] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Resources.xml
+[2280458.820] UpdateIcons - Loading Data/GranColombia_Maya_Icons_UnitActions.xml
+[2280458.820] UpdateIcons - Loading Data/GranColombia_Maya_Icons_UnitPortraits.xml
+[2280458.821] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Units.xml
+[2280458.821] UpdateIcons - Loading Data/GranColombia_Maya_Icons_WorldBuilder_Features.xml
+[2280458.821] Creating database save point.
+[2280458.821] LocalizedText - Loading Text/en_US/GranColombia_Maya_ConfigText.xml
+[2280458.829] LocalizedText - Loading Text/en_US/GranColombia_Maya_PackageText.xml
+[2280458.829] LocalizedText - Loading Text/GranColombia_Maya_Translations_ConfigText.xml
+[2280458.848] LocalizedText - Loading Text/GranColombia_Maya_Translations_PackageText.xml
+[2280458.851] Successfully released save point.
+[2280458.851] UISettingHandler - Loading Byzantium_Gaul.dep
+[2280458.864] ModdingUpdateConfigurationDatabase - Loading Data/Byzantium_Gaul_ConfigData.xml
+[2280458.873] ModdingUpdateConfigurationDatabase - Loading Data/Byzantium_Gaul_StandardMaps.xml
+[2280458.874] UpdateColors - Loading Data/Byzantium_Gaul_Colors.xml
+[2280458.875] Creating database save point.
+[2280458.875] LocalizedText - Loading Text/en_US/Byzantium_Gaul_ConfigText.xml
+[2280458.876] LocalizedText - Loading Text/en_US/Byzantium_Gaul_PackageText.xml
+[2280458.876] LocalizedText - Loading Text/Byzantium_Gaul_Translations_ConfigText.xml
+[2280458.894] LocalizedText - Loading Text/Byzantium_Gaul_Translations_PackageText.xml
+[2280458.897] Successfully released save point.
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Civilizations.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Districts.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_FontIcons.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_GameModes.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Leaders.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_UnitPortraits.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Units.xml
+[2280458.898] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Wonders.xml
+[2280458.899] UISettingHandler - Loading KublaiKhan_Vietnam.dep
+[2280458.910] ModdingUpdateConfigurationDatabase - Loading Data/KublaiKhan_Vietnam_ConfigData.xml
+[2280458.924] ModdingUpdateConfigurationDatabase - Loading Data/KublaiKhan_Vietnam_ConfigData_Mongolia.xml
+[2280458.932] UpdateColors - Loading Data/KublaiKhan_Vietnam_Colors.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Buildings.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Civilizations.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Districts.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Leaders.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_UnitPortraits.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Units.xml
+[2280458.933] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_MODE.xml
+[2280458.934] Creating database save point.
+[2280458.934] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_ConfigText.xml
+[2280458.935] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_PackageText.xml
+[2280458.935] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_ConfigText.xml
+[2280458.948] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_PackageText.xml
+[2280458.951] Successfully released save point.
+[2280458.951] UpdateColors - Loading Data/BlackDeathScenario_PlayerColors.xml
+[2280458.951] UpdateIcons - Loading Data/BlackDeathScenario_Icons_Civilizations.xml
+[2280458.951] UpdateIcons - Loading Data/BlackDeathScenario_Icons_Leaders.xml
+[2280458.951] UpdateIcons - Loading Data/BlackDeathScenario_Icons_Units.xml
+[2280458.952] UISettingHandler - Loading BlackDeathScenario.dep
+[2280458.969] ModdingUpdateConfigurationDatabase - Loading Data/BlackDeathScenario_Config.xml
+[2280458.982] Creating database save point.
+[2280458.982] LocalizedText - Loading Text/en_US/BlackDeathScenario_ConfigText.xml
+[2280458.984] LocalizedText - Loading Text/BlackDeathScenario_Translations_ConfigText.xml
+[2280459.013] LocalizedText - Loading Text/BlackDeathScenario_Translations_ConfigText_China.xml
+[2280459.013] Warning: Unable to load ../../../DLC/BlackDeathScenario/Text/BlackDeathScenario_Translations_ConfigText_China.xml
+[2280459.013] Warning: LocalizedText - Failed loading XML.
+[2280459.017] Successfully released save point.
+[2280459.018] UISettingHandler - Loading CatherineDeMedici.dep
+[2280459.019] UpdateColors - Loading Data/CatherineDeMedici_Colors.xml
+[2280459.019] ModdingUpdateConfigurationDatabase - Loading Data/CatherineDeMedici_ConfigData.xml
+[2280459.029] UpdateIcons - Loading Data/CatherineDeMedici_Icons.xml
+[2280459.029] Creating database save point.
+[2280459.029] LocalizedText - Loading Text/en_US/CatherineDeMedici_ConfigText.xml
+[2280459.031] LocalizedText - Loading Text/en_US/CatherineDeMedici_PackageText.xml
+[2280459.031] LocalizedText - Loading Text/CatherineDeMedici_Translations_ConfigText.xml
+[2280459.039] LocalizedText - Loading Text/CatherineDeMedici_Translations_PackageText.xml
+[2280459.040] Successfully released save point.
+[2280459.040] UISettingHandler - Loading GreatWarlords.dep
+[2280459.065] ModdingUpdateConfigurationDatabase - Loading Data/GreatWarlords_ConfigData.xml
+[2280459.085] ModdingUpdateConfigurationDatabase - Loading Data/GreatWarlords_ConfigData_NaderShah.xml
+[2280459.088] UpdateColors - Loading Data/GreatWarlords_Colors.xml
+[2280459.089] UpdateIcons - Loading Data/GreatWarlords_Icons_Leaders.xml
+[2280459.089] Creating database save point.
+[2280459.089] LocalizedText - Loading Text/en_US/GreatWarlords_ConfigText.xml
+[2280459.089] LocalizedText - Loading Text/GreatWarlords_Translations_ConfigText.xml
+[2280459.102] Successfully released save point.
+[2280459.102] UISettingHandler - Loading Ethiopia.dep
+[2280459.131] UpdateColors - Loading Data/Ethiopia_Colors.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_Relics_MODE.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_Buildings.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_Civilizations.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_Districts.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_GameModes.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_Leaders.xml
+[2280459.132] UpdateIcons - Loading Data/Ethiopia_Icons_Notifications.xml
+[2280459.133] UpdateIcons - Loading Data/Ethiopia_Icons_Projects.xml
+[2280459.133] UpdateIcons - Loading Data/Ethiopia_Icons_Resources.xml
+[2280459.133] UpdateIcons - Loading Data/Ethiopia_Icons_UnitActions.xml
+[2280459.133] UpdateIcons - Loading Data/Ethiopia_Icons_UnitPortraits.xml
+[2280459.133] UpdateIcons - Loading Data/Ethiopia_Icons_Units.xml
+[2280459.133] ModdingUpdateConfigurationDatabase - Loading Data/Ethiopia_ConfigData.xml
+[2280459.135] Creating database save point.
+[2280459.135] LocalizedText - Loading Text/en_US/Ethiopia_ConfigText.xml
+[2280459.149] LocalizedText - Loading Text/en_US/Ethiopia_PackageText.xml
+[2280459.149] LocalizedText - Loading Text/Ethiopia_Translations_ConfigText.xml
+[2280459.160] LocalizedText - Loading Text/Ethiopia_Translations_PackageText.xml
+[2280459.163] Successfully released save point.
+[2280459.163] UISettingHandler - Loading Babylon.dep
+[2280459.175] ModdingUpdateConfigurationDatabase - Loading Data/Babylon_ConfigData.xml
+[2280459.185] UpdateColors - Loading Data/Babylon_Colors.xml
+[2280459.185] UpdateColors - Loading Data/Babylon_Colors_Config.xml
+[2280459.185] UpdateIcons - Loading Data/Babylon_Icons_Buildings.xml
+[2280459.185] UpdateIcons - Loading Data/Babylon_Icons_Civilizations.xml
+[2280459.185] UpdateIcons - Loading Data/Babylon_Icons_FontIcons.xml
+[2280459.185] UpdateIcons - Loading Data/Babylon_Icons_GameModes.xml
+[2280459.185] UpdateIcons - Loading Data/Babylon_Icons_Leaders.xml
+[2280459.186] UpdateIcons - Loading Data/Babylon_Icons_UnitPortraits.xml
+[2280459.186] UpdateIcons - Loading Data/Babylon_Icons_Units.xml
+[2280459.186] Creating database save point.
+[2280459.186] LocalizedText - Loading Text/en_US/Babylon_ConfigText.xml
+[2280459.198] LocalizedText - Loading Text/Babylon_Translations_ConfigText.xml
+[2280459.207] Successfully released save point.
+[2280459.207] UISettingHandler - Loading GreatBuilders.dep
+[2280459.220] ModdingUpdateConfigurationDatabase - Loading Data/GreatBuilders_ConfigData.xml
+[2280459.234] ModdingUpdateConfigurationDatabase - Loading Data/GreatBuilders_ConfigData_Byzantium.xml
+[2280459.235] ModdingUpdateConfigurationDatabase - Loading Data/GreatBuilders_ConfigData_Korea.xml
+[2280459.241] UpdateColors - Loading Data/GreatBuilders_Colors.xml
+[2280459.242] UpdateIcons - Loading Data/GreatBuilders_Icons_Leaders.xml
+[2280459.242] Creating database save point.
+[2280459.242] LocalizedText - Loading Text/en_US/GreatBuilders_ConfigText.xml
+[2280459.243] LocalizedText - Loading Text/GreatBuilders_Translations_ConfigText.xml
+[2280459.246] Successfully released save point.
+[2280459.247] UISettingHandler - Loading Portugal.dep
+[2280459.309] ModdingUpdateConfigurationDatabase - Loading Data/Portugal_ConfigData.xml
+[2280459.326] ModdingUpdateConfigurationDatabase - Loading Data/Portugal_StandardMaps.xml
+[2280459.327] UpdateColors - Loading Data/Portugal_Colors.xml
+[2280459.328] Creating database save point.
+[2280459.328] LocalizedText - Loading Text/en_US/Portugal_ConfigText.xml
+[2280459.341] LocalizedText - Loading Text/en_US/Portugal_PackageText.xml
+[2280459.342] LocalizedText - Loading Text/Portugal_Translations_ConfigText.xml
+[2280459.358] LocalizedText - Loading Text/Portugal_Translations_PackageText.xml
+[2280459.366] Successfully released save point.
+[2280459.366] UpdateIcons - Loading Data/Portugal_Icons_Buildings.xml
+[2280459.366] UpdateIcons - Loading Data/Portugal_Icons_Civilizations.xml
+[2280459.366] UpdateIcons - Loading Data/Portugal_Icons_Leaders.xml
+[2280459.367] UpdateIcons - Loading Data/Portugal_Icons_UnitActions.xml
+[2280459.367] UpdateIcons - Loading Data/Portugal_Icons_UnitPortraits.xml
+[2280459.367] UpdateIcons - Loading Data/Portugal_Icons_Units.xml
+[2280459.367] UpdateIcons - Loading Data/Portugal_Icons_Wonders.xml
+[2280459.367] UpdateIcons - Loading Data/Zombies_Icons_GameModes.xml
+[2280461.439] Modding Framework - Finished Apply Settings
+[2280461.439] ConfigureContent - Importing implicit files, post settings
+[2280462.898] Successfully reconfigured game.
+[2280462.909] Mod Art Files - Loading VikingScenario.dep
+[2280462.912] Mod Art Files - Loading TeddyRoosevelt.dep
+[2280462.913] Mod Art Files - Loading BarbarianClansMode.dep
+[2280462.917] Mod Art Files - Loading TreeRandomizer.dep
+[2280462.926] Mod Art Files - Loading Expansion1.dep
+[2280462.945] Mod Art Files - Loading Ethiopia.dep
+[2280462.950] Mod Art Files - Loading DLC6.dep
+[2280462.957] Mod Art Files - Loading GreatBuilders.dep
+[2280462.959] Mod Art Files - Loading RulersOfEngland.dep
+[2280462.961] Mod Art Files - Loading AlexanderScenario.dep
+[2280462.967] Mod Art Files - Loading VikingsLandmarks.dep
+[2280462.967] Mod Art Files - Loading DLC2.dep
+[2280462.987] Mod Art Files - Loading Expansion2.dep
+[2280463.033] Mod Art Files - Loading Sukritact_s_Oceans.dep
+[2280463.040] Mod Art Files - Loading WarMachineScenario.dep
+[2280463.042] Mod Art Files - Loading DLC5.dep
+[2280463.051] Mod Art Files - Loading NubiaScenario.dep
+[2280463.056] Mod Art Files - Loading GreatNegotiators.dep
+[2280463.060] Mod Art Files - Loading RulersOfChina.dep
+[2280463.063] Mod Art Files - Loading RulersOfTheSahara.dep
+[2280463.065] Mod Art Files - Loading Babylon.dep
+[2280463.075] Mod Art Files - Loading Indonesia_KhmerScenario.dep
+[2280463.083] Mod Art Files - Loading GranColombia_Maya.dep
+[2280463.093] Mod Art Files - Loading Byzantium_Gaul.dep
+[2280463.100] Mod Art Files - Loading KublaiKhan_Vietnam.dep
+[2280463.109] Mod Art Files - Loading PiratesScenario.dep
+[2280463.115] Mod Art Files - Loading BlackDeathScenario.dep
+[2280463.123] Mod Art Files - Loading PolandScenario.dep
+[2280463.125] Mod Art Files - Loading CatherineDeMedici.dep
+[2280463.126] Mod Art Files - Loading AustraliaScenario.dep
+[2280463.129] Mod Art Files - Loading DLC4.dep
+[2280463.132] Mod Art Files - Loading DLC3.dep
+[2280463.135] Mod Art Files - Loading CivRoyaleScenario.dep
+[2280463.144] Mod Art Files - Loading GreatWarlords.dep
+[2280463.150] Mod Art Files - Loading Portugal.dep
+[2280463.207] SteamCallback - SteamUGCQueryCompleted_t - 1
+[2280491.490] Set Default Enabled Mods
+[2280491.490] Game Mode: Single-Player
+[2280491.818] Set Default Enabled Mods
+[2280491.818] Game Mode: Single-Player
+[2280494.458] Set Default Enabled Mods
+[2280494.458] Game Mode: Single-Player
+[2280512.641] Warning: The activation order of mods is not the same as it was with a prior sorting algorithm.
+[2280512.671] Configuring game content
+[2280512.671] Enabled Mods (in no particular order):
+[2280512.671] 02A8BDDE-67EA-4D38-9540-26E685E3156E (LOC_AZTEC_MONTEZUMA_MOD_TITLE)
+[2280512.671] 05698E46-1032-43C7-A40C-FA3D02858D2A (LOC_MOD_VIKINGS_SCENARIO_TITLE)
+[2280512.672] 113D9459-0A3B-4FCB-A49C-483F40303575 (Teddy Roosevelt Persona Pack)
+[2280512.672] 129b79ff-afee-4dff-90db-baee14d9564a (Starting Builder)
+[2280512.672] 19ED1A36-D744-4A58-8F8B-0376C2BA86E5 (Barbarian Clans Game Mode)
+[2280512.672] 19d1c7ec-54de-11ea-a2e3-2e728ce88125 (Tech and Civic Shuffle Game Mode)
+[2280512.672] 1B28771A-C749-434B-9053-D1380C553DE9 (LOC_EXPANSION1_MOD_TITLE)
+[2280512.672] 1B394FE9-23DC-4868-8F0A-5220CB8FB427 (Ethiopia Pack)
+[2280512.673] 1F367231-A040-4793-BDBB-088816853683 (LOC_INDONESIA_KHMER_MOD_TITLE)
+[2280512.673] 249D9276-0832-48E4-B370-14531FA4E33C (LOC_GREAT_BUILDERS_MOD_TITLE)
+[2280512.673] 258EF3CA-890B-4863-8A52-982822EFF7BD (LOC_RULERS_OF_ENGLAND_MOD_TITLE)
+[2280512.674] 2F3A65C2-0883-4BF6-8C70-EDA688C66F3C (LOC_MOD_ALEXANDER_SCENARIO_TITLE)
+[2280512.674] 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (LOC_MOD_VIKINGSLANDMARKS_TITLE)
+[2280512.674] 3809975F-263F-40A2-A747-8BFB171D821A (LOC_POLAND_JADWIGA_MOD_TITLE)
+[2280512.675] 4873eb62-8ccc-4574-b784-dda455e74e68 (LOC_EXPANSION2_MOD_TITLE)
+[2280512.675] 4922ba47-61e1-4b15-9281-db996b14522d (Sukritact's Oceans)
+[2280512.676] 4ecfcc62-5471-4435-b295-590df213e8d8 (Detailed Map Tacks)
+[2280512.676] 5B0445C9-1376-45AD-9B51-C96A83A8F17D (LOC_WARMACHINE_MOD_TITLE)
+[2280512.676] 5aceed03-8639-4a81-8cbf-03f54d543502 (Quick Deals)
+[2280512.677] 643EA320-8E1A-4CF1-A01C-00D88DDD131A (LOC_NUBIA_MOD_TITLE)
+[2280512.677] 648CD2A8-057A-4EB5-9E41-E1F7D86B5443 (LOC_COLDWAR_MOD_TITLE)
+[2280512.677] 7619F77B-BAA7-4912-AA6E-45C124E6ECFD (LOC_MOD_NUBIA_SCENARIO_TITLE)
+[2280512.678] 7A66DB58-B354-4061-8C80-95B638DD6F6C (LOC_GREAT_NEGOTIATORS_MOD_TITLE)
+[2280512.678] 7D27831B-BAA6-4A8B-A39C-94243BAD3F47 (LOC_RULERS_OF_CHINA_MOD_TITLE)
+[2280512.678] 82AE6F24-930F-4640-833C-FCDFD4845757 (LOC_RULERS_OF_THE_SAHARA_MOD_TITLE)
+[2280512.678] 8424840C-92EF-4426-A9B4-B4E0CB818049 (Babylon Pack)
+[2280512.679] 8550ED6C-E370-426C-80CD-AB4B46B201DD (LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE)
+[2280512.679] 9DE86512-DE1A-400D-8C0A-AB46EBBF76B9 (Maya and Gran Colombia Pack)
+[2280512.679] A1100FC4-70F2-4129-AC27-2A65A685ED08 (Byzantium and Gaul Pack)
+[2280512.679] A3F42CD4-6C3E-4F5A-BC81-BE29E0C0B87C (Vietnam and Kublai Khan Pack)
+[2280512.679] A55FAFB4-9070-4597-9453-B28A99910CDA (Multiplayer Scenario: Pirates)
+[2280512.680] C1F775D8-59B5-401B-B86D-78FAF3446EC7 (LOC_BLACKDEATH_MOD_TITLE)
+[2280512.680] CD953AD5-2869-4654-91EC-E48D118EF3F3 (LOC_MOD_POLAND_SCENARIO_TITLE)
+[2280512.680] CE5876CD-6900-46D1-9C9C-8DBA1F28872E (Catherine de Medici Persona Pack)
+[2280512.682] D70C8F1F-3954-460F-A9D9-09498BF773C9 (LOC_MOD_AUSTRALIA_SCENARIO_TITLE)
+[2280512.682] E2749E9A-8056-45CD-901B-C368C8E83DEB (LOC_MACEDONIA_PERSIA_MOD_TITLE)
+[2280512.683] E3F53C61-371C-440B-96CE-077D318B36C0 (LOC_AUSTRALIA_MOD_TITLE)
+[2280512.683] F264EE10-F21B-4A9A-BBCD-D534E9843E90 (LOC_CIV_ROYALE_MOD_TITLE)
+[2280512.683] F48213B4-56F5-45DD-92F7-AC78E49BDA49 (LOC_GREAT_WARLORDS_MOD_TITLE)
+[2280512.684] F653805E-F7C8-44E1-8CBD-FB48D7AABCBA (LOC_ANCIENT_RIVALS_MOD_TITLE)
+[2280512.684] FFDF4E79-DEE2-47BB-919B-F5739106627A (Portugal Pack)
+[2280512.684] {455B6E2D-821D-4D49-9FCD-FC950AC6A521} (LOC_RELIGIOUS_COMBAT_MOD_TITLE)
+[2280512.685] {5E991A08-08FD-4774-968B-A85377ECF60D} (LOC_NAPOLEON_MOD_TITLE)
+[2280512.685] Target Mods (in no particular order):
+[2280512.685] 02A8BDDE-67EA-4D38-9540-26E685E3156E (LOC_AZTEC_MONTEZUMA_MOD_TITLE)
+[2280512.685] 113D9459-0A3B-4FCB-A49C-483F40303575 (Teddy Roosevelt Persona Pack)
+[2280512.685] 129b79ff-afee-4dff-90db-baee14d9564a (Starting Builder)
+[2280512.685] 1B28771A-C749-434B-9053-D1380C553DE9 (LOC_EXPANSION1_MOD_TITLE)
+[2280512.686] 1B394FE9-23DC-4868-8F0A-5220CB8FB427 (Ethiopia Pack)
+[2280512.686] 1F367231-A040-4793-BDBB-088816853683 (LOC_INDONESIA_KHMER_MOD_TITLE)
+[2280512.686] 249D9276-0832-48E4-B370-14531FA4E33C (LOC_GREAT_BUILDERS_MOD_TITLE)
+[2280512.686] 258EF3CA-890B-4863-8A52-982822EFF7BD (LOC_RULERS_OF_ENGLAND_MOD_TITLE)
+[2280512.687] 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (LOC_MOD_VIKINGSLANDMARKS_TITLE)
+[2280512.687] 3809975F-263F-40A2-A747-8BFB171D821A (LOC_POLAND_JADWIGA_MOD_TITLE)
+[2280512.687] 4873eb62-8ccc-4574-b784-dda455e74e68 (LOC_EXPANSION2_MOD_TITLE)
+[2280512.688] 4ecfcc62-5471-4435-b295-590df213e8d8 (Detailed Map Tacks)
+[2280512.688] 5aceed03-8639-4a81-8cbf-03f54d543502 (Quick Deals)
+[2280512.688] 643EA320-8E1A-4CF1-A01C-00D88DDD131A (LOC_NUBIA_MOD_TITLE)
+[2280512.688] 7A66DB58-B354-4061-8C80-95B638DD6F6C (LOC_GREAT_NEGOTIATORS_MOD_TITLE)
+[2280512.689] 7D27831B-BAA6-4A8B-A39C-94243BAD3F47 (LOC_RULERS_OF_CHINA_MOD_TITLE)
+[2280512.689] 82AE6F24-930F-4640-833C-FCDFD4845757 (LOC_RULERS_OF_THE_SAHARA_MOD_TITLE)
+[2280512.689] 8424840C-92EF-4426-A9B4-B4E0CB818049 (Babylon Pack)
+[2280512.689] 9DE86512-DE1A-400D-8C0A-AB46EBBF76B9 (Maya and Gran Colombia Pack)
+[2280512.689] A1100FC4-70F2-4129-AC27-2A65A685ED08 (Byzantium and Gaul Pack)
+[2280512.689] A3F42CD4-6C3E-4F5A-BC81-BE29E0C0B87C (Vietnam and Kublai Khan Pack)
+[2280512.689] CE5876CD-6900-46D1-9C9C-8DBA1F28872E (Catherine de Medici Persona Pack)
+[2280512.689] E2749E9A-8056-45CD-901B-C368C8E83DEB (LOC_MACEDONIA_PERSIA_MOD_TITLE)
+[2280512.690] E3F53C61-371C-440B-96CE-077D318B36C0 (LOC_AUSTRALIA_MOD_TITLE)
+[2280512.690] F48213B4-56F5-45DD-92F7-AC78E49BDA49 (LOC_GREAT_WARLORDS_MOD_TITLE)
+[2280512.690] FFDF4E79-DEE2-47BB-919B-F5739106627A (Portugal Pack)
+[2280512.705] Warning: The activation order of mods is not the same as it was with a prior sorting algorithm.
+[2280512.731] Warning: The activation order of mods is not the same as it was with a prior sorting algorithm.
+[2280512.736] Game configuration needs to change to match target config.
+[2280512.736] Performing pre-configure processing.
+[2280512.736] Rebuilding configuration database.
+[2280512.753] Reverted Localization database to its original state.
+[2280512.769] Reverted Configuration database to its original state.
+[2280512.769] ConfigureContent - Importing implicit files, pre settings
+[2280523.989] Applying settings.
+[2280523.989] Modding Framework - Apply Settings
+[2280523.990] UpdateColors - Loading Data/Aztec_Montezuma_Colors.xml
+[2280523.991] ModdingUpdateConfigurationDatabase - Loading Data/Aztec_Montezuma_ConfigData.xml
+[2280523.992] ModdingUpdateConfigurationDatabase - Loading Data/Indonesia_Khmer_ConfigData.xml
+[2280523.993] UISettingHandler - Loading DLC6.dep
+[2280523.994] UpdateColors - Loading Data/Indonesia_Khmer_Colors.xml
+[2280523.995] Creating database save point.
+[2280523.995] LocalizedText - Loading Text/en_US/Indonesia_Khmer_ConfigText.xml
+[2280523.997] LocalizedText - Loading Text/Indonesia_Khmer_Translations_ConfigText.xml
+[2280524.011] LocalizedText - Loading Text/Indonesia_Khmer_Translations_ConfigText_China.xml
+[2280524.011] Warning: Unable to load ../../../DLC/Indonesia_Khmer/Text/Indonesia_Khmer_Translations_ConfigText_China.xml
+[2280524.011] Warning: LocalizedText - Failed loading XML.
+[2280524.012] Successfully released save point.
+[2280524.012] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Buildings.xml
+[2280524.012] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Civilizations.xml
+[2280524.013] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Features.xml
+[2280524.013] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Leaders.xml
+[2280524.013] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_UnitActions.xml
+[2280524.013] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_UnitPortraits.xml
+[2280524.013] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Units.xml
+[2280524.013] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Wonders.xml
+[2280524.014] UISettingHandler - Loading VikingsLandmarks.dep
+[2280524.015] UpdateColors - Loading Data/VikingsLandmarks_Colors.xml
+[2280524.015] ModdingUpdateConfigurationDatabase - Loading Data/VikingsLandmarks_Config.xml
+[2280524.016] UpdateIcons - Loading Data/VikingsLandmarks_Icons_Civilizations.xml
+[2280524.016] UpdateIcons - Loading Data/VikingsLandmarks_Icons_Features.xml
+[2280524.017] Creating database save point.
+[2280524.017] LocalizedText - Loading Text/en_US/VikingsLandmarks_ConfigText.xml
+[2280524.017] LocalizedText - Loading Text/VikingsLandmarks_Translations_ConfigText.xml
+[2280524.018] LocalizedText - Loading Text/VikingsLandmarks_Translations_ConfigText_China.xml
+[2280524.018] Warning: Unable to load ../../../DLC/VikingsLandmarks/Text/VikingsLandmarks_Translations_ConfigText_China.xml
+[2280524.018] Warning: LocalizedText - Failed loading XML.
+[2280524.018] Successfully released save point.
+[2280524.019] UISettingHandler - Loading DLC2.dep
+[2280524.019] UpdateColors - Loading Data/Poland_Jadwiga_Colors.xml
+[2280524.020] ModdingUpdateConfigurationDatabase - Loading Data/Poland_Jadwiga_ConfigData.xml
+[2280524.021] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Buildings.xml
+[2280524.021] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Civilizations.xml
+[2280524.022] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Leaders.xml
+[2280524.022] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Units.xml
+[2280524.022] Creating database save point.
+[2280524.022] LocalizedText - Loading Text/Poland_Translations_ConfigText.xml
+[2280524.024] LocalizedText - Loading Text/en_US/Poland_Jadwiga_ConfigText.xml
+[2280524.025] Successfully released save point.
+[2280524.026] ModdingUpdateConfigurationDatabase - Loading config/dmt_config.xml
+[2280524.026] Creating database save point.
+[2280524.026] LocalizedText - Loading config/en_us/dmt_options_text.xml
+[2280524.026] LocalizedText - Loading config/dmt_options_translations_text.xml
+[2280524.027] Successfully released save point.
+[2280524.027] ModdingUpdateConfigurationDatabase - Loading config/qd_config.xml
+[2280524.027] Creating database save point.
+[2280524.027] LocalizedText - Loading config/en_us/qd_options_text.xml
+[2280524.028] Successfully released save point.
+[2280524.028] ModdingUpdateConfigurationDatabase - Loading Data/Nubia_ConfigData.xml
+[2280524.028] UISettingHandler - Loading DLC5.dep
+[2280524.029] UpdateColors - Loading Data/Nubia_Colors.xml
+[2280524.029] UpdateColors - Loading Data/Nubia_PlayerColors.xml
+[2280524.029] Creating database save point.
+[2280524.029] LocalizedText - Loading Text/en_US/Nubia_ConfigText.xml
+[2280524.030] LocalizedText - Loading Text/Nubia_Amanitore_Translations_ConfigText.xml
+[2280524.032] LocalizedText - Loading Text/Nubia_Amanitore_Translations_ConfigText_China.xml
+[2280524.033] Warning: Unable to load ../../../DLC/Nubia_Amanitore/Text/Nubia_Amanitore_Translations_ConfigText_China.xml
+[2280524.033] Warning: LocalizedText - Failed loading XML.
+[2280524.033] Successfully released save point.
+[2280524.033] UpdateIcons - Loading Data/Nubia_Icons_Civilizations.xml
+[2280524.033] UpdateIcons - Loading Data/Nubia_Icons_Leaders.xml
+[2280524.033] UpdateIcons - Loading Data/Nubia_Icons_UnitActions.xml
+[2280524.033] UpdateIcons - Loading Data/Nubia_Icons_UnitPortraits.xml
+[2280524.034] UpdateIcons - Loading Data/Nubia_Icons_Units.xml
+[2280524.034] UISettingHandler - Loading DLC4.dep
+[2280524.035] ModdingUpdateConfigurationDatabase - Loading Data/Macedonia_Persia_ConfigData.xml
+[2280524.036] UpdateColors - Loading Data/Macedonia_Persia_Colors.xml
+[2280524.036] UpdateColors - Loading Data/Macedonia_Persia_PlayerColors.xml
+[2280524.036] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Buildings.xml
+[2280524.037] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Civilizations.xml
+[2280524.037] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Leaders.xml
+[2280524.037] UpdateIcons - Loading Data/Macedonia_Persia_Icons_UnitActions.xml
+[2280524.037] UpdateIcons - Loading Data/Macedonia_Persia_Icons_UnitPortraits.xml
+[2280524.037] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Units.xml
+[2280524.037] Creating database save point.
+[2280524.038] LocalizedText - Loading Text/en_US/Macedonia_Persia_ConfigText.xml
+[2280524.038] LocalizedText - Loading Text/Macedonia_Persia_Translations_ConfigText.xml
+[2280524.043] LocalizedText - Loading Text/Macedonia_Persia_Translations_ConfigText_China.xml
+[2280524.043] Warning: Unable to load ../../../DLC/Macedonia_Persia/Text/Macedonia_Persia_Translations_ConfigText_China.xml
+[2280524.043] Warning: LocalizedText - Failed loading XML.
+[2280524.044] Successfully released save point.
+[2280524.044] ModdingUpdateConfigurationDatabase - Loading Data/Australia_Config.xml
+[2280524.045] UpdateColors - Loading Data/Australia_Colors.xml
+[2280524.045] UpdateIcons - Loading Data/Australia_Icons_Civilizations.xml
+[2280524.045] UpdateIcons - Loading Data/Australia_Icons_Features.xml
+[2280524.045] UpdateIcons - Loading Data/Australia_Icons_Leaders.xml
+[2280524.045] UpdateIcons - Loading Data/Australia_Icons_UnitActions.xml
+[2280524.045] UpdateIcons - Loading Data/Australia_Icons_UnitPortraits.xml
+[2280524.045] UpdateIcons - Loading Data/Australia_Icons_Units.xml
+[2280524.046] UISettingHandler - Loading DLC3.dep
+[2280524.047] Creating database save point.
+[2280524.047] LocalizedText - Loading Text/en_US/Australia_ConfigText.xml
+[2280524.047] LocalizedText - Loading Text/Australia_Translations_ConfigText.xml
+[2280524.049] LocalizedText - Loading Text/Australia_Translations_ConfigText_China.xml
+[2280524.049] Warning: Unable to load ../../../DLC/Australia/Text/Australia_Translations_ConfigText_China.xml
+[2280524.049] Warning: LocalizedText - Failed loading XML.
+[2280524.050] Successfully released save point.
+[2280524.050] UISettingHandler - Loading Expansion1.dep
+[2280524.052] UpdateColors - Loading Data/Expansion1_PlayerColors.xml
+[2280524.052] UpdateIcons - Loading Data/Expansion1_Icons_Buildings.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_CityStates.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_Civilizations.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_Districts.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_Features.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_FontIcons.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_Improvements.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_Leaders.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_UnitPortraits.xml
+[2280524.053] UpdateIcons - Loading Data/Expansion1_Icons_Units.xml
+[2280524.054] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_Config.xml
+[2280524.055] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_EarthMaps.xml
+[2280524.056] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_Players.xml
+[2280524.058] ModdingUpdateConfigurationDatabase - Loading Config/Expansion1_StandardMaps.xml
+[2280524.058] Creating database save point.
+[2280524.058] LocalizedText - Loading Text/en_US/Expansion1_ConfigText.xml
+[2280524.060] LocalizedText - Loading Text/en_US/Expansion1_HallofFame_Text.xml
+[2280524.061] LocalizedText - Loading Text/Expansion1_Translations_ConfigText.xml
+[2280524.093] LocalizedText - Loading Text/Expansion1_Translations_ConfigText_China.xml
+[2280524.093] Warning: Unable to load ../../../DLC/Expansion1/Text/Expansion1_Translations_ConfigText_China.xml
+[2280524.093] Warning: LocalizedText - Failed loading XML.
+[2280524.097] Successfully released save point.
+[2280524.098] UISettingHandler - Loading Expansion2.dep
+[2280524.101] Creating database save point.
+[2280524.101] LocalizedText - Loading Text/en_US/Expansion1_HallofFame_Text.xml
+[2280524.101] LocalizedText - Loading Text/en_US/Expansion2_ConfigText.xml
+[2280524.104] LocalizedText - Loading Text/en_US/Expansion2_HallofFame_Text.xml
+[2280524.105] LocalizedText - Loading Text/Expansion2_Translations_ConfigText.xml
+[2280524.134] LocalizedText - Loading Text/Expansion2_Translations_ConfigText_China.xml
+[2280524.134] Warning: Unable to load ../../../DLC/Expansion2/Text/Expansion2_Translations_ConfigText_China.xml
+[2280524.134] Warning: LocalizedText - Failed loading XML.
+[2280524.140] Successfully released save point.
+[2280524.140] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_Config.xml
+[2280524.142] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_EarthMaps.xml
+[2280524.144] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_Players.xml
+[2280524.144] ModdingUpdateConfigurationDatabase - Loading Config/Expansion2_StandardMaps.xml
+[2280524.145] UpdateColors - Loading Data/Expansion2_PlayerColors.xml
+[2280524.145] UpdateIcons - Loading Data/Expansion1_Icons_FontIcons.xml
+[2280524.145] UpdateIcons - Loading Data/Expansion2_Icons_Beliefs.xml
+[2280524.145] UpdateIcons - Loading Data/Expansion2_Icons_Buildings.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_CityStates.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_Civilizations.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_DistrictBuildings.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_Districts.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_EnvironmentalEffects.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_Features.xml
+[2280524.146] UpdateIcons - Loading Data/Expansion2_Icons_FontIcons.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_Leaders.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_Stats.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_UnitActions.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_UnitPortraits.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_Units.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_Victories.xml
+[2280524.147] UpdateIcons - Loading Data/Expansion2_Icons_Yields.xml
+[2280524.148] UISettingHandler - Loading TeddyRoosevelt.dep
+[2280524.149] UpdateColors - Loading Data/TeddyRoosevelt_Colors.xml
+[2280524.149] ModdingUpdateConfigurationDatabase - Loading Data/TeddyRoosevelt_ConfigData.xml
+[2280524.149] UpdateIcons - Loading Data/TeddyRoosevelt_Icons.xml
+[2280524.150] Creating database save point.
+[2280524.150] LocalizedText - Loading Text/en_US/TeddyRoosevelt_ConfigText.xml
+[2280524.150] LocalizedText - Loading Text/en_US/TeddyRoosevelt_PackageText.xml
+[2280524.150] LocalizedText - Loading Text/TeddyRoosevelt_Translations_ConfigText.xml
+[2280524.152] LocalizedText - Loading Text/TeddyRoosevelt_Translations_PackageText.xml
+[2280524.153] Successfully released save point.
+[2280524.153] UISettingHandler - Loading RulersOfEngland.dep
+[2280524.155] ModdingUpdateConfigurationDatabase - Loading Data/RulersOfEngland_ConfigData.xml
+[2280524.156] UpdateColors - Loading Data/RulersOfEngland_Colors.xml
+[2280524.156] UpdateIcons - Loading Data/RulersOfEngland_Icons_Leaders.xml
+[2280524.156] Creating database save point.
+[2280524.156] LocalizedText - Loading Text/en_US/RulersOfEngland_ConfigText.xml
+[2280524.157] LocalizedText - Loading Text/RulersOfEngland_Translations_ConfigText.xml
+[2280524.160] Successfully released save point.
+[2280524.161] UISettingHandler - Loading GreatNegotiators.dep
+[2280524.162] ModdingUpdateConfigurationDatabase - Loading Data/GreatNegotiators_ConfigData.xml
+[2280524.163] UpdateColors - Loading Data/GreatNegotiators_Colors.xml
+[2280524.163] UpdateIcons - Loading Data/GreatNegotiators_Icons_Buildings.xml
+[2280524.164] UpdateIcons - Loading Data/GreatNegotiators_Icons_Civilizations.xml
+[2280524.164] UpdateIcons - Loading Data/GreatNegotiators_Icons_Districts.xml
+[2280524.164] UpdateIcons - Loading Data/GreatNegotiators_Icons_Leaders.xml
+[2280524.164] UpdateIcons - Loading Data/GreatNegotiators_Icons_UnitPortraits.xml
+[2280524.164] UpdateIcons - Loading Data/GreatNegotiators_Icons_Units.xml
+[2280524.164] Creating database save point.
+[2280524.164] LocalizedText - Loading Text/en_US/GreatNegotiators_ConfigText.xml
+[2280524.165] LocalizedText - Loading Text/GreatNegotiators_Translations_ConfigText.xml
+[2280524.167] Successfully released save point.
+[2280524.167] UISettingHandler - Loading RulersOfChina.dep
+[2280524.168] ModdingUpdateConfigurationDatabase - Loading Data/RulersOfChina_ConfigData.xml
+[2280524.169] UpdateColors - Loading Data/RulersOfChina_Colors.xml
+[2280524.169] UpdateIcons - Loading Data/RulersOfChina_Icons_Leaders.xml
+[2280524.169] Creating database save point.
+[2280524.169] LocalizedText - Loading Text/en_US/RulersOfChina_ConfigText.xml
+[2280524.169] LocalizedText - Loading Text/RulersOfChina_Translations_ConfigText.xml
+[2280524.172] Successfully released save point.
+[2280524.172] UISettingHandler - Loading RulersOfTheSahara.dep
+[2280524.174] ModdingUpdateConfigurationDatabase - Loading Data/RulersOfTheSahara_ConfigData.xml
+[2280524.175] UpdateColors - Loading Data/RulersOfTheSahara_Colors.xml
+[2280524.175] UpdateIcons - Loading Data/RulersOfTheSahara_Icons_Leaders.xml
+[2280524.175] Creating database save point.
+[2280524.175] LocalizedText - Loading Text/en_US/RulersOfTheSahara_ConfigText.xml
+[2280524.175] LocalizedText - Loading Text/RulersOfTheSahara_Translations_ConfigText.xml
+[2280524.177] Successfully released save point.
+[2280524.178] UISettingHandler - Loading GranColombia_Maya.dep
+[2280524.179] UpdateColors - Loading Data/GranColombia_Maya_Colors.xml
+[2280524.179] ModdingUpdateConfigurationDatabase - Loading Data/GranColombia_Maya_ConfigData.xml
+[2280524.181] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Civilizations.xml
+[2280524.181] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Districts.xml
+[2280524.181] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Emergencies.xml
+[2280524.181] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Features.xml
+[2280524.181] UpdateIcons - Loading Data/GranColombia_Maya_Icons_FontIcons.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_GameModes.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Leaders.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Notifications.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Resources.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_UnitActions.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_UnitPortraits.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Units.xml
+[2280524.182] UpdateIcons - Loading Data/GranColombia_Maya_Icons_WorldBuilder_Features.xml
+[2280524.183] Creating database save point.
+[2280524.183] LocalizedText - Loading Text/en_US/GranColombia_Maya_ConfigText.xml
+[2280524.184] LocalizedText - Loading Text/en_US/GranColombia_Maya_PackageText.xml
+[2280524.184] LocalizedText - Loading Text/GranColombia_Maya_Translations_ConfigText.xml
+[2280524.193] LocalizedText - Loading Text/GranColombia_Maya_Translations_PackageText.xml
+[2280524.196] Successfully released save point.
+[2280524.197] UISettingHandler - Loading Byzantium_Gaul.dep
+[2280524.198] ModdingUpdateConfigurationDatabase - Loading Data/Byzantium_Gaul_ConfigData.xml
+[2280524.199] ModdingUpdateConfigurationDatabase - Loading Data/Byzantium_Gaul_StandardMaps.xml
+[2280524.200] UpdateColors - Loading Data/Byzantium_Gaul_Colors.xml
+[2280524.200] Creating database save point.
+[2280524.200] LocalizedText - Loading Text/en_US/Byzantium_Gaul_ConfigText.xml
+[2280524.201] LocalizedText - Loading Text/en_US/Byzantium_Gaul_PackageText.xml
+[2280524.202] LocalizedText - Loading Text/Byzantium_Gaul_Translations_ConfigText.xml
+[2280524.211] LocalizedText - Loading Text/Byzantium_Gaul_Translations_PackageText.xml
+[2280524.214] Successfully released save point.
+[2280524.214] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Civilizations.xml
+[2280524.214] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Districts.xml
+[2280524.214] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_FontIcons.xml
+[2280524.214] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_GameModes.xml
+[2280524.215] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Leaders.xml
+[2280524.215] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_UnitPortraits.xml
+[2280524.215] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Units.xml
+[2280524.215] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Wonders.xml
+[2280524.215] UISettingHandler - Loading KublaiKhan_Vietnam.dep
+[2280524.216] ModdingUpdateConfigurationDatabase - Loading Data/KublaiKhan_Vietnam_ConfigData.xml
+[2280524.217] ModdingUpdateConfigurationDatabase - Loading Data/KublaiKhan_Vietnam_ConfigData_Mongolia.xml
+[2280524.218] UpdateColors - Loading Data/KublaiKhan_Vietnam_Colors.xml
+[2280524.219] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Buildings.xml
+[2280524.219] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Civilizations.xml
+[2280524.219] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Districts.xml
+[2280524.219] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Leaders.xml
+[2280524.219] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_UnitPortraits.xml
+[2280524.219] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Units.xml
+[2280524.220] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_MODE.xml
+[2280524.220] Creating database save point.
+[2280524.220] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_ConfigText.xml
+[2280524.221] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_PackageText.xml
+[2280524.221] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_ConfigText.xml
+[2280524.226] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_PackageText.xml
+[2280524.228] Successfully released save point.
+[2280524.228] UISettingHandler - Loading CatherineDeMedici.dep
+[2280524.229] UpdateColors - Loading Data/CatherineDeMedici_Colors.xml
+[2280524.229] ModdingUpdateConfigurationDatabase - Loading Data/CatherineDeMedici_ConfigData.xml
+[2280524.230] UpdateIcons - Loading Data/CatherineDeMedici_Icons.xml
+[2280524.230] Creating database save point.
+[2280524.230] LocalizedText - Loading Text/en_US/CatherineDeMedici_ConfigText.xml
+[2280524.231] LocalizedText - Loading Text/en_US/CatherineDeMedici_PackageText.xml
+[2280524.231] LocalizedText - Loading Text/CatherineDeMedici_Translations_ConfigText.xml
+[2280524.232] LocalizedText - Loading Text/CatherineDeMedici_Translations_PackageText.xml
+[2280524.232] Successfully released save point.
+[2280524.233] UISettingHandler - Loading GreatWarlords.dep
+[2280524.234] ModdingUpdateConfigurationDatabase - Loading Data/GreatWarlords_ConfigData.xml
+[2280524.235] ModdingUpdateConfigurationDatabase - Loading Data/GreatWarlords_ConfigData_NaderShah.xml
+[2280524.235] UpdateColors - Loading Data/GreatWarlords_Colors.xml
+[2280524.236] UpdateIcons - Loading Data/GreatWarlords_Icons_Leaders.xml
+[2280524.236] Creating database save point.
+[2280524.236] LocalizedText - Loading Text/en_US/GreatWarlords_ConfigText.xml
+[2280524.236] LocalizedText - Loading Text/GreatWarlords_Translations_ConfigText.xml
+[2280524.238] Successfully released save point.
+[2280524.239] UISettingHandler - Loading Ethiopia.dep
+[2280524.240] UpdateColors - Loading Data/Ethiopia_Colors.xml
+[2280524.240] UpdateIcons - Loading Data/Ethiopia_Icons_Relics_MODE.xml
+[2280524.240] UpdateIcons - Loading Data/Ethiopia_Icons_Buildings.xml
+[2280524.241] UpdateIcons - Loading Data/Ethiopia_Icons_Civilizations.xml
+[2280524.241] UpdateIcons - Loading Data/Ethiopia_Icons_Districts.xml
+[2280524.241] UpdateIcons - Loading Data/Ethiopia_Icons_GameModes.xml
+[2280524.241] UpdateIcons - Loading Data/Ethiopia_Icons_Leaders.xml
+[2280524.241] UpdateIcons - Loading Data/Ethiopia_Icons_Notifications.xml
+[2280524.242] UpdateIcons - Loading Data/Ethiopia_Icons_Projects.xml
+[2280524.242] UpdateIcons - Loading Data/Ethiopia_Icons_Resources.xml
+[2280524.242] UpdateIcons - Loading Data/Ethiopia_Icons_UnitActions.xml
+[2280524.242] UpdateIcons - Loading Data/Ethiopia_Icons_UnitPortraits.xml
+[2280524.242] UpdateIcons - Loading Data/Ethiopia_Icons_Units.xml
+[2280524.242] ModdingUpdateConfigurationDatabase - Loading Data/Ethiopia_ConfigData.xml
+[2280524.243] Creating database save point.
+[2280524.243] LocalizedText - Loading Text/en_US/Ethiopia_ConfigText.xml
+[2280524.244] LocalizedText - Loading Text/en_US/Ethiopia_PackageText.xml
+[2280524.244] LocalizedText - Loading Text/Ethiopia_Translations_ConfigText.xml
+[2280524.249] LocalizedText - Loading Text/Ethiopia_Translations_PackageText.xml
+[2280524.250] Successfully released save point.
+[2280524.250] UISettingHandler - Loading Babylon.dep
+[2280524.252] ModdingUpdateConfigurationDatabase - Loading Data/Babylon_ConfigData.xml
+[2280524.253] UpdateColors - Loading Data/Babylon_Colors.xml
+[2280524.253] UpdateColors - Loading Data/Babylon_Colors_Config.xml
+[2280524.253] UpdateIcons - Loading Data/Babylon_Icons_Buildings.xml
+[2280524.254] UpdateIcons - Loading Data/Babylon_Icons_Civilizations.xml
+[2280524.254] UpdateIcons - Loading Data/Babylon_Icons_FontIcons.xml
+[2280524.254] UpdateIcons - Loading Data/Babylon_Icons_GameModes.xml
+[2280524.254] UpdateIcons - Loading Data/Babylon_Icons_Leaders.xml
+[2280524.254] UpdateIcons - Loading Data/Babylon_Icons_UnitPortraits.xml
+[2280524.254] UpdateIcons - Loading Data/Babylon_Icons_Units.xml
+[2280524.254] Creating database save point.
+[2280524.254] LocalizedText - Loading Text/en_US/Babylon_ConfigText.xml
+[2280524.255] LocalizedText - Loading Text/Babylon_Translations_ConfigText.xml
+[2280524.259] Successfully released save point.
+[2280524.259] UISettingHandler - Loading GreatBuilders.dep
+[2280524.260] ModdingUpdateConfigurationDatabase - Loading Data/GreatBuilders_ConfigData.xml
+[2280524.260] ModdingUpdateConfigurationDatabase - Loading Data/GreatBuilders_ConfigData_Byzantium.xml
+[2280524.261] ModdingUpdateConfigurationDatabase - Loading Data/GreatBuilders_ConfigData_Korea.xml
+[2280524.262] UpdateColors - Loading Data/GreatBuilders_Colors.xml
+[2280524.262] UpdateIcons - Loading Data/GreatBuilders_Icons_Leaders.xml
+[2280524.262] Creating database save point.
+[2280524.262] LocalizedText - Loading Text/en_US/GreatBuilders_ConfigText.xml
+[2280524.263] LocalizedText - Loading Text/GreatBuilders_Translations_ConfigText.xml
+[2280524.264] Successfully released save point.
+[2280524.265] UISettingHandler - Loading Portugal.dep
+[2280524.266] ModdingUpdateConfigurationDatabase - Loading Data/Portugal_ConfigData.xml
+[2280524.267] ModdingUpdateConfigurationDatabase - Loading Data/Portugal_StandardMaps.xml
+[2280524.268] UpdateColors - Loading Data/Portugal_Colors.xml
+[2280524.268] Creating database save point.
+[2280524.268] LocalizedText - Loading Text/en_US/Portugal_ConfigText.xml
+[2280524.268] LocalizedText - Loading Text/en_US/Portugal_PackageText.xml
+[2280524.269] LocalizedText - Loading Text/Portugal_Translations_ConfigText.xml
+[2280524.272] LocalizedText - Loading Text/Portugal_Translations_PackageText.xml
+[2280524.274] Successfully released save point.
+[2280524.274] UpdateIcons - Loading Data/Portugal_Icons_Buildings.xml
+[2280524.274] UpdateIcons - Loading Data/Portugal_Icons_Civilizations.xml
+[2280524.274] UpdateIcons - Loading Data/Portugal_Icons_Leaders.xml
+[2280524.274] UpdateIcons - Loading Data/Portugal_Icons_UnitActions.xml
+[2280524.275] UpdateIcons - Loading Data/Portugal_Icons_UnitPortraits.xml
+[2280524.275] UpdateIcons - Loading Data/Portugal_Icons_Units.xml
+[2280524.275] UpdateIcons - Loading Data/Portugal_Icons_Wonders.xml
+[2280524.275] UpdateIcons - Loading Data/Zombies_Icons_GameModes.xml
+[2280524.275] Modding Framework - Finished Apply Settings
+[2280524.275] ConfigureContent - Importing implicit files, post settings
+[2280524.729] Successfully reconfigured game.
+[2280525.718] Stage: Configure Content
+[2280525.718] Game Mode: SINGLEPLAYER
+[2280525.718] Map Script: Continents.lua
+[2280525.718] Map Size: 0x172f8b6a
+[2280525.718] Map Seed: 0x85dd2724
+[2280525.718] Human Players: 1
+[2280525.718] AI Players: 1
+[2280525.719] ************************************************************
+[2280525.719] Updating game content
+[2280525.719] ************************************************************
+[2280525.719] Applied in-game actions (in order of application):
+[2280525.719] No active mods.
+[2280525.823] Warning: The activation order of mods is not the same as it was with a prior sorting algorithm.
+[2280525.832] Target in-game actions (in order of application):
+[2280525.832] 4873eb62-8ccc-4574-b784-dda455e74e68 (LOC_EXPANSION2_MOD_TITLE)
+[2280525.832]  * Expansion2Core (UpdateDatabase)
+[2280525.832] 02A8BDDE-67EA-4D38-9540-26E685E3156E (LOC_AZTEC_MONTEZUMA_MOD_TITLE)
+[2280525.832]  * AztecMontezumaColors (UpdateColors)
+[2280525.833]  * AztecMontezumaGameplay (UpdateDatabase)
+[2280525.833]  * AztecMontezumaGameplay_XP2 (UpdateDatabase)
+[2280525.833] 129b79ff-afee-4dff-90db-baee14d9564a (Starting Builder)
+[2280525.833]  * NewAction (UpdateDatabase)
+[2280525.833] 1F367231-A040-4793-BDBB-088816853683 (LOC_INDONESIA_KHMER_MOD_TITLE)
+[2280525.833]  * IndonesiaKhmerArt (UpdateArt)
+[2280525.833]  * IndonesiaKhmerColors (UpdateColors)
+[2280525.834]  * IndonesiaKhmerGameplay (UpdateDatabase)
+[2280525.834]  * IndonesiaKhmerGameplay_XP2 (UpdateDatabase)
+[2280525.834]  * IndonesiaKhmerARX (UpdateLogitechARX)
+[2280525.834]  * IndonesiaKhmerAudio (UpdateAudio)
+[2280525.834]  * IndonesiaKhmerText (UpdateText)
+[2280525.834]  * IndonesiaKhmerInGameIcons (UpdateIcons)
+[2280525.834] 2F6E858A-28EF-46B3-BEAC-B985E52E9BC1 (LOC_MOD_VIKINGSLANDMARKS_TITLE)
+[2280525.834]  * VIKINGSLANDMARKS_AUDIO (UpdateAudio)
+[2280525.834]  * VIKINGSLANDMARKS_ART (UpdateArt)
+[2280525.834]  * VIKINGSLANDMARKS_COLORS (UpdateColors)
+[2280525.835]  * VIKINGSLANDMARKS_DATA (UpdateDatabase)
+[2280525.835]  * VIKINGLANDMARKS_DATA_XP2 (UpdateDatabase)
+[2280525.835]  * VIKINGSLANDMARKS_ICONS (UpdateIcons)
+[2280525.835]  * VIKINGSLANDMARKS_TEXT (UpdateText)
+[2280525.836] 3809975F-263F-40A2-A747-8BFB171D821A (LOC_POLAND_JADWIGA_MOD_TITLE)
+[2280525.836]  * PolandJadwigaArt (UpdateArt)
+[2280525.836]  * PolandJadwigaAudio (UpdateAudio)
+[2280525.836]  * PolandJadwigaColors (UpdateColors)
+[2280525.836]  * PolandJadwigaGameplay (UpdateDatabase)
+[2280525.837]  * PolandJadwigaGameplay_XP2 (UpdateDatabase)
+[2280525.837]  * PolandJadwigaIcons (UpdateIcons)
+[2280525.837]  * PolandJadwigaARX (UpdateLogitechARX)
+[2280525.837]  * PolandJadwigaText (UpdateText)
+[2280525.837] 4ecfcc62-5471-4435-b295-590df213e8d8 (Detailed Map Tacks)
+[2280525.837]  * dmt_yieldcalculator (AddUserInterfaces)
+[2280525.838]  * dmt_text (UpdateText)
+[2280525.838] 5aceed03-8639-4a81-8cbf-03f54d543502 (Quick Deals)
+[2280525.838]  * qd_cachemanager (AddGameplayScripts)
+[2280525.838]  * qd_dealpopup (AddUserInterfaces)
+[2280525.838]  * qd_icons (UpdateIcons)
+[2280525.838]  * qd_db (UpdateDatabase)
+[2280525.838]  * qd_text (UpdateText)
+[2280525.839]  * qd_files (ImportFiles)
+[2280525.839] 643EA320-8E1A-4CF1-A01C-00D88DDD131A (LOC_NUBIA_MOD_TITLE)
+[2280525.839]  * NubiaArt (ModArt)
+[2280525.839]  * NubiaColors (UpdateColors)
+[2280525.839]  * NubiaGameplay_XP2 (UpdateDatabase)
+[2280525.839]  * NubiaARX (UpdateLogitechARX)
+[2280525.839]  * NubiaAudio (UpdateAudio)
+[2280525.839]  * NubiaText (UpdateText)
+[2280525.839]  * NubiaInGameIcons (UpdateIcons)
+[2280525.839] E2749E9A-8056-45CD-901B-C368C8E83DEB (LOC_MACEDONIA_PERSIA_MOD_TITLE)
+[2280525.840]  * MacedoniaArt (UpdateArt)
+[2280525.840]  * MacedoniaAudio (UpdateAudio)
+[2280525.840]  * MacedoniaColors (UpdateColors)
+[2280525.840]  * MacedoniaGameplay_XP2 (UpdateDatabase)
+[2280525.841]  * MacedoniaGameplayIcons (UpdateIcons)
+[2280525.841]  * MacedoniaARX (UpdateLogitechARX)
+[2280525.841]  * MacedoniaText (UpdateText)
+[2280525.841] E3F53C61-371C-440B-96CE-077D318B36C0 (LOC_AUSTRALIA_MOD_TITLE)
+[2280525.841]  * AustraliaArt (UpdateArt)
+[2280525.841]  * AustraliaColors (UpdateColors)
+[2280525.841]  * AustraliaIcons (UpdateIcons)
+[2280525.842]  * AustraliaGameplay (UpdateDatabase)
+[2280525.842]  * AustraliaGameplay_XP2 (UpdateDatabase)
+[2280525.842]  * AustraliaARX (UpdateLogitechARX)
+[2280525.842]  * AustraliaAudio (UpdateAudio)
+[2280525.842]  * AustraliaText (UpdateText)
+[2280525.842] 1B28771A-C749-434B-9053-D1380C553DE9 (LOC_EXPANSION1_MOD_TITLE)
+[2280525.842]  * Expansion1_MajorArt (UpdateArt)
+[2280525.843]  * Expansion1_PlayerColors (UpdateColors)
+[2280525.843]  * Expansion1_MajorContent (UpdateDatabase)
+[2280525.843]  * Expansion1_XP2 (UpdateDatabase)
+[2280525.843]  * Expansion1_MajorARX (UpdateLogitechARX)
+[2280525.843]  * Expansion1_MajorAudio (UpdateAudio)
+[2280525.843]  * Expansion1_MajorIcons (UpdateIcons)
+[2280525.843]  * Expansion1_MajorText (UpdateText)
+[2280525.844]  * Expansion1_XP2Files (ImportFiles)
+[2280525.844] 4873eb62-8ccc-4574-b784-dda455e74e68 (LOC_EXPANSION2_MOD_TITLE)
+[2280525.844]  * Expansion2Scripts (AddGameplayScripts)
+[2280525.844]  * Expansion2Art (UpdateArt)
+[2280525.844]  * Expansion2_Core_Colors (UpdateColors)
+[2280525.844]  * Expansion2_PlayerColors (UpdateColors)
+[2280525.844]  * Expansion2CoreContent (UpdateDatabase)
+[2280525.845]  * Expansion2MajorContent (UpdateDatabase)
+[2280525.845]  * Expansion2_CoreText (UpdateText)
+[2280525.845]  * Expansion2_MajorText (UpdateText)
+[2280525.845]  * Expansion2_MajorARX (UpdateLogitechARX)
+[2280525.845]  * Expansion2Audio (UpdateAudio)
+[2280525.845]  * Expansion1Icons (UpdateIcons)
+[2280525.845]  * Expansion2Icons (UpdateIcons)
+[2280525.845]  * Expansion1InGameUI (AddUserInterfaces)
+[2280525.846]  * Expansion1_ReportScreen (ReplaceUIScript)
+[2280525.846]  * Expansion1_NewTurnPanel (ReplaceUIScript)
+[2280525.846]  * Expansion1_WorldTracker (ReplaceUIScript)
+[2280525.846]  * Expansion1_EspionageChooser (ReplaceUIScript)
+[2280525.846]  * Expansion1_EspionageOverview (ReplaceUIScript)
+[2280525.846]  * Expansion1_TutorialUIRoot (ReplaceUIScript)
+[2280525.846]  * Expansion1_InGameTopOptionsMenu (ReplaceUIScript)
+[2280525.846]  * Expansion1_ResearchChooser (ReplaceUIScript)
+[2280525.847]  * Expansion2_ActionPanel (ReplaceUIScript)
+[2280525.847]  * Expansion2_ARXManager (ReplaceUIScript)
+[2280525.847]  * Expansion2_CityPanel (ReplaceUIScript)
+[2280525.847]  * Expansion2_CityPanelOverview (ReplaceUIScript)
+[2280525.847]  * Expansion2_CityStates (ReplaceUIScript)
+[2280525.847]  * Expansion2_CivicsTree (ReplaceUIScript)
+[2280525.847]  * Expansion2_DeclareWarPopup (ReplaceUIScript)
+[2280525.847]  * Expansion2_DiplomacyActionView (ReplaceUIScript)
+[2280525.848]  * Expansion2_DiplomacyRibbon (ReplaceUIScript)
+[2280525.848]  * Expansion2_FullscreenMapPopup (ReplaceUIScript)
+[2280525.848]  * Expansion2_GovernmentScreen (ReplaceUIScript)
+[2280525.848]  * Expansion2_LaunchBar (ReplaceUIScript)
+[2280525.848]  * Expansion2_ModalLensPanel (ReplaceUIScript)
+[2280525.848]  * Expansion2_MinimapPanel (ReplaceUIScript)
+[2280525.848]  * Expansion2_PartialScreenHooks (ReplaceUIScript)
+[2280525.848]  * Expansion2_PlotToolTip (ReplaceUIScript)
+[2280525.849]  * Expansion2_RazeCity (ReplaceUIScript)
+[2280525.849]  * Expansion2_SelectedUnit (ReplaceUIScript)
+[2280525.849]  * Expansion2_TechTree (ReplaceUIScript)
+[2280525.849]  * Expansion2_TopPanel (ReplaceUIScript)
+[2280525.849]  * Expansion2_UnitPanel (ReplaceUIScript)
+[2280525.849]  * Expansion2_WorldInput (ReplaceUIScript)
+[2280525.849]  * Expansion2_WorldRankings (ReplaceUIScript)
+[2280525.849]  * Expansion2_Files (ImportFiles)
+[2280525.850] 113D9459-0A3B-4FCB-A49C-483F40303575 (Teddy Roosevelt Persona Pack)
+[2280525.850]  * TeddyRooseveltArt (UpdateArt)
+[2280525.850]  * TeddyRooseveltARX (UpdateLogitechARX)
+[2280525.850]  * TeddyRooseveltColors (UpdateColors)
+[2280525.850]  * TeddyRooseveltGameplay (UpdateDatabase)
+[2280525.850]  * TeddyRooseveltGameplay_XP2 (UpdateDatabase)
+[2280525.850]  * TeddyRooseveltIcons (UpdateIcons)
+[2280525.850]  * TeddyRooseveltText (UpdateText)
+[2280525.851] 258EF3CA-890B-4863-8A52-982822EFF7BD (LOC_RULERS_OF_ENGLAND_MOD_TITLE)
+[2280525.851]  * RulersOfEnglandArt (UpdateArt)
+[2280525.851]  * RulersOfEnglandAudio (UpdateAudio)
+[2280525.851]  * RulersOfEnglandGameplay (UpdateDatabase)
+[2280525.851]  * RulersOfEnglandColors (UpdateColors)
+[2280525.852]  * RulersOfEnglandGameplay_XP2 (UpdateDatabase)
+[2280525.852]  * RulersOfEnglandIcons (UpdateIcons)
+[2280525.852]  * RulersOfEnglandText (UpdateText)
+[2280525.852] 7A66DB58-B354-4061-8C80-95B638DD6F6C (LOC_GREAT_NEGOTIATORS_MOD_TITLE)
+[2280525.852]  * GreatNegotiatorsArt (UpdateArt)
+[2280525.853]  * GreatNegotiatorsAudio (UpdateAudio)
+[2280525.853]  * GreatNegotiatorsGameplay (UpdateDatabase)
+[2280525.853]  * GreatNegotiatorsColors (UpdateColors)
+[2280525.853]  * GreatNegotiatorsGameplay_XP2 (UpdateDatabase)
+[2280525.853]  * GreatNegotiatorsIcons (UpdateIcons)
+[2280525.853]  * GreatNegotiatorsARX (UpdateLogitechARX)
+[2280525.853]  * GreatNegotiatorsText (UpdateText)
+[2280525.854] 7D27831B-BAA6-4A8B-A39C-94243BAD3F47 (LOC_RULERS_OF_CHINA_MOD_TITLE)
+[2280525.854]  * RulersOfChinaArt (UpdateArt)
+[2280525.854]  * RulersOfChinaAudio (UpdateAudio)
+[2280525.854]  * RulersOfChinaGameplay (UpdateDatabase)
+[2280525.854]  * RulersOfChinaColors (UpdateColors)
+[2280525.855]  * RulersOfChinaGameplay_XP2 (UpdateDatabase)
+[2280525.855]  * RulersOfChinaIcons (UpdateIcons)
+[2280525.855]  * RulersOfChinaText (UpdateText)
+[2280525.855] 82AE6F24-930F-4640-833C-FCDFD4845757 (LOC_RULERS_OF_THE_SAHARA_MOD_TITLE)
+[2280525.855]  * RulersOfTheSaharaArt (UpdateArt)
+[2280525.855]  * RulersOfTheSaharaAudio (UpdateAudio)
+[2280525.856]  * RulersOfTheSaharaGameplay (UpdateDatabase)
+[2280525.856]  * RulersOfTheSaharaColors (UpdateColors)
+[2280525.856]  * RulersOfTheSaharaGameplay_XP2 (UpdateDatabase)
+[2280525.856]  * RulersOfTheSaharaIcons (UpdateIcons)
+[2280525.856]  * RulersOfTheSaharaText (UpdateText)
+[2280525.856] 9DE86512-DE1A-400D-8C0A-AB46EBBF76B9 (Maya and Gran Colombia Pack)
+[2280525.856]  * GranColombiaMayaArt (UpdateArt)
+[2280525.857]  * GranColombiaMayaGameplay (UpdateDatabase)
+[2280525.857]  * GranColombiaMayaGameplay_Macedonia (UpdateDatabase)
+[2280525.857]  * GranColombiaMayaARX (UpdateLogitechARX)
+[2280525.857]  * GranColombiaMayaColors (UpdateColors)
+[2280525.857]  * GranColombiaMayaGameplay_XP2 (UpdateDatabase)
+[2280525.857]  * GranColombiaMayaText (UpdateText)
+[2280525.857]  * GranColumbiaMayaAudio (UpdateAudio)
+[2280525.858]  * GranColombiaMayaIcons (UpdateIcons)
+[2280525.858]  * GranColombiaMaya_ClimateScreen (ReplaceUIScript)
+[2280525.858]  * GranColombiaMaya_NaturalDisasterPopup (ReplaceUIScript)
+[2280525.858]  * GranColombiaMaya_XP2Files (ImportFiles)
+[2280525.858] A1100FC4-70F2-4129-AC27-2A65A685ED08 (Byzantium and Gaul Pack)
+[2280525.858]  * ByzantiumGaulArt (UpdateArt)
+[2280525.858]  * ByzantiumGaulGameplay (UpdateDatabase)
+[2280525.858]  * ByzantiumGaulColors (UpdateColors)
+[2280525.859]  * ByzantiumGaulGameplay_XP2 (UpdateDatabase)
+[2280525.859]  * ByzantiumGaulText (UpdateText)
+[2280525.859]  * ByzantiumGaulIcons (UpdateIcons)
+[2280525.859]  * ByzantiumGaul_ARX (UpdateLogitechARX)
+[2280525.859]  * ByzantiumGaul_Audio (UpdateAudio)
+[2280525.859]  * ByzantiumGaul_XP2Files (ImportFiles)
+[2280525.859] A3F42CD4-6C3E-4F5A-BC81-BE29E0C0B87C (Vietnam and Kublai Khan Pack)
+[2280525.860]  * KublaiKhanArt (UpdateArt)
+[2280525.860]  * KublaiKhanAudio (UpdateAudio)
+[2280525.860]  * KublaiKhanVietnamGameplay (UpdateDatabase)
+[2280525.860]  * KublaiKhanVietnamColors (UpdateColors)
+[2280525.860]  * KublaiKhanVietnamGameplay_Mongolia (UpdateDatabase)
+[2280525.860]  * KublaiKhanVietnamGameplay_XP1 (UpdateDatabase)
+[2280525.860]  * KublaiKhanVietnamGameplay_XP2 (UpdateDatabase)
+[2280525.861]  * KublaiKhanVietnamIcons (UpdateIcons)
+[2280525.861]  * KublaiKhanVietnamARX (UpdateLogitechARX)
+[2280525.861]  * KublaiKhanVietnamText (UpdateText)
+[2280525.861]  * KublaiKhanVietnam_DistrictPlotIconManager (ReplaceUIScript)
+[2280525.862]  * KublaiKhanVietnam_Files (ImportFiles)
+[2280525.862] CE5876CD-6900-46D1-9C9C-8DBA1F28872E (Catherine de Medici Persona Pack)
+[2280525.862]  * CatherineDeMediciArt (UpdateArt)
+[2280525.862]  * CatherineDeMediciARX (UpdateLogitechARX)
+[2280525.862]  * CatherineDeMediciColors (UpdateColors)
+[2280525.862]  * CatherineDeMediciGameplay (UpdateDatabase)
+[2280525.863]  * CatherineDeMediciIcons (UpdateIcons)
+[2280525.863]  * CatherineDeMediciText (UpdateText)
+[2280525.863] F48213B4-56F5-45DD-92F7-AC78E49BDA49 (LOC_GREAT_WARLORDS_MOD_TITLE)
+[2280525.863]  * GreatWarlordsArt (UpdateArt)
+[2280525.863]  * GreatWarlordsAudio (UpdateAudio)
+[2280525.864]  * GreatWarlordsGameplay (UpdateDatabase)
+[2280525.864]  * GreatWarlordsGameplay_Nader (UpdateDatabase)
+[2280525.864]  * GreatWarlordsColors (UpdateColors)
+[2280525.864]  * GreatWarlordsGameplay_XP2 (UpdateDatabase)
+[2280525.864]  * GreatWarlordsGameplay_XP2_Nader (UpdateDatabase)
+[2280525.864]  * GreatWarlordsIcons (UpdateIcons)
+[2280525.865]  * GreatWarlordsARX (UpdateLogitechARX)
+[2280525.865]  * GreatWarlordsText (UpdateText)
+[2280525.865] 1B394FE9-23DC-4868-8F0A-5220CB8FB427 (Ethiopia Pack)
+[2280525.865]  * EthiopiaArt (UpdateArt)
+[2280525.865]  * EthiopiaGameplay (UpdateDatabase)
+[2280525.865]  * EthiopiaColors (UpdateColors)
+[2280525.866]  * EthiopiaGameplay_XP2 (UpdateDatabase)
+[2280525.866]  * EthiopiaIcons (UpdateIcons)
+[2280525.866]  * EthiopiaText (UpdateText)
+[2280525.866]  * EthiopiaAudio (UpdateAudio)
+[2280525.866]  * EthiopiaARX (UpdateLogitechARX)
+[2280525.866] 8424840C-92EF-4426-A9B4-B4E0CB818049 (Babylon Pack)
+[2280525.867]  * BabylonArt (UpdateArt)
+[2280525.867]  * BabylonAudio (UpdateAudio)
+[2280525.867]  * BabylonARX (UpdateLogitechARX)
+[2280525.867]  * BabylonGameplay (UpdateDatabase)
+[2280525.867]  * BabylonColors (UpdateColors)
+[2280525.867]  * BabylonGameplay_XP2 (UpdateDatabase)
+[2280525.868]  * BabylonGameplay_GranColombia_Maya (UpdateDatabase)
+[2280525.868]  * BabylonText (UpdateText)
+[2280525.868]  * BabylonIcons (UpdateIcons)
+[2280525.869] 249D9276-0832-48E4-B370-14531FA4E33C (LOC_GREAT_BUILDERS_MOD_TITLE)
+[2280525.869]  * GreatBuildersArt (UpdateArt)
+[2280525.869]  * GreatBuildersAudio (UpdateAudio)
+[2280525.869]  * GreatBuildersGameplay (UpdateDatabase)
+[2280525.869]  * GreatBuildersGameplay_Byzantium (UpdateDatabase)
+[2280525.869]  * GreatBuildersColors (UpdateColors)
+[2280525.869]  * GreatBuildersGameplay_XP2 (UpdateDatabase)
+[2280525.869]  * GreatBuildersIcons (UpdateIcons)
+[2280525.869]  * GreatBuildersText (UpdateText)
+[2280525.870] FFDF4E79-DEE2-47BB-919B-F5739106627A (Portugal Pack)
+[2280525.870]  * PortugalArt (UpdateArt)
+[2280525.870]  * PortugalAudio (UpdateAudio)
+[2280525.870]  * PortugalGameplay (UpdateDatabase)
+[2280525.870]  * PortugalGameplayXP2 (UpdateDatabase)
+[2280525.870]  * PortugalColors (UpdateColors)
+[2280525.870]  * PortugalGameplay_XP2 (UpdateDatabase)
+[2280525.871]  * PortugalGameplayIcons (UpdateIcons)
+[2280525.871]  * PortugalARX (UpdateLogitechARX)
+[2280525.871]  * PortugalText (UpdateText)
+[2280525.871]  * Portugal_XP1Files (ImportFiles)
+[2280525.871] 4ecfcc62-5471-4435-b295-590df213e8d8 (Detailed Map Tacks)
+[2280525.871]  * mappinmanager (ReplaceUIScript)
+[2280525.871]  * mappinpopup (ReplaceUIScript)
+[2280525.872]  * dmt_files (ImportFiles)
+[2280525.872] 5aceed03-8639-4a81-8cbf-03f54d543502 (Quick Deals)
+[2280525.872]  * qd_diplomacyactionview (ReplaceUIScript)
+[2280525.907] Game content needs to change to match target config.
+[2280525.907] Performing pre configure processing.
+[2280525.929] Unloading Gameplay DLL.
+[2280526.002] Reloading Gameplay DLL.
+[2280526.129] Reverted Localization database to its original state.
+[2280526.129] Rebuilding gameplay database.
+[2280526.351] Reverted Gameplay database to its original state.
+[2280526.351] Updating gameplay database with embedded GameCore data.
+[2280526.370] Updated gameplay database with GameCore data.
+[2280526.370] Applying mod components.
+[2280526.370] UpdateContent - Importing implicit files, pre components
+[2280526.507] Modding Framework - Applying Components
+[2280526.532] Applying Component - Expansion2Core (UpdateDatabase)
+[2280526.533] UpdateDatabase - Loading Data/Expansion2_Schema.sql
+[2280526.561] UpdateDatabase - Loading Data/Expansion2_RemoveData.xml
+[2280526.811] Applying Component - AztecMontezumaColors (UpdateColors)
+[2280526.811] UpdateColors - Loading Data/Aztec_Montezuma_Colors.xml
+[2280526.811] Applying Component - AztecMontezumaGameplay (UpdateDatabase)
+[2280526.812] UpdateDatabase - Loading Data/Aztec_Montezuma_GameplayData.xml
+[2280526.854] UpdateDatabase - Loading Data/Building_Huey_Teocalli.xml
+[2280526.875] Applying Component - AztecMontezumaGameplay_XP2 (UpdateDatabase)
+[2280526.875] UpdateDatabase - Loading Data/Aztec_Montezuma_Expansion2.xml
+[2280526.878] Applying Component - NewAction (UpdateDatabase)
+[2280526.878] UpdateDatabase - Loading StartingBuilder.xml
+[2280526.879] Applying Component - IndonesiaKhmerArt (UpdateArt)
+[2280526.879] ModArtLoader - Loading DLC6.dep
+[2280526.879] Applying Component - IndonesiaKhmerColors (UpdateColors)
+[2280526.879] UpdateColors - Loading Data/Indonesia_Khmer_Colors.xml
+[2280526.879] Applying Component - IndonesiaKhmerGameplay (UpdateDatabase)
+[2280526.879] UpdateDatabase - Loading Data/Indonesia_Khmer_GameplayData.xml
+[2280526.942] Applying Component - IndonesiaKhmerGameplay_XP2 (UpdateDatabase)
+[2280526.942] UpdateDatabase - Loading Data/Indonesia_Khmer_Expansion2.xml
+[2280527.009] Applying Component - IndonesiaKhmerARX (UpdateLogitechARX)
+[2280527.010] UpdateARX - Loading Data/ARX/Civ_LEADER_GITARJA.png
+[2280527.037] UpdateARX - Loading Data/ARX/Civ_LEADER_JAYAVARMAN.png
+[2280527.084] Applying Component - IndonesiaKhmerAudio (UpdateAudio)
+[2280527.084] UpdateAudio - Loading Platforms/Windows/Audio/DLC06Banks.ini
+[2280527.084] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.bnk
+[2280527.084] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.txt
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Leader_SFX.xml
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Music_Bank.bnk
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Music_Bank.txt
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Music_Bank.xml
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Speech.bnk
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Speech.txt
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Speech.xml
+[2280527.085] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.bnk
+[2280527.086] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.txt
+[2280527.086] UpdateAudio - Loading Platforms/Windows/Audio/DLC06_Unit_Bank_2D.xml
+[2280527.086] Applying Component - IndonesiaKhmerText (UpdateText)
+[2280527.086] Creating database save point.
+[2280527.086] LocalizedText - Loading Text/en_US/Indonesia_Khmer_CivilopediaText.xml
+[2280527.097] LocalizedText - Loading Text/en_US/Indonesia_Khmer_ConfigText.xml
+[2280527.098] LocalizedText - Loading Text/en_US/Indonesia_Khmer_Text.xml
+[2280527.110] LocalizedText - Loading Text/Indonesia_Khmer_Translations_ConfigText.xml
+[2280527.116] LocalizedText - Loading Text/Indonesia_Khmer_Translations_ConfigText_China.xml
+[2280527.117] Warning: Unable to load ../../../DLC/Indonesia_Khmer/Text/Indonesia_Khmer_Translations_ConfigText_China.xml
+[2280527.117] Warning: LocalizedText - Failed loading XML.
+[2280527.117] LocalizedText - Loading Text/Indonesia_Khmer_Translations_Text.xml
+[2280527.216] LocalizedText - Loading Text/Indonesia_Khmer_Translations_Text_China.xml
+[2280527.217] Warning: Unable to load ../../../DLC/Indonesia_Khmer/Text/Indonesia_Khmer_Translations_Text_China.xml
+[2280527.217] Warning: LocalizedText - Failed loading XML.
+[2280527.227] Successfully released save point.
+[2280527.228] Applying Component - IndonesiaKhmerInGameIcons (UpdateIcons)
+[2280527.228] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Buildings.xml
+[2280527.228] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Civilizations.xml
+[2280527.228] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Features.xml
+[2280527.228] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Leaders.xml
+[2280527.228] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_UnitActions.xml
+[2280527.228] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_UnitPortraits.xml
+[2280527.229] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Units.xml
+[2280527.229] UpdateIcons - Loading Data/Indonesia_Khmer_Icons_Wonders.xml
+[2280527.229] Applying Component - VIKINGSLANDMARKS_AUDIO (UpdateAudio)
+[2280527.229] UpdateAudio - Loading Platforms/Windows/Audio/DLC01Banks.ini
+[2280527.229] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.bnk
+[2280527.229] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.txt
+[2280527.229] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Resources_Features_3D.xml
+[2280527.230] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.bnk
+[2280527.230] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.txt
+[2280527.230] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_2D.xml
+[2280527.230] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.bnk
+[2280527.230] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.txt
+[2280527.230] UpdateAudio - Loading Platforms/Windows/Audio/DLC01_Unit_Bank_3D.xml
+[2280527.230] Applying Component - VIKINGSLANDMARKS_ART (UpdateArt)
+[2280527.231] ModArtLoader - Loading VikingsLandmarks.dep
+[2280527.231] Applying Component - VIKINGSLANDMARKS_COLORS (UpdateColors)
+[2280527.231] UpdateColors - Loading Data/VikingsLandmarks_Colors.xml
+[2280527.232] Applying Component - VIKINGSLANDMARKS_DATA (UpdateDatabase)
+[2280527.232] UpdateDatabase - Loading Data/VikingsLandmarks_Abilities.xml
+[2280527.251] UpdateDatabase - Loading Data/VikingsLandmarks_CityStates.xml
+[2280527.264] UpdateDatabase - Loading Data/VikingsLandmarks_Features.xml
+[2280527.276] Applying Component - VIKINGLANDMARKS_DATA_XP2 (UpdateDatabase)
+[2280527.276] UpdateDatabase - Loading Data/VikingsLandmarks_Expansion2.xml
+[2280527.288] Applying Component - VIKINGSLANDMARKS_ICONS (UpdateIcons)
+[2280527.288] UpdateIcons - Loading Data/VikingsLandmarks_Icons_Civilizations.xml
+[2280527.289] UpdateIcons - Loading Data/VikingsLandmarks_Icons_Features.xml
+[2280527.289] UpdateIcons - Loading Data/VikingsLandmarks_Icons_UnitActions.xml
+[2280527.289] Applying Component - VIKINGSLANDMARKS_TEXT (UpdateText)
+[2280527.289] Creating database save point.
+[2280527.289] LocalizedText - Loading Text/en_US/VikingsLandmarks_CivilopediaText.xml
+[2280527.311] LocalizedText - Loading Text/en_US/VikingsLandmarks_ConfigText.xml
+[2280527.312] LocalizedText - Loading Text/en_US/VikingsLandmarks_Text.xml
+[2280527.313] LocalizedText - Loading Text/VikingsLandmarks_Translations_ConfigText.xml
+[2280527.314] LocalizedText - Loading Text/VikingsLandmarks_Translations_ConfigText_China.xml
+[2280527.314] Warning: Unable to load ../../../DLC/VikingsLandmarks/Text/VikingsLandmarks_Translations_ConfigText_China.xml
+[2280527.314] Warning: LocalizedText - Failed loading XML.
+[2280527.314] LocalizedText - Loading Text/VikingsLandmarks_Translations_Text.xml
+[2280527.344] LocalizedText - Loading Text/VikingsLandmarks_Translations_Text_China.xml
+[2280527.344] Warning: Unable to load ../../../DLC/VikingsLandmarks/Text/VikingsLandmarks_Translations_Text_China.xml
+[2280527.344] Warning: LocalizedText - Failed loading XML.
+[2280527.347] Successfully released save point.
+[2280527.347] Applying Component - PolandJadwigaArt (UpdateArt)
+[2280527.348] ModArtLoader - Loading DLC2.dep
+[2280527.348] Applying Component - PolandJadwigaAudio (UpdateAudio)
+[2280527.348] UpdateAudio - Loading Platforms/Windows/Audio/DLC02Banks.ini
+[2280527.349] UpdateAudio - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.bnk
+[2280527.349] UpdateAudio - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.txt
+[2280527.349] UpdateAudio - Loading Platforms/Windows/Audio/DLC02_Leader_SFX.xml
+[2280527.349] UpdateAudio - Loading Platforms/Windows/Audio/DLC02_Speech.bnk
+[2280527.349] UpdateAudio - Loading Platforms/Windows/Audio/DLC02_Speech.txt
+[2280527.349] UpdateAudio - Loading Platforms/Windows/Audio/DLC02_Speech.xml
+[2280527.349] Applying Component - PolandJadwigaColors (UpdateColors)
+[2280527.349] UpdateColors - Loading Data/Poland_Jadwiga_Colors.xml
+[2280527.350] Applying Component - PolandJadwigaGameplay (UpdateDatabase)
+[2280527.350] UpdateDatabase - Loading Data/Poland_Jadwiga_GameplayData.xml
+[2280527.378] Applying Component - PolandJadwigaGameplay_XP2 (UpdateDatabase)
+[2280527.379] UpdateDatabase - Loading Data/Poland_Jadwiga_Expansion2.xml
+[2280527.411] Applying Component - PolandJadwigaIcons (UpdateIcons)
+[2280527.411] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Buildings.xml
+[2280527.411] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Civilizations.xml
+[2280527.412] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Leaders.xml
+[2280527.412] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_UnitPortraits.xml
+[2280527.412] UpdateIcons - Loading Data/Poland_Jadwiga_Icons_Units.xml
+[2280527.412] Applying Component - PolandJadwigaARX (UpdateLogitechARX)
+[2280527.413] UpdateARX - Loading Data/ARX/Civ_LEADER_JADWIGA.png
+[2280527.426] Applying Component - PolandJadwigaText (UpdateText)
+[2280527.426] Creating database save point.
+[2280527.426] LocalizedText - Loading Text/Poland_Translations_ConfigText.xml
+[2280527.428] LocalizedText - Loading Text/Poland_Translations_ConfigText_China.xml
+[2280527.429] Warning: Unable to load ../../../DLC/Poland_Jadwiga/Text/Poland_Translations_ConfigText_China.xml
+[2280527.429] Warning: LocalizedText - Failed loading XML.
+[2280527.429] LocalizedText - Loading Text/Poland_Translations_Text.xml
+[2280527.462] LocalizedText - Loading Text/Poland_Translations_Text_China.xml
+[2280527.463] Warning: Unable to load ../../../DLC/Poland_Jadwiga/Text/Poland_Translations_Text_China.xml
+[2280527.463] Warning: LocalizedText - Failed loading XML.
+[2280527.463] LocalizedText - Loading Text/en_US/Poland_Jadwiga_ConfigText.xml
+[2280527.463] LocalizedText - Loading Text/en_US/Poland_Jadwiga_GameplayText.xml
+[2280527.499] Successfully released save point.
+[2280527.499] Applying Component - dmt_yieldcalculator (AddUserInterfaces)
+[2280527.500] Applying Component - dmt_text (UpdateText)
+[2280527.500] Creating database save point.
+[2280527.500] LocalizedText - Loading config/en_us/dmt_options_text.xml
+[2280527.500] LocalizedText - Loading text/en_us/dmt_text.xml
+[2280527.518] LocalizedText - Loading config/dmt_options_translations_text.xml
+[2280527.519] LocalizedText - Loading text/dmt_translations_text.xml
+[2280527.553] Successfully released save point.
+[2280527.554] Applying Component - qd_cachemanager (AddGameplayScripts)
+[2280527.554] GameplayScripts - Registering D:/Program Files (x86)/Steam/steamapps/workshop/content/289070/2460661464/gameplay/qd_cachemanager.lua
+[2280527.554] Applying Component - qd_dealpopup (AddUserInterfaces)
+[2280527.555] Applying Component - qd_icons (UpdateIcons)
+[2280527.555] UpdateIcons - Loading data/qd_icons.sql
+[2280527.555] Applying Component - qd_db (UpdateDatabase)
+[2280527.555] UpdateDatabase - Loading data/qd_notifications.xml
+[2280527.556] Applying Component - qd_text (UpdateText)
+[2280527.556] Creating database save point.
+[2280527.556] LocalizedText - Loading config/en_us/qd_options_text.xml
+[2280527.557] LocalizedText - Loading text/qd_text.xml
+[2280527.589] LocalizedText - Loading text/qd_translations_text.xml
+[2280527.597] Successfully released save point.
+[2280527.597] Applying Component - qd_files (ImportFiles)
+[2280527.599] Applying Component - NubiaArt (ModArt)
+[2280527.599] ModArtLoader - Loading DLC5.dep
+[2280527.599] Applying Component - NubiaColors (UpdateColors)
+[2280527.599] UpdateColors - Loading Data/Nubia_Colors.xml
+[2280527.599] UpdateColors - Loading Data/Nubia_PlayerColors.xml
+[2280527.599] Applying Component - NubiaGameplay_XP2 (UpdateDatabase)
+[2280527.599] UpdateDatabase - Loading Data/Nubia_GameplayData.xml
+[2280527.624] UpdateDatabase - Loading Data/Nubia_Expansion2.xml
+[2280527.635] Applying Component - NubiaARX (UpdateLogitechARX)
+[2280527.635] UpdateARX - Loading Data/ARX/Civ_LEADER_AMANITORE.png
+[2280527.650] Applying Component - NubiaAudio (UpdateAudio)
+[2280527.651] UpdateAudio - Loading Platforms/Windows/Audio/DLC05Banks.ini
+[2280527.651] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.bnk
+[2280527.651] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.txt
+[2280527.651] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Leader_SFX.xml
+[2280527.651] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Music_Bank.bnk
+[2280527.652] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Music_Bank.txt
+[2280527.652] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Music_Bank.xml
+[2280527.652] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Speech.bnk
+[2280527.652] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Speech.txt
+[2280527.652] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Speech.xml
+[2280527.653] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.bnk
+[2280527.653] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.txt
+[2280527.653] UpdateAudio - Loading Platforms/Windows/Audio/DLC05_Unit_Bank_2D.xml
+[2280527.653] Applying Component - NubiaText (UpdateText)
+[2280527.653] Creating database save point.
+[2280527.653] LocalizedText - Loading Text/en_US/Nubia_CivilopediaText.xml
+[2280527.682] LocalizedText - Loading Text/en_US/Nubia_ConfigText.xml
+[2280527.683] LocalizedText - Loading Text/en_US/Nubia_Text.xml
+[2280527.699] LocalizedText - Loading Text/Nubia_Amanitore_Translations_ConfigText.xml
+[2280527.701] LocalizedText - Loading Text/Nubia_Amanitore_Translations_ConfigText_China.xml
+[2280527.702] Warning: Unable to load ../../../DLC/Nubia_Amanitore/Text/Nubia_Amanitore_Translations_ConfigText_China.xml
+[2280527.702] Warning: LocalizedText - Failed loading XML.
+[2280527.702] LocalizedText - Loading Text/Nubia_Amanitore_Translations_Text.xml
+[2280527.732] LocalizedText - Loading Text/Nubia_Amanitore_Translations_Text_China.xml
+[2280527.732] Warning: Unable to load ../../../DLC/Nubia_Amanitore/Text/Nubia_Amanitore_Translations_Text_China.xml
+[2280527.732] Warning: LocalizedText - Failed loading XML.
+[2280527.737] Successfully released save point.
+[2280527.737] Applying Component - NubiaInGameIcons (UpdateIcons)
+[2280527.738] UpdateIcons - Loading Data/Nubia_Icons_Buildings.xml
+[2280527.738] UpdateIcons - Loading Data/Nubia_Icons_Civilizations.xml
+[2280527.738] UpdateIcons - Loading Data/Nubia_Icons_Leaders.xml
+[2280527.738] UpdateIcons - Loading Data/Nubia_Icons_UnitActions.xml
+[2280527.738] UpdateIcons - Loading Data/Nubia_Icons_UnitPortraits.xml
+[2280527.739] UpdateIcons - Loading Data/Nubia_Icons_Units.xml
+[2280527.739] UpdateIcons - Loading Data/Nubia_Icons_Wonders.xml
+[2280527.739] Applying Component - MacedoniaArt (UpdateArt)
+[2280527.739] ModArtLoader - Loading DLC4.dep
+[2280527.739] Applying Component - MacedoniaAudio (UpdateAudio)
+[2280527.739] UpdateAudio - Loading Platforms/Windows/Audio/DLC04Banks.ini
+[2280527.739] UpdateAudio - Loading Platforms/Windows/Audio/DLC04_Music_Bank.bnk
+[2280527.740] UpdateAudio - Loading Platforms/Windows/Audio/DLC04_Music_Bank.txt
+[2280527.740] UpdateAudio - Loading Platforms/Windows/Audio/DLC04_Music_Bank.xml
+[2280527.740] Applying Component - MacedoniaColors (UpdateColors)
+[2280527.741] UpdateColors - Loading Data/Macedonia_Persia_Colors.xml
+[2280527.741] UpdateColors - Loading Data/Macedonia_Persia_PlayerColors.xml
+[2280527.741] Applying Component - MacedoniaGameplay_XP2 (UpdateDatabase)
+[2280527.742] UpdateDatabase - Loading Data/Macedonia_Persia_GameplayData.xml
+[2280527.769] UpdateDatabase - Loading Data/Macedonia_Persia_Expansion2.xml
+[2280527.779] Applying Component - MacedoniaGameplayIcons (UpdateIcons)
+[2280527.779] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Buildings.xml
+[2280527.779] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Civilizations.xml
+[2280527.779] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Leaders.xml
+[2280527.779] UpdateIcons - Loading Data/Macedonia_Persia_Icons_UnitActions.xml
+[2280527.779] UpdateIcons - Loading Data/Macedonia_Persia_Icons_UnitPortraits.xml
+[2280527.779] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Units.xml
+[2280527.780] UpdateIcons - Loading Data/Macedonia_Persia_Icons_Wonders.xml
+[2280527.780] Applying Component - MacedoniaARX (UpdateLogitechARX)
+[2280527.780] UpdateARX - Loading Data/ARX/Civ_LEADER_ALEXANDER.png
+[2280527.808] UpdateARX - Loading Data/ARX/Civ_LEADER_CYRUS.png
+[2280527.835] Applying Component - MacedoniaText (UpdateText)
+[2280527.835] Creating database save point.
+[2280527.835] LocalizedText - Loading Text/en_US/Macedonia_Persia_CivilopediaText.xml
+[2280527.850] LocalizedText - Loading Text/en_US/Macedonia_Persia_ConfigText.xml
+[2280527.851] LocalizedText - Loading Text/en_US/Macedonia_Persia_GameplayText.xml
+[2280527.854] LocalizedText - Loading Text/Macedonia_Persia_Translations_ConfigText.xml
+[2280527.859] LocalizedText - Loading Text/Macedonia_Persia_Translations_ConfigText_China.xml
+[2280527.859] Warning: Unable to load ../../../DLC/Macedonia_Persia/Text/Macedonia_Persia_Translations_ConfigText_China.xml
+[2280527.859] Warning: LocalizedText - Failed loading XML.
+[2280527.859] LocalizedText - Loading Text/Macedonia_Persia_Translations_Text.xml
+[2280527.936] LocalizedText - Loading Text/Macedonia_Persia_Translations_Text_China.xml
+[2280527.937] Warning: Unable to load ../../../DLC/Macedonia_Persia/Text/Macedonia_Persia_Translations_Text_China.xml
+[2280527.937] Warning: LocalizedText - Failed loading XML.
+[2280527.947] Successfully released save point.
+[2280527.947] Applying Component - AustraliaArt (UpdateArt)
+[2280527.947] ModArtLoader - Loading DLC3.dep
+[2280527.947] Applying Component - AustraliaColors (UpdateColors)
+[2280527.948] UpdateColors - Loading Data/Australia_Colors.xml
+[2280527.948] Applying Component - AustraliaIcons (UpdateIcons)
+[2280527.948] UpdateIcons - Loading Data/Australia_Icons_Civilizations.xml
+[2280527.948] UpdateIcons - Loading Data/Australia_Icons_Features.xml
+[2280527.948] UpdateIcons - Loading Data/Australia_Icons_Leaders.xml
+[2280527.948] UpdateIcons - Loading Data/Australia_Icons_UnitActions.xml
+[2280527.948] UpdateIcons - Loading Data/Australia_Icons_UnitPortraits.xml
+[2280527.948] UpdateIcons - Loading Data/Australia_Icons_Units.xml
+[2280527.948] Applying Component - AustraliaGameplay (UpdateDatabase)
+[2280527.949] UpdateDatabase - Loading Data/Australia_Civilizations.xml
+[2280528.024] UpdateDatabase - Loading Data/Australia_Features.xml
+[2280528.046] UpdateDatabase - Loading Data/Australia_Improvements.xml
+[2280528.083] UpdateDatabase - Loading Data/Australia_Leaders.xml
+[2280528.093] UpdateDatabase - Loading Data/Australia_Units.xml
+[2280528.112] Applying Component - AustraliaGameplay_XP2 (UpdateDatabase)
+[2280528.113] UpdateDatabase - Loading Data/Australia_Expansion2.xml
+[2280528.130] Applying Component - AustraliaARX (UpdateLogitechARX)
+[2280528.130] UpdateARX - Loading Data/ARX/Civ_LEADER_JOHN_CURTIN.png
+[2280528.154] Applying Component - AustraliaAudio (UpdateAudio)
+[2280528.154] UpdateAudio - Loading Platforms/Windows/Audio/DLC03Banks.ini
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.bnk
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.txt
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Leader_SFX.xml
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Music_Bank.bnk
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Music_Bank.txt
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Music_Bank.xml
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Speech.bnk
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Speech.txt
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Speech.xml
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.bnk
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.txt
+[2280528.155] UpdateAudio - Loading Platforms/Windows/Audio/DLC03_Unit_Bank_2D.xml
+[2280528.156] Applying Component - AustraliaText (UpdateText)
+[2280528.156] Creating database save point.
+[2280528.156] LocalizedText - Loading Text/en_US/Australia_CivilopediaText.xml
+[2280528.221] LocalizedText - Loading Text/en_US/Australia_ConfigText.xml
+[2280528.222] LocalizedText - Loading Text/en_US/Australia_Text.xml
+[2280528.235] LocalizedText - Loading Text/Australia_Translations_ConfigText.xml
+[2280528.240] LocalizedText - Loading Text/Australia_Translations_ConfigText_China.xml
+[2280528.240] Warning: Unable to load ../../../DLC/Australia/Text/Australia_Translations_ConfigText_China.xml
+[2280528.240] Warning: LocalizedText - Failed loading XML.
+[2280528.240] LocalizedText - Loading Text/Australia_Translations_Text.xml
+[2280528.428] LocalizedText - Loading Text/Australia_Translations_Text_China.xml
+[2280528.428] Warning: Unable to load ../../../DLC/Australia/Text/Australia_Translations_Text_China.xml
+[2280528.428] Warning: LocalizedText - Failed loading XML.
+[2280528.433] Successfully released save point.
+[2280528.434] Applying Component - Expansion1_MajorArt (UpdateArt)
+[2280528.434] ModArtLoader - Loading Expansion1.dep
+[2280528.434] Applying Component - Expansion1_PlayerColors (UpdateColors)
+[2280528.434] UpdateColors - Loading Data/Expansion1_PlayerColors.xml
+[2280528.434] Applying Component - Expansion1_MajorContent (UpdateDatabase)
+[2280528.435] UpdateDatabase - Loading Data/Expansion1_Agendas_Major.xml
+[2280528.459] UpdateDatabase - Loading Data/Expansion1_Buildings_Major.xml
+[2280528.487] UpdateDatabase - Loading Data/Expansion1_Civilizations_Major.xml
+[2280528.520] UpdateDatabase - Loading Data/Expansion1_Districts_Major.xml
+[2280528.582] UpdateDatabase - Loading Data/Expansion1_Features_Major.xml
+[2280528.606] UpdateDatabase - Loading Data/Expansion1_Improvements_Major.xml
+[2280528.621] UpdateDatabase - Loading Data/Expansion1_Leaders_Major.xml
+[2280528.633] UpdateDatabase - Loading Data/Expansion1_Units_Major.xml
+[2280528.637] Applying Component - Expansion1_XP2 (UpdateDatabase)
+[2280528.638] UpdateDatabase - Loading Data/Expansion1_Expansion2.xml
+[2280528.641] Applying Component - Expansion1_MajorARX (UpdateLogitechARX)
+[2280528.642] UpdateARX - Loading Data/ARX/Civ_LEADER_CHANDRAGUPTA.png
+[2280528.655] UpdateARX - Loading Data/ARX/Civ_LEADER_GENGHIS_KHAN.png
+[2280528.708] UpdateARX - Loading Data/ARX/Civ_LEADER_LAUTARO.png
+[2280528.722] UpdateARX - Loading Data/ARX/Civ_LEADER_POUNDMAKER.png
+[2280528.753] UpdateARX - Loading Data/ARX/Civ_LEADER_ROBERT_THE_BRUCE.png
+[2280528.772] UpdateARX - Loading Data/ARX/Civ_LEADER_SEONDEOK.png
+[2280528.802] UpdateARX - Loading Data/ARX/Civ_LEADER_SHAKA.png
+[2280528.822] UpdateARX - Loading Data/ARX/Civ_LEADER_TAMAR.png
+[2280528.849] UpdateARX - Loading Data/ARX/Civ_LEADER_WILHELMINA.png
+[2280528.860] Applying Component - Expansion1_MajorAudio (UpdateAudio)
+[2280528.861] UpdateAudio - Loading Platforms/Windows/Audio/XP1Banks.ini
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Ambiences.bnk
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Ambiences.txt
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Ambiences.xml
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Music_Bank.bnk
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Music_Bank.txt
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Music_Bank.xml
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Speech.bnk
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Speech.txt
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Speech.xml
+[2280528.877] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Unit_Bank_3D.bnk
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Unit_Bank_3D.txt
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Unit_Bank_3D.xml
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Wonders.bnk
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Wonders.txt
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP1_Wonders.xml
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.bnk
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.txt
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.xml
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.bnk
+[2280528.878] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.txt
+[2280528.879] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.xml
+[2280528.879] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk
+[2280528.879] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt
+[2280528.879] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml
+[2280528.879] Applying Component - Expansion1_MajorIcons (UpdateIcons)
+[2280528.879] UpdateIcons - Loading Data/Expansion1_Icons_Civilizations.xml
+[2280528.879] UpdateIcons - Loading Data/Expansion1_Icons_Leaders.xml
+[2280528.879] UpdateIcons - Loading Data/Expansion1_Icons_Wonders.xml
+[2280528.879] Applying Component - Expansion1_MajorText (UpdateText)
+[2280528.880] Creating database save point.
+[2280528.880] LocalizedText - Loading Text/en_US/Expansion1_Agendas_Major_Text.xml
+[2280528.888] LocalizedText - Loading Text/en_US/Expansion1_CitizenNames_Major_Text.xml
+[2280528.892] LocalizedText - Loading Text/en_US/Expansion1_CityNames_Major_Text.xml
+[2280528.913] LocalizedText - Loading Text/en_US/Expansion1_Civilopedia_Major_Text.xml
+[2280528.935] LocalizedText - Loading Text/en_US/Expansion1_ConfigText.xml
+[2280528.936] LocalizedText - Loading Text/en_US/Expansion1_DiplomacyModifiers_Major_Text.xml
+[2280528.938] LocalizedText - Loading Text/en_US/Expansion1_DiplomacyStatements_Major_Text.xml
+[2280528.954] LocalizedText - Loading Text/en_US/Expansion1_HallofFame_Text.xml
+[2280528.954] LocalizedText - Loading Text/en_US/Expansion1_LoadingInfo_Major_Text.xml
+[2280528.961] LocalizedText - Loading Text/en_US/Expansion1_NaturalWonders_Major_Text.xml
+[2280528.973] LocalizedText - Loading Text/Expansion1_Translations_ConfigText.xml
+[2280528.992] LocalizedText - Loading Text/Expansion1_Translations_ConfigText_China.xml
+[2280528.993] Warning: Unable to load ../../../DLC/Expansion1/Text/Expansion1_Translations_ConfigText_China.xml
+[2280528.993] Warning: LocalizedText - Failed loading XML.
+[2280528.993] LocalizedText - Loading Text/Expansion1_Translations_Major_Text.xml
+[2280529.302] LocalizedText - Loading Text/Expansion1_Translations_Major_Text_China.xml
+[2280529.302] Warning: Unable to load ../../../DLC/Expansion1/Text/Expansion1_Translations_Major_Text_China.xml
+[2280529.302] Warning: LocalizedText - Failed loading XML.
+[2280529.368] Successfully released save point.
+[2280529.368] Applying Component - Expansion1_XP2Files (ImportFiles)
+[2280529.369] Applying Component - Expansion2Scripts (AddGameplayScripts)
+[2280529.369] GameplayScripts - Registering ../../../DLC/Expansion2/Scripts/WorldCongress.lua
+[2280529.369] Applying Component - Expansion2Art (UpdateArt)
+[2280529.370] ModArtLoader - Loading Expansion2.dep
+[2280529.370] Applying Component - Expansion2_Core_Colors (UpdateColors)
+[2280529.370] UpdateColors - Loading Data/Expansion2_Core_Colors.xml
+[2280529.370] Applying Component - Expansion2_PlayerColors (UpdateColors)
+[2280529.370] UpdateColors - Loading Data/Expansion2_PlayerColors.xml
+[2280529.370] Applying Component - Expansion2CoreContent (UpdateDatabase)
+[2280529.371] UpdateDatabase - Loading Data/Expansion1_Agendas.xml
+[2280529.399] UpdateDatabase - Loading Data/Expansion1_Alliances.xml
+[2280529.436] UpdateDatabase - Loading Data/Expansion1_Beliefs.xml
+[2280529.437] UpdateDatabase - Loading Data/Expansion1_Buildings.xml
+[2280529.466] UpdateDatabase - Loading Data/Expansion1_Civics.xml
+[2280529.486] UpdateDatabase - Loading Data/Expansion1_Civilizations.xml
+[2280529.496] UpdateDatabase - Loading Data/Expansion1_Civilopedia.xml
+[2280529.497] UpdateDatabase - Loading Data/Expansion1_DiplomacyStatements_DeclareWar.xml
+[2280529.518] UpdateDatabase - Loading Data/Expansion1_DiplomacyStatements_Greeting.xml
+[2280529.578] UpdateDatabase - Loading Data/Expansion1_DiplomacyStatements_RenewAlliance.xml
+[2280529.603] UpdateDatabase - Loading Data/Expansion1_DiplomaticActions.xml
+[2280529.783] UpdateDatabase - Loading Data/Expansion1_Districts.xml
+[2280529.799] UpdateDatabase - Loading Data/Expansion1_Emergencies.xml
+[2280529.837] UpdateDatabase - Loading Data/Expansion1_Eras.xml
+[2280529.869] UpdateDatabase - Loading Data/Expansion1_Features.xml
+[2280529.870] UpdateDatabase - Loading Data/Expansion1_GlobalParameters.xml
+[2280529.875] UpdateDatabase - Loading Data/Expansion1_Gossip.xml
+[2280529.876] UpdateDatabase - Loading Data/Expansion1_Governments.xml
+[2280529.893] UpdateDatabase - Loading Data/Expansion1_Governors.xml
+[2280529.923] UpdateDatabase - Loading Data/Expansion1_GreatPeople_Admirals.xml
+[2280529.954] UpdateDatabase - Loading Data/Expansion1_GreatPeople_Engineers.xml
+[2280529.981] UpdateDatabase - Loading Data/Expansion1_GreatPeople_Generals.xml
+[2280530.015] UpdateDatabase - Loading Data/Expansion1_GreatPeople_Merchants.xml
+[2280530.034] UpdateDatabase - Loading Data/Expansion1_Happinesses.xml
+[2280530.034] UpdateDatabase - Loading Data/Expansion1_Improvements.xml
+[2280530.042] UpdateDatabase - Loading Data/Expansion1_Leaders.xml
+[2280530.074] UpdateDatabase - Loading Data/Expansion1_LoyaltyLevels.xml
+[2280530.091] UpdateDatabase - Loading Data/Expansion1_Modifiers.xml
+[2280530.126] UpdateDatabase - Loading Data/Expansion1_Moments.xml
+[2280530.171] UpdateDatabase - Loading Data/Expansion1_Notifications.xml
+[2280530.233] UpdateDatabase - Loading Data/Expansion1_Policies.xml
+[2280530.259] UpdateDatabase - Loading Data/Expansion1_Projects.xml
+[2280530.279] UpdateDatabase - Loading Data/Expansion1_Resources.xml
+[2280530.307] UpdateDatabase - Loading Data/Expansion1_Scoring.xml
+[2280530.317] UpdateDatabase - Loading Data/Expansion1_Technologies.xml
+[2280530.319] UpdateDatabase - Loading Data/Expansion1_UnitAbilities.xml
+[2280530.343] UpdateDatabase - Loading Data/Expansion1_UnitCommands.xml
+[2280530.358] UpdateDatabase - Loading Data/Expansion1_UnitOperations.xml
+[2280530.438] UpdateDatabase - Loading Data/Expansion1_UnitPromotions.xml
+[2280530.451] UpdateDatabase - Loading Data/Expansion1_Units.xml
+[2280530.461] UpdateDatabase - Loading Data/Expansion1_Victories.xml
+[2280530.477] UpdateDatabase - Loading Data/Expansion1_Wars.xml
+[2280530.478] UpdateDatabase - Loading Data/Expansion1_Yields.xml
+[2280530.479] UpdateDatabase - Loading Data/Expansion2_AI.xml
+[2280530.496] UpdateDatabase - Loading Data/Expansion2_Agendas.xml
+[2280530.522] UpdateDatabase - Loading Data/Expansion2_Beliefs.xml
+[2280530.533] UpdateDatabase - Loading Data/Expansion2_Buildings.xml
+[2280530.541] UpdateDatabase - Loading Data/Expansion2_Civics.xml
+[2280530.559] UpdateDatabase - Loading Data/Expansion2_Civilizations.xml
+[2280530.570] UpdateDatabase - Loading Data/Expansion2_Civilopedia.xml
+[2280530.574] UpdateDatabase - Loading Data/Expansion2_Congress.xml
+[2280530.592] UpdateDatabase - Loading Data/Expansion2_DiplomaticActions.xml
+[2280530.593] UpdateDatabase - Loading Data/Expansion2_Districts.xml
+[2280530.614] UpdateDatabase - Loading Data/Expansion2_Emergencies.xml
+[2280530.655] UpdateDatabase - Loading Data/Expansion2_Eras.xml
+[2280530.660] UpdateDatabase - Loading Data/Expansion2_Features.xml
+[2280530.678] UpdateDatabase - Loading Data/Expansion2_GameCapabilities.xml
+[2280530.696] UpdateDatabase - Loading Data/Expansion2_GlobalParameters.xml
+[2280530.737] UpdateDatabase - Loading Data/Expansion2_GoodyHuts.xml
+[2280530.742] UpdateDatabase - Loading Data/Expansion2_Gossip.xml
+[2280530.752] UpdateDatabase - Loading Data/Expansion2_Governments.xml
+[2280530.771] UpdateDatabase - Loading Data/Expansion2_Governors.xml
+[2280530.803] UpdateDatabase - Loading Data/Expansion2_GreatPeople_Admirals.xml
+[2280530.806] UpdateDatabase - Loading Data/Expansion2_GreatPeople_Generals.xml
+[2280530.822] UpdateDatabase - Loading Data/Expansion2_GreatPeople_Merchants.xml
+[2280530.837] UpdateDatabase - Loading Data/Expansion2_GreatWorks.xml
+[2280530.871] UpdateDatabase - Loading Data/Expansion2_Improvements.xml
+[2280530.888] UpdateDatabase - Loading Data/Expansion2_Leaders.xml
+[2280530.939] UpdateDatabase - Loading Data/Expansion2_Maps.xml
+[2280531.015] UpdateDatabase - Loading Data/Expansion2_Modifiers.xml
+[2280531.060] UpdateDatabase - Loading Data/Expansion2_Moments.xml
+[2280531.067] UpdateDatabase - Loading Data/Expansion2_NamedPlaces.xml
+[2280531.329] UpdateDatabase - Loading Data/Expansion2_Notifications.xml
+[2280531.351] UpdateDatabase - Loading Data/Expansion2_Policies.xml
+[2280531.376] UpdateDatabase - Loading Data/Expansion2_Projects.xml
+[2280531.407] UpdateDatabase - Loading Data/Expansion2_RandomEvents.xml
+[2280531.424] UpdateDatabase - Loading Data/Expansion2_Resources.xml
+[2280531.432] UpdateDatabase - Loading Data/Expansion2_Routes.xml
+[2280531.449] UpdateDatabase - Loading Data/Expansion2_Technologies.xml
+[2280531.469] UpdateDatabase - Loading Data/Expansion2_TurnPhases.xml
+[2280531.483] UpdateDatabase - Loading Data/Expansion2_UnitAbilities.xml
+[2280531.498] UpdateDatabase - Loading Data/Expansion2_UnitCommands.xml
+[2280531.499] UpdateDatabase - Loading Data/Expansion2_UnitNames.xml
+[2280531.502] UpdateDatabase - Loading Data/Expansion2_UnitOperations.xml
+[2280531.528] UpdateDatabase - Loading Data/Expansion2_UnitPromotions.xml
+[2280531.537] UpdateDatabase - Loading Data/Expansion2_Units.xml
+[2280531.548] UpdateDatabase - Loading Data/Expansion2_Victories.xml
+[2280531.568] Applying Component - Expansion2MajorContent (UpdateDatabase)
+[2280531.569] UpdateDatabase - Loading Data/Expansion2_Agendas_Major.xml
+[2280531.576] UpdateDatabase - Loading Data/Expansion2_Buildings_Major.xml
+[2280531.587] UpdateDatabase - Loading Data/Expansion2_Civilizations_Major.xml
+[2280531.611] UpdateDatabase - Loading Data/Expansion2_Districts_Major.xml
+[2280531.709] UpdateDatabase - Loading Data/Expansion2_Improvements_Major.xml
+[2280531.721] UpdateDatabase - Loading Data/Expansion2_Leaders_Major.xml
+[2280531.739] UpdateDatabase - Loading Data/Expansion2_UnitAbilities_Major.xml
+[2280531.784] UpdateDatabase - Loading Data/Expansion2_UnitPromotions_Major.xml
+[2280531.836] UpdateDatabase - Loading Data/Expansion2_Units_Major.xml
+[2280531.845] Applying Component - Expansion2_CoreText (UpdateText)
+[2280531.845] Creating database save point.
+[2280531.845] LocalizedText - Loading Text/Expansion2_RemoveText.xml
+[2280531.901] LocalizedText - Loading Text/en_US/Expansion1_AdvisorText.xml
+[2280531.906] LocalizedText - Loading Text/en_US/Expansion1_Agendas_Text.xml
+[2280531.909] LocalizedText - Loading Text/en_US/Expansion1_Buildings_Text.xml
+[2280531.923] LocalizedText - Loading Text/en_US/Expansion1_CityBanner_Text.xml
+[2280531.939] LocalizedText - Loading Text/en_US/Expansion1_CityNames_Text.xml
+[2280531.940] LocalizedText - Loading Text/en_US/Expansion1_Civics_Text.xml
+[2280531.954] LocalizedText - Loading Text/en_US/Expansion1_Civilopedia_Text.xml
+[2280532.073] LocalizedText - Loading Text/en_US/Expansion1_DiplomacyDeals_Text.xml
+[2280532.108] LocalizedText - Loading Text/en_US/Expansion1_DiplomacyModifiers_Text.xml
+[2280532.114] LocalizedText - Loading Text/en_US/Expansion1_DiplomacyStatements_Text.xml
+[2280532.129] LocalizedText - Loading Text/en_US/Expansion1_Diplomacy_Text.xml
+[2280532.142] LocalizedText - Loading Text/en_US/Expansion1_Districts_Text.xml
+[2280532.170] LocalizedText - Loading Text/en_US/Expansion1_Eras_Text.xml
+[2280532.173] LocalizedText - Loading Text/en_US/Expansion1_Gossip_Text.xml
+[2280532.188] LocalizedText - Loading Text/en_US/Expansion1_GreatPeople_Text.xml
+[2280532.203] LocalizedText - Loading Text/en_US/Expansion1_InGameText.xml
+[2280532.214] LocalizedText - Loading Text/en_US/Expansion1_Leaders_Text.xml
+[2280532.220] LocalizedText - Loading Text/en_US/Expansion1_Modifiers_Text.xml
+[2280532.220] LocalizedText - Loading Text/en_US/Expansion1_Moments_Text.xml
+[2280532.226] LocalizedText - Loading Text/en_US/Expansion1_Notifications_Text.xml
+[2280532.269] LocalizedText - Loading Text/en_US/Expansion1_Religion_Text.xml
+[2280532.269] LocalizedText - Loading Text/en_US/Expansion1_Technologies_Text.xml
+[2280532.269] LocalizedText - Loading Text/en_US/Expansion1_Units_Text.xml
+[2280532.444] LocalizedText - Loading Text/en_US/Expansion1_Wars_Text.xml
+[2280532.445] LocalizedText - Loading Text/en_US/Expansion2_AdvisorText.xml
+[2280532.523] LocalizedText - Loading Text/en_US/Expansion2_Buildings_Text.xml
+[2280532.554] LocalizedText - Loading Text/en_US/Expansion2_CitizenNames_Text.xml
+[2280532.582] LocalizedText - Loading Text/en_US/Expansion2_CityNames_Text.xml
+[2280532.585] LocalizedText - Loading Text/en_US/Expansion2_Civics_Text.xml
+[2280532.587] LocalizedText - Loading Text/en_US/Expansion2_Civilopedia_Text.xml
+[2280532.608] LocalizedText - Loading Text/en_US/Expansion2_CongressText.xml
+[2280532.609] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyDeals_Text.xml
+[2280532.616] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyModifiers_Text.xml
+[2280532.632] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyStatements_DeclareWar_Text.xml
+[2280532.641] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyStatements_Denounce_Text.xml
+[2280532.642] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyStatements_FirstMeet_Text.xml
+[2280532.648] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyStatements_KudosAndWarnings_Text.xml
+[2280532.676] LocalizedText - Loading Text/en_US/Expansion2_DiplomacyStatements_Misc.xml
+[2280532.690] LocalizedText - Loading Text/en_US/Expansion2_Districts_Text.xml
+[2280532.735] LocalizedText - Loading Text/en_US/Expansion2_FeaturesAndTerrains_Text.xml
+[2280532.759] LocalizedText - Loading Text/en_US/Expansion2_Gossip_Text.xml
+[2280532.771] LocalizedText - Loading Text/en_US/Expansion2_GreatPeople_Text.xml
+[2280532.775] LocalizedText - Loading Text/en_US/Expansion2_Improvements_Text.xml
+[2280532.794] LocalizedText - Loading Text/en_US/Expansion2_InGameText.xml
+[2280532.805] LocalizedText - Loading Text/en_US/Expansion2_Leaders_Text.xml
+[2280532.807] LocalizedText - Loading Text/en_US/Expansion2_LoadingInfo_Text.xml
+[2280532.817] LocalizedText - Loading Text/en_US/Expansion2_Moments_Text.xml
+[2280532.819] LocalizedText - Loading Text/en_US/Expansion2_NamedPlaces_Text.xml
+[2280532.842] LocalizedText - Loading Text/en_US/Expansion2_Notifications_Text.xml
+[2280532.844] LocalizedText - Loading Text/en_US/Expansion2_Promotions_Text.xml
+[2280532.864] LocalizedText - Loading Text/en_US/Expansion2_Quotes_Text.xml
+[2280532.871] LocalizedText - Loading Text/en_US/Expansion2_RandomEvents_Text.xml
+[2280532.874] LocalizedText - Loading Text/en_US/Expansion2_Religion_Text.xml
+[2280532.892] LocalizedText - Loading Text/en_US/Expansion2_Routes_Text.xml
+[2280532.893] LocalizedText - Loading Text/en_US/Expansion2_Technologies_Text.xml
+[2280532.899] LocalizedText - Loading Text/en_US/Expansion2_UnitNames_Text.xml
+[2280532.906] LocalizedText - Loading Text/en_US/Expansion2_Unit_Abilities_Text.xml
+[2280532.918] LocalizedText - Loading Text/en_US/Expansion2_Units_Text.xml
+[2280532.933] LocalizedText - Loading Text/Expansion2_Translations_Text.xml
+[2280534.505] LocalizedText - Loading Text/Expansion2_Translations_Text_China.xml
+[2280534.505] Warning: Unable to load ../../../DLC/Expansion2/Text/Expansion2_Translations_Text_China.xml
+[2280534.505] Warning: LocalizedText - Failed loading XML.
+[2280534.856] Successfully released save point.
+[2280534.857] Applying Component - Expansion2_MajorText (UpdateText)
+[2280534.857] Creating database save point.
+[2280534.857] LocalizedText - Loading Text/en_US/Expansion1_HallofFame_Text.xml
+[2280534.857] LocalizedText - Loading Text/en_US/Expansion2_ConfigText.xml
+[2280534.859] LocalizedText - Loading Text/en_US/Expansion2_HallofFame_Text.xml
+[2280534.860] LocalizedText - Loading Text/Expansion2_Translations_ConfigText.xml
+[2280534.888] LocalizedText - Loading Text/Expansion2_Translations_ConfigText_China.xml
+[2280534.889] Warning: Unable to load ../../../DLC/Expansion2/Text/Expansion2_Translations_ConfigText_China.xml
+[2280534.889] Warning: LocalizedText - Failed loading XML.
+[2280534.889] LocalizedText - Loading Text/Expansion2_Translations_Major_Text.xml
+[2280534.889] Warning: Unable to load ../../../DLC/Expansion2/Text/Expansion2_Translations_Major_Text.xml
+[2280534.889] Warning: LocalizedText - Failed loading XML.
+[2280534.889] LocalizedText - Loading Text/Expansion2_Translations_Major_Text_China.xml
+[2280534.889] Warning: Unable to load ../../../DLC/Expansion2/Text/Expansion2_Translations_Major_Text_China.xml
+[2280534.889] Warning: LocalizedText - Failed loading XML.
+[2280534.895] Successfully released save point.
+[2280534.896] Applying Component - Expansion2_MajorARX (UpdateLogitechARX)
+[2280534.896] UpdateARX - Loading Data/ARX/Civ_LEADER_DIDO.png
+[2280534.911] UpdateARX - Loading Data/ARX/Civ_LEADER_ELEANOR_ENGLAND.png
+[2280534.942] UpdateARX - Loading Data/ARX/Civ_LEADER_ELEANOR_FRANCE.png
+[2280534.956] UpdateARX - Loading Data/ARX/Civ_LEADER_KRISTINA.png
+[2280534.995] UpdateARX - Loading Data/ARX/Civ_LEADER_KUPE.png
+[2280535.069] UpdateARX - Loading Data/ARX/Civ_LEADER_LAURIER.png
+[2280535.094] UpdateARX - Loading Data/ARX/Civ_LEADER_MANSA_MUSA.png
+[2280535.261] UpdateARX - Loading Data/ARX/Civ_LEADER_MATTHIAS_CORVINUS.png
+[2280535.303] UpdateARX - Loading Data/ARX/Civ_LEADER_PACHACUTI.png
+[2280535.318] UpdateARX - Loading Data/ARX/Civ_LEADER_SULEIMAN.png
+[2280535.353] Applying Component - Expansion2Audio (UpdateAudio)
+[2280535.353] UpdateAudio - Loading Platforms/Windows/Audio/XP2Banks.ini
+[2280535.363] UpdateAudio - Loading Platforms/Windows/Audio/XP2_Music_Bank.bnk
+[2280535.363] UpdateAudio - Loading Platforms/Windows/Audio/XP2_Music_Bank.txt
+[2280535.363] UpdateAudio - Loading Platforms/Windows/Audio/XP2_Music_Bank.xml
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP2_Speech.bnk
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP2_Speech.txt
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP2_Speech.xml
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.bnk
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.txt
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.xml
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.bnk
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.txt
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.xml
+[2280535.364] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk
+[2280535.365] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt
+[2280535.365] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml
+[2280535.365] Applying Component - Expansion1Icons (UpdateIcons)
+[2280535.365] UpdateIcons - Loading Data/Expansion1_Icons_Buildings.xml
+[2280535.365] UpdateIcons - Loading Data/Expansion1_Icons_CityBanner.xml
+[2280535.365] UpdateIcons - Loading Data/Expansion1_Icons_CityStates.xml
+[2280535.365] UpdateIcons - Loading Data/Expansion1_Icons_Civilopedia.xml
+[2280535.365] UpdateIcons - Loading Data/Expansion1_Icons_Diplomacy.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_District_Buildings.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_Districts.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_Emergencies.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_Features.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_FontIcons.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_FreeCities.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_GovernorPromotions.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_Governors.xml
+[2280535.366] UpdateIcons - Loading Data/Expansion1_Icons_HistoricMoments.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Improvements.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Notifications.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Operations.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Policies.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Projects.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Resources.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_Stats.xml
+[2280535.367] UpdateIcons - Loading Data/Expansion1_Icons_UnitPortraits.xml
+[2280535.368] UpdateIcons - Loading Data/Expansion1_Icons_Units.xml
+[2280535.368] Applying Component - Expansion2Icons (UpdateIcons)
+[2280535.368] UpdateIcons - Loading Data/Expansion2_Icons_Beliefs.xml
+[2280535.368] UpdateIcons - Loading Data/Expansion2_Icons_Buildings.xml
+[2280535.368] UpdateIcons - Loading Data/Expansion2_Icons_CityStates.xml
+[2280535.368] UpdateIcons - Loading Data/Expansion2_Icons_Civics.xml
+[2280535.368] UpdateIcons - Loading Data/Expansion2_Icons_Civilizations.xml
+[2280535.368] UpdateIcons - Loading Data/Expansion2_Icons_DistrictBuildings.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Districts.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_EnvironmentalEffects.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Features.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_FontIcons.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Governments.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_GovernorPromotions.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Governors.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Leaders.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Notifications.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Operations.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Policies.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Projects.xml
+[2280535.369] UpdateIcons - Loading Data/Expansion2_Icons_Proposals.xml
+[2280535.370] UpdateIcons - Loading Data/Expansion2_Icons_Stats.xml
+[2280535.370] UpdateIcons - Loading Data/Expansion2_Icons_Tech.xml
+[2280535.370] UpdateIcons - Loading Data/Expansion2_Icons_UnitActions.xml
+[2280535.371] UpdateIcons - Loading Data/Expansion2_Icons_UnitPortraits.xml
+[2280535.371] UpdateIcons - Loading Data/Expansion2_Icons_Units.xml
+[2280535.371] UpdateIcons - Loading Data/Expansion2_Icons_Victories.xml
+[2280535.371] UpdateIcons - Loading Data/Expansion2_Icons_Wonders.xml
+[2280535.371] UpdateIcons - Loading Data/Expansion2_Icons_Yields.xml
+[2280535.372] Applying Component - Expansion1InGameUI (AddUserInterfaces)
+[2280535.373] Applying Component - Expansion1_ReportScreen (ReplaceUIScript)
+[2280535.374] Applying Component - Expansion1_NewTurnPanel (ReplaceUIScript)
+[2280535.374] Applying Component - Expansion1_WorldTracker (ReplaceUIScript)
+[2280535.374] Applying Component - Expansion1_EspionageChooser (ReplaceUIScript)
+[2280535.375] Applying Component - Expansion1_EspionageOverview (ReplaceUIScript)
+[2280535.375] Applying Component - Expansion1_TutorialUIRoot (ReplaceUIScript)
+[2280535.375] Applying Component - Expansion1_InGameTopOptionsMenu (ReplaceUIScript)
+[2280535.376] Applying Component - Expansion1_ResearchChooser (ReplaceUIScript)
+[2280535.376] Applying Component - Expansion2_ActionPanel (ReplaceUIScript)
+[2280535.377] Applying Component - Expansion2_ARXManager (ReplaceUIScript)
+[2280535.377] Applying Component - Expansion2_CityPanel (ReplaceUIScript)
+[2280535.377] Applying Component - Expansion2_CityPanelOverview (ReplaceUIScript)
+[2280535.378] Applying Component - Expansion2_CityStates (ReplaceUIScript)
+[2280535.378] Applying Component - Expansion2_CivicsTree (ReplaceUIScript)
+[2280535.378] Applying Component - Expansion2_DeclareWarPopup (ReplaceUIScript)
+[2280535.379] Applying Component - Expansion2_DiplomacyActionView (ReplaceUIScript)
+[2280535.379] Applying Component - Expansion2_DiplomacyRibbon (ReplaceUIScript)
+[2280535.379] Applying Component - Expansion2_FullscreenMapPopup (ReplaceUIScript)
+[2280535.380] Applying Component - Expansion2_GovernmentScreen (ReplaceUIScript)
+[2280535.380] Applying Component - Expansion2_LaunchBar (ReplaceUIScript)
+[2280535.380] Applying Component - Expansion2_ModalLensPanel (ReplaceUIScript)
+[2280535.381] Applying Component - Expansion2_MinimapPanel (ReplaceUIScript)
+[2280535.381] Applying Component - Expansion2_PartialScreenHooks (ReplaceUIScript)
+[2280535.382] Applying Component - Expansion2_PlotToolTip (ReplaceUIScript)
+[2280535.382] Applying Component - Expansion2_RazeCity (ReplaceUIScript)
+[2280535.382] Applying Component - Expansion2_SelectedUnit (ReplaceUIScript)
+[2280535.383] Applying Component - Expansion2_TechTree (ReplaceUIScript)
+[2280535.383] Applying Component - Expansion2_TopPanel (ReplaceUIScript)
+[2280535.383] Applying Component - Expansion2_UnitPanel (ReplaceUIScript)
+[2280535.384] Applying Component - Expansion2_WorldInput (ReplaceUIScript)
+[2280535.384] Applying Component - Expansion2_WorldRankings (ReplaceUIScript)
+[2280535.384] Applying Component - Expansion2_Files (ImportFiles)
+[2280535.423] Applying Component - TeddyRooseveltArt (UpdateArt)
+[2280535.423] ModArtLoader - Loading TeddyRoosevelt.dep
+[2280535.423] Applying Component - TeddyRooseveltARX (UpdateLogitechARX)
+[2280535.424] UpdateARX - Loading Data/ARX/Civ_LEADER_T_ROOSEVELT_ROUGHRIDER.png
+[2280535.475] Applying Component - TeddyRooseveltColors (UpdateColors)
+[2280535.475] UpdateColors - Loading Data/TeddyRoosevelt_Colors.xml
+[2280535.475] Applying Component - TeddyRooseveltGameplay (UpdateDatabase)
+[2280535.475] UpdateDatabase - Loading Data/TeddyRoosevelt_RemoveData.xml
+[2280535.502] UpdateDatabase - Loading Data/TeddyRoosevelt_Leaders.xml
+[2280535.516] UpdateDatabase - Loading Data/TeddyRoosevelt_Modifiers.xml
+[2280535.516] UpdateDatabase - Loading Data/TeddyRoosevelt_Units.xml
+[2280535.530] Applying Component - TeddyRooseveltGameplay_XP2 (UpdateDatabase)
+[2280535.530] UpdateDatabase - Loading Data/TeddyRoosevelt_Expansion2.xml
+[2280535.531] Applying Component - TeddyRooseveltIcons (UpdateIcons)
+[2280535.531] UpdateIcons - Loading Data/TeddyRoosevelt_Icons.xml
+[2280535.531] Applying Component - TeddyRooseveltText (UpdateText)
+[2280535.531] Creating database save point.
+[2280535.531] LocalizedText - Loading Text/TeddyRoosevelt_RemoveText.xml
+[2280535.532] LocalizedText - Loading Text/en_US/TeddyRoosevelt_Civilopedia_Text.xml
+[2280535.567] LocalizedText - Loading Text/en_US/TeddyRoosevelt_ConfigText.xml
+[2280535.567] LocalizedText - Loading Text/en_US/TeddyRoosevelt_PackageText.xml
+[2280535.568] LocalizedText - Loading Text/en_US/TeddyRoosevelt_Text.xml
+[2280535.604] LocalizedText - Loading Text/TeddyRoosevelt_Translations_ConfigText.xml
+[2280535.606] LocalizedText - Loading Text/TeddyRoosevelt_Translations_PackageText.xml
+[2280535.606] LocalizedText - Loading Text/TeddyRoosevelt_Translations_Text.xml
+[2280535.639] Successfully released save point.
+[2280535.639] Applying Component - RulersOfEnglandArt (UpdateArt)
+[2280535.640] ModArtLoader - Loading RulersOfEngland.dep
+[2280535.640] Applying Component - RulersOfEnglandAudio (UpdateAudio)
+[2280535.640] UpdateAudio - Loading Platforms/Windows/Audio/XP4_DLC04Banks.ini
+[2280535.640] Applying Component - RulersOfEnglandGameplay (UpdateDatabase)
+[2280535.641] UpdateDatabase - Loading Data/RulersOfEngland_RemoveData.xml
+[2280535.642] UpdateDatabase - Loading Data/RulersOfEngland_Civilizations.xml
+[2280535.642] UpdateDatabase - Loading Data/RulersOfEngland_Leaders.xml
+[2280535.677] UpdateDatabase - Loading Data/RulersOfEngland_Modifiers.xml
+[2280535.682] Applying Component - RulersOfEnglandColors (UpdateColors)
+[2280535.682] UpdateColors - Loading Data/RulersOfEngland_Colors.xml
+[2280535.682] Applying Component - RulersOfEnglandGameplay_XP2 (UpdateDatabase)
+[2280535.683] UpdateDatabase - Loading Data/RulersOfEngland_RemoveData.xml
+[2280535.683] UpdateDatabase - Loading Data/RulersOfEngland_RemoveData_Expansion2.xml
+[2280535.683] UpdateDatabase - Loading Data/RulersOfEngland_Expansion2.xml
+[2280535.685] Applying Component - RulersOfEnglandIcons (UpdateIcons)
+[2280535.685] UpdateIcons - Loading Data/RulersOfEngland_Icons_Leaders.xml
+[2280535.685] Applying Component - RulersOfEnglandText (UpdateText)
+[2280535.686] Creating database save point.
+[2280535.686] LocalizedText - Loading Text/RulersOfEngland_RemoveText.xml
+[2280535.686] LocalizedText - Loading Text/en_US/RulersOfEngland_Civilopedia_Text.xml
+[2280535.699] LocalizedText - Loading Text/en_US/RulersOfEngland_ConfigText.xml
+[2280535.700] LocalizedText - Loading Text/en_US/RulersOfEngland_Text.xml
+[2280535.709] LocalizedText - Loading Text/RulersOfEngland_Translations_ConfigText.xml
+[2280535.712] LocalizedText - Loading Text/RulersOfEngland_Translations_Text.xml
+[2280535.751] Successfully released save point.
+[2280535.751] Applying Component - GreatNegotiatorsArt (UpdateArt)
+[2280535.751] ModArtLoader - Loading GreatNegotiators.dep
+[2280535.751] Applying Component - GreatNegotiatorsAudio (UpdateAudio)
+[2280535.752] UpdateAudio - Loading Platforms/Windows/Audio/XP4_DLC02Banks.ini
+[2280535.752] Applying Component - GreatNegotiatorsGameplay (UpdateDatabase)
+[2280535.752] UpdateDatabase - Loading Data/GreatNegotiators_RemoveData.xml
+[2280535.753] UpdateDatabase - Loading Data/GreatNegotiators_Civilizations.xml
+[2280535.833] UpdateDatabase - Loading Data/GreatNegotiators_Districts.xml
+[2280535.839] UpdateDatabase - Loading Data/GreatNegotiators_Leaders.xml
+[2280535.861] UpdateDatabase - Loading Data/GreatNegotiators_Modifiers.xml
+[2280535.887] UpdateDatabase - Loading Data/GreatNegotiators_Units.xml
+[2280535.888] Applying Component - GreatNegotiatorsColors (UpdateColors)
+[2280535.888] UpdateColors - Loading Data/GreatNegotiators_Colors.xml
+[2280535.888] Applying Component - GreatNegotiatorsGameplay_XP2 (UpdateDatabase)
+[2280535.889] UpdateDatabase - Loading Data/GreatNegotiators_RemoveData.xml
+[2280535.889] UpdateDatabase - Loading Data/GreatNegotiators_RemoveData_Expansion2.xml
+[2280535.889] UpdateDatabase - Loading Data/GreatNegotiators_Expansion2.xml
+[2280535.901] Applying Component - GreatNegotiatorsIcons (UpdateIcons)
+[2280535.901] UpdateIcons - Loading Data/GreatNegotiators_Icons_Buildings.xml
+[2280535.902] UpdateIcons - Loading Data/GreatNegotiators_Icons_Civilizations.xml
+[2280535.902] UpdateIcons - Loading Data/GreatNegotiators_Icons_Districts.xml
+[2280535.902] UpdateIcons - Loading Data/GreatNegotiators_Icons_Leaders.xml
+[2280535.902] UpdateIcons - Loading Data/GreatNegotiators_Icons_UnitPortraits.xml
+[2280535.902] UpdateIcons - Loading Data/GreatNegotiators_Icons_Units.xml
+[2280535.902] Applying Component - GreatNegotiatorsARX (UpdateLogitechARX)
+[2280535.903] UpdateARX - Loading Data/ARX/Civ_LEADER_ABRAHAM_LINCOLN.png
+[2280535.927] UpdateARX - Loading Data/ARX/Civ_LEADER_NZINGA_MBANDE.png
+[2280535.944] UpdateARX - Loading Data/ARX/Civ_LEADER_SALADIN_ALT.png
+[2280535.977] Applying Component - GreatNegotiatorsText (UpdateText)
+[2280535.977] Creating database save point.
+[2280535.977] LocalizedText - Loading Text/GreatNegotiators_RemoveText.xml
+[2280535.978] LocalizedText - Loading Text/en_US/GreatNegotiators_Civilopedia_Text.xml
+[2280535.979] LocalizedText - Loading Text/en_US/GreatNegotiators_ConfigText.xml
+[2280535.979] LocalizedText - Loading Text/en_US/GreatNegotiators_Text.xml
+[2280535.989] LocalizedText - Loading Text/GreatNegotiators_Translations_ConfigText.xml
+[2280535.992] LocalizedText - Loading Text/GreatNegotiators_Translations_Text.xml
+[2280536.026] Successfully released save point.
+[2280536.026] Applying Component - RulersOfChinaArt (UpdateArt)
+[2280536.027] ModArtLoader - Loading RulersOfChina.dep
+[2280536.027] Applying Component - RulersOfChinaAudio (UpdateAudio)
+[2280536.027] UpdateAudio - Loading Platforms/Windows/Audio/XP4_DLC05Banks.ini
+[2280536.027] Applying Component - RulersOfChinaGameplay (UpdateDatabase)
+[2280536.028] UpdateDatabase - Loading Data/RulersOfChina_RemoveData.xml
+[2280536.028] UpdateDatabase - Loading Data/RulersOfChina_Civilizations.xml
+[2280536.028] UpdateDatabase - Loading Data/RulersOfChina_Leaders.xml
+[2280536.037] UpdateDatabase - Loading Data/RulersOfChina_Modifiers.xml
+[2280536.052] UpdateDatabase - Loading Data/RulersOfChina_Projects.xml
+[2280536.061] Applying Component - RulersOfChinaColors (UpdateColors)
+[2280536.062] UpdateColors - Loading Data/RulersOfChina_Colors.xml
+[2280536.062] Applying Component - RulersOfChinaGameplay_XP2 (UpdateDatabase)
+[2280536.062] UpdateDatabase - Loading Data/RulersOfChina_RemoveData.xml
+[2280536.063] UpdateDatabase - Loading Data/RulersOfChina_RemoveData_Expansion2.xml
+[2280536.063] UpdateDatabase - Loading Data/RulersOfChina_Expansion2.xml
+[2280536.064] Applying Component - RulersOfChinaIcons (UpdateIcons)
+[2280536.064] UpdateIcons - Loading Data/RulersOfChina_Icons_Leaders.xml
+[2280536.064] Applying Component - RulersOfChinaText (UpdateText)
+[2280536.065] Creating database save point.
+[2280536.065] LocalizedText - Loading Text/RulersOfChina_RemoveText.xml
+[2280536.065] LocalizedText - Loading Text/en_US/RulersOfChina_Civilopedia_Text.xml
+[2280536.074] LocalizedText - Loading Text/en_US/RulersOfChina_ConfigText.xml
+[2280536.075] LocalizedText - Loading Text/en_US/RulersOfChina_Text.xml
+[2280536.094] LocalizedText - Loading Text/RulersOfChina_Translations_ConfigText.xml
+[2280536.096] LocalizedText - Loading Text/RulersOfChina_Translations_Text.xml
+[2280536.131] Successfully released save point.
+[2280536.131] Applying Component - RulersOfTheSaharaArt (UpdateArt)
+[2280536.131] ModArtLoader - Loading RulersOfTheSahara.dep
+[2280536.131] Applying Component - RulersOfTheSaharaAudio (UpdateAudio)
+[2280536.132] UpdateAudio - Loading Platforms/Windows/Audio/XP4_DLC06Banks.ini
+[2280536.132] Applying Component - RulersOfTheSaharaGameplay (UpdateDatabase)
+[2280536.132] UpdateDatabase - Loading Data/RulersOfTheSahara_RemoveData.xml
+[2280536.132] Warning: UpdateDatabase - Error Loading XML.
+[2280536.132] UpdateDatabase - Loading Data/RulersOfTheSahara_Civilizations.xml
+[2280536.133] UpdateDatabase - Loading Data/RulersOfTheSahara_Leaders.xml
+[2280536.139] UpdateDatabase - Loading Data/RulersOfTheSahara_Modifiers.xml
+[2280536.140] Applying Component - RulersOfTheSaharaColors (UpdateColors)
+[2280536.140] UpdateColors - Loading Data/RulersOfTheSahara_Colors.xml
+[2280536.140] Applying Component - RulersOfTheSaharaGameplay_XP2 (UpdateDatabase)
+[2280536.141] UpdateDatabase - Loading Data/RulersOfTheSahara_RemoveData.xml
+[2280536.141] Warning: UpdateDatabase - Error Loading XML.
+[2280536.141] UpdateDatabase - Loading Data/RulersOfTheSahara_RemoveData_Expansion2.xml
+[2280536.141] UpdateDatabase - Loading Data/RulersOfTheSahara_Expansion2.xml
+[2280536.144] Applying Component - RulersOfTheSaharaIcons (UpdateIcons)
+[2280536.144] UpdateIcons - Loading Data/RulersOfTheSahara_Icons_Leaders.xml
+[2280536.145] Applying Component - RulersOfTheSaharaText (UpdateText)
+[2280536.145] Creating database save point.
+[2280536.145] LocalizedText - Loading Text/RulersOfTheSahara_RemoveText.xml
+[2280536.145] LocalizedText - Loading Text/en_US/RulersOfTheSahara_Civilopedia_Text.xml
+[2280536.159] LocalizedText - Loading Text/en_US/RulersOfTheSahara_ConfigText.xml
+[2280536.159] LocalizedText - Loading Text/en_US/RulersOfTheSahara_Text.xml
+[2280536.162] LocalizedText - Loading Text/RulersOfTheSahara_Translations_ConfigText.xml
+[2280536.164] LocalizedText - Loading Text/RulersOfTheSahara_Translations_Text.xml
+[2280536.195] Successfully released save point.
+[2280536.195] Applying Component - GranColombiaMayaArt (UpdateArt)
+[2280536.195] ModArtLoader - Loading GranColombia_Maya.dep
+[2280536.195] Applying Component - GranColombiaMayaGameplay (UpdateDatabase)
+[2280536.196] UpdateDatabase - Loading Data/GranColombia_Maya_Buildings.xml
+[2280536.203] UpdateDatabase - Loading Data/GranColombia_Maya_Civilizations.xml
+[2280536.215] UpdateDatabase - Loading Data/GranColombia_Maya_Districts.xml
+[2280536.226] UpdateDatabase - Loading Data/GranColombia_Maya_Features.xml
+[2280536.282] UpdateDatabase - Loading Data/GranColombia_Maya_GreatPeople.xml
+[2280536.309] UpdateDatabase - Loading Data/GranColombia_Maya_Improvements.xml
+[2280536.314] UpdateDatabase - Loading Data/GranColombia_Maya_Leaders.xml
+[2280536.332] UpdateDatabase - Loading Data/GranColombia_Maya_Modifiers.xml
+[2280536.339] UpdateDatabase - Loading Data/GranColombia_Maya_Notifications.xml
+[2280536.385] UpdateDatabase - Loading Data/GranColombia_Maya_Resources.xml
+[2280536.388] UpdateDatabase - Loading Data/GranColombia_Maya_UnitPromotions.xml
+[2280536.393] UpdateDatabase - Loading Data/GranColombia_Maya_Units.xml
+[2280536.435] Applying Component - GranColombiaMayaGameplay_Macedonia (UpdateDatabase)
+[2280536.436] UpdateDatabase - Loading Data/GranColombia_Maya_Buildings_Macedonia_Persia.xml
+[2280536.436] Applying Component - GranColombiaMayaARX (UpdateLogitechARX)
+[2280536.436] UpdateARX - Loading Data/ARX/Civ_LEADER_LADY_SIX_SKY.png
+[2280536.445] UpdateARX - Loading Data/ARX/Civ_LEADER_SIMON_BOLIVAR.png
+[2280536.473] Applying Component - GranColombiaMayaColors (UpdateColors)
+[2280536.473] UpdateColors - Loading Data/GranColombia_Maya_Colors.xml
+[2280536.474] Applying Component - GranColombiaMayaGameplay_XP2 (UpdateDatabase)
+[2280536.474] UpdateDatabase - Loading Data/GranColombia_Maya_Civilopedia.xml
+[2280536.474] UpdateDatabase - Loading Data/GranColombia_Maya_Expansion2.xml
+[2280536.489] UpdateDatabase - Loading Data/GranColombia_Maya_GoodyHuts.xml
+[2280536.490] Applying Component - GranColombiaMayaText (UpdateText)
+[2280536.490] Creating database save point.
+[2280536.490] LocalizedText - Loading Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml
+[2280536.553] LocalizedText - Loading Text/en_US/GranColombia_Maya_CitizenNames_Text.xml
+[2280536.580] LocalizedText - Loading Text/en_US/GranColombia_Maya_CityNames_Text.xml
+[2280536.633] LocalizedText - Loading Text/en_US/GranColombia_Maya_Civilopedia_Text.xml
+[2280536.677] LocalizedText - Loading Text/en_US/GranColombia_Maya_Civilopedia_Text_MODE.xml
+[2280536.745] LocalizedText - Loading Text/en_US/GranColombia_Maya_ConfigText.xml
+[2280536.746] LocalizedText - Loading Text/en_US/GranColombia_Maya_Diplomacy_Text.xml
+[2280536.766] LocalizedText - Loading Text/en_US/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml
+[2280536.783] LocalizedText - Loading Text/en_US/GranColombia_Maya_Improvements_Text.xml
+[2280536.783] LocalizedText - Loading Text/en_US/GranColombia_Maya_InGameText_MODE.xml
+[2280536.790] LocalizedText - Loading Text/en_US/GranColombia_Maya_Leaders_Text.xml
+[2280536.809] LocalizedText - Loading Text/en_US/GranColombia_Maya_NamedPlaces_Text.xml
+[2280536.816] LocalizedText - Loading Text/en_US/GranColombia_Maya_Notifications_Text.xml
+[2280536.823] LocalizedText - Loading Text/en_US/GranColombia_Maya_PackageText.xml
+[2280536.823] LocalizedText - Loading Text/en_US/GranColombia_Maya_RandomEvents_Text.xml
+[2280536.842] LocalizedText - Loading Text/en_US/GranColombia_Maya_Units_Text.xml
+[2280536.845] LocalizedText - Loading Text/GranColombia_Maya_Translations_ConfigText.xml
+[2280536.852] LocalizedText - Loading Text/GranColombia_Maya_Translations_PackageText.xml
+[2280536.853] LocalizedText - Loading Text/GranColombia_Maya_Translations_Text.xml
+[2280536.982] Successfully released save point.
+[2280536.982] Applying Component - GranColumbiaMayaAudio (UpdateAudio)
+[2280536.983] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1Banks.ini
+[2280537.003] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Ambiences.bnk
+[2280537.003] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Ambiences.txt
+[2280537.003] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Ambiences.xml
+[2280537.003] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Music_Bank.bnk
+[2280537.003] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Music_Bank.txt
+[2280537.003] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Music_Bank.xml
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.bnk
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.txt
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.xml
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.bnk
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.txt
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.xml
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.bnk
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.txt
+[2280537.004] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.xml
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.bnk
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.txt
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.xml
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Music_Bank.bnk
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Music_Bank.txt
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Music_Bank.xml
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Notifications.bnk
+[2280537.005] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Notifications.txt
+[2280537.006] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Notifications.xml
+[2280537.006] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_2D.bnk
+[2280537.006] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_2D.txt
+[2280537.006] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_2D.xml
+[2280537.006] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_3D.bnk
+[2280537.006] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_3D.txt
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_3D.xml
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Speech.bnk
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Speech.txt
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Speech.xml
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.bnk
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.txt
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.xml
+[2280537.007] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.bnk
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.txt
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.xml
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.bnk
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.txt
+[2280537.008] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.xml
+[2280537.009] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Wonders.bnk
+[2280537.009] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Wonders.txt
+[2280537.009] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Wonders.xml
+[2280537.009] Applying Component - GranColombiaMayaIcons (UpdateIcons)
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Civilizations.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Districts.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Emergencies.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Features.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_FontIcons.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_GameModes.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Leaders.xml
+[2280537.009] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Notifications.xml
+[2280537.010] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Resources.xml
+[2280537.010] UpdateIcons - Loading Data/GranColombia_Maya_Icons_UnitActions.xml
+[2280537.010] UpdateIcons - Loading Data/GranColombia_Maya_Icons_UnitPortraits.xml
+[2280537.010] UpdateIcons - Loading Data/GranColombia_Maya_Icons_Units.xml
+[2280537.010] UpdateIcons - Loading Data/GranColombia_Maya_Icons_WorldBuilder_Features.xml
+[2280537.010] Applying Component - GranColombiaMaya_ClimateScreen (ReplaceUIScript)
+[2280537.011] Applying Component - GranColombiaMaya_NaturalDisasterPopup (ReplaceUIScript)
+[2280537.011] Applying Component - GranColombiaMaya_XP2Files (ImportFiles)
+[2280537.013] Applying Component - ByzantiumGaulArt (UpdateArt)
+[2280537.013] ModArtLoader - Loading Byzantium_Gaul.dep
+[2280537.013] Applying Component - ByzantiumGaulGameplay (UpdateDatabase)
+[2280537.013] UpdateDatabase - Loading Data/Byzantium_Gaul_Buildings.xml
+[2280537.017] UpdateDatabase - Loading Data/Byzantium_Gaul_Civilizations.xml
+[2280537.024] UpdateDatabase - Loading Data/Byzantium_Gaul_Districts.xml
+[2280537.027] UpdateDatabase - Loading Data/Byzantium_Gaul_Leaders.xml
+[2280537.041] UpdateDatabase - Loading Data/Byzantium_Gaul_Modifiers.xml
+[2280537.046] UpdateDatabase - Loading Data/Byzantium_Gaul_Units.xml
+[2280537.056] Applying Component - ByzantiumGaulColors (UpdateColors)
+[2280537.056] UpdateColors - Loading Data/Byzantium_Gaul_Colors.xml
+[2280537.056] Applying Component - ByzantiumGaulGameplay_XP2 (UpdateDatabase)
+[2280537.057] UpdateDatabase - Loading Data/Byzantium_Gaul_RemoveData_Expansion2.xml
+[2280537.068] UpdateDatabase - Loading Data/Byzantium_Gaul_Expansion2.xml
+[2280537.078] Applying Component - ByzantiumGaulText (UpdateText)
+[2280537.078] Creating database save point.
+[2280537.078] LocalizedText - Loading Text/en_US/Byzantium_Gaul_Buildings_Text.xml
+[2280537.086] LocalizedText - Loading Text/en_US/Byzantium_Gaul_CitizenNames_Text.xml
+[2280537.088] LocalizedText - Loading Text/en_US/Byzantium_Gaul_CityNames_Text.xml
+[2280537.089] LocalizedText - Loading Text/en_US/Byzantium_Gaul_Civilopedia_Text.xml
+[2280537.116] LocalizedText - Loading Text/en_US/Byzantium_Gaul_ConfigText.xml
+[2280537.117] LocalizedText - Loading Text/en_US/Byzantium_Gaul_Diplomacy_Text.xml
+[2280537.123] LocalizedText - Loading Text/en_US/Byzantium_Gaul_Gameplay_Text.xml
+[2280537.136] LocalizedText - Loading Text/en_US/Byzantium_Gaul_NamedPlaces_Text.xml
+[2280537.137] LocalizedText - Loading Text/en_US/Byzantium_Gaul_PackageText.xml
+[2280537.137] LocalizedText - Loading Text/Byzantium_Gaul_Translations_ConfigText.xml
+[2280537.148] LocalizedText - Loading Text/Byzantium_Gaul_Translations_PackageText.xml
+[2280537.149] LocalizedText - Loading Text/Byzantium_Gaul_Translations_Text.xml
+[2280537.219] Successfully released save point.
+[2280537.219] Applying Component - ByzantiumGaulIcons (UpdateIcons)
+[2280537.219] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Civilizations.xml
+[2280537.219] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Districts.xml
+[2280537.219] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_FontIcons.xml
+[2280537.219] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Leaders.xml
+[2280537.220] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_UnitPortraits.xml
+[2280537.220] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Units.xml
+[2280537.220] UpdateIcons - Loading Data/Byzantium_Gaul_Icons_Wonders.xml
+[2280537.220] Applying Component - ByzantiumGaul_ARX (UpdateLogitechARX)
+[2280537.221] UpdateARX - Loading Data/ARX/Civ_LEADER_AMBIORIX.png
+[2280537.247] UpdateARX - Loading Data/ARX/Civ_LEADER_BASIL.png
+[2280537.259] Applying Component - ByzantiumGaul_Audio (UpdateAudio)
+[2280537.260] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC3Banks.ini
+[2280537.265] Applying Component - ByzantiumGaul_XP2Files (ImportFiles)
+[2280537.265] Applying Component - KublaiKhanArt (UpdateArt)
+[2280537.265] ModArtLoader - Loading KublaiKhan_Vietnam.dep
+[2280537.266] Applying Component - KublaiKhanAudio (UpdateAudio)
+[2280537.266] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC5Banks.ini
+[2280537.273] Applying Component - KublaiKhanVietnamGameplay (UpdateDatabase)
+[2280537.274] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Civilizations.xml
+[2280537.282] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Districts.xml
+[2280537.286] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Leaders.xml
+[2280537.292] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Modifiers.xml
+[2280537.305] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Units.xml
+[2280537.310] Applying Component - KublaiKhanVietnamColors (UpdateColors)
+[2280537.311] UpdateColors - Loading Data/KublaiKhan_Vietnam_Colors.xml
+[2280537.311] Applying Component - KublaiKhanVietnamGameplay_Mongolia (UpdateDatabase)
+[2280537.311] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Mongolia.xml
+[2280537.313] Applying Component - KublaiKhanVietnamGameplay_XP1 (UpdateDatabase)
+[2280537.313] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Expansion1.xml
+[2280537.313] Applying Component - KublaiKhanVietnamGameplay_XP2 (UpdateDatabase)
+[2280537.314] UpdateDatabase - Loading Data/KublaiKhan_Vietnam_Expansion2.xml
+[2280537.316] Applying Component - KublaiKhanVietnamIcons (UpdateIcons)
+[2280537.316] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Buildings.xml
+[2280537.317] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Civilizations.xml
+[2280537.317] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Districts.xml
+[2280537.317] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Leaders.xml
+[2280537.317] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_UnitPortraits.xml
+[2280537.318] UpdateIcons - Loading Data/KublaiKhan_Vietnam_Icons_Units.xml
+[2280537.318] Applying Component - KublaiKhanVietnamARX (UpdateLogitechARX)
+[2280537.318] UpdateARX - Loading Data/ARX/Civ_LEADER_KUBLAI_KHAN_CHINA.png
+[2280537.333] UpdateARX - Loading Data/ARX/Civ_LEADER_KUBLAI_KHAN_MONGOLIA.png
+[2280537.351] UpdateARX - Loading Data/ARX/Civ_LEADER_LADY_TRIEU.png
+[2280537.363] Applying Component - KublaiKhanVietnamText (UpdateText)
+[2280537.363] Creating database save point.
+[2280537.363] LocalizedText - Loading Text/KublaiKhan_Vietnam_RemoveText.xml
+[2280537.363] Warning: Unable to load ../../../DLC/KublaiKhan_Vietnam/Text/KublaiKhan_Vietnam_RemoveText.xml
+[2280537.363] Warning: LocalizedText - Failed loading XML.
+[2280537.363] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_CitizenNames_Text.xml
+[2280537.371] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_CityNames_Text.xml
+[2280537.387] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_Civilopedia_Text.xml
+[2280537.632] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_ConfigText.xml
+[2280537.633] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_Diplomacy_Text.xml
+[2280537.639] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_NamedPlaces_Text.xml
+[2280537.641] LocalizedText - Loading Text/en_US/KublaiKhan_Vietnam_PackageText.xml
+[2280537.641] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_ConfigText.xml
+[2280537.646] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_PackageText.xml
+[2280537.647] LocalizedText - Loading Text/KublaiKhan_Vietnam_Translations_Text.xml
+[2280537.787] Successfully released save point.
+[2280537.787] Applying Component - KublaiKhanVietnam_DistrictPlotIconManager (ReplaceUIScript)
+[2280537.787] Applying Component - KublaiKhanVietnam_Files (ImportFiles)
+[2280537.789] Applying Component - CatherineDeMediciArt (UpdateArt)
+[2280537.789] ModArtLoader - Loading CatherineDeMedici.dep
+[2280537.789] Applying Component - CatherineDeMediciARX (UpdateLogitechARX)
+[2280537.789] UpdateARX - Loading Data/ARX/Civ_LEADER_CATHERINE_DE_MEDICI_ALT.png
+[2280537.800] Applying Component - CatherineDeMediciColors (UpdateColors)
+[2280537.800] UpdateColors - Loading Data/CatherineDeMedici_Colors.xml
+[2280537.800] Applying Component - CatherineDeMediciGameplay (UpdateDatabase)
+[2280537.801] UpdateDatabase - Loading Data/CatherineDeMedici_Leaders.xml
+[2280537.820] UpdateDatabase - Loading Data/CatherineDeMedici_Modifiers.xml
+[2280537.820] Warning: UpdateDatabase - Error Loading XML.
+[2280537.820] UpdateDatabase - Loading Data/CatherineDeMedici_Projects.xml
+[2280537.836] Applying Component - CatherineDeMediciIcons (UpdateIcons)
+[2280537.836] UpdateIcons - Loading Data/CatherineDeMedici_Icons.xml
+[2280537.836] Applying Component - CatherineDeMediciText (UpdateText)
+[2280537.837] Creating database save point.
+[2280537.837] LocalizedText - Loading Text/CatherineDeMedici_RemoveText.xml
+[2280537.837] LocalizedText - Loading Text/en_US/CatherineDeMedici_Civilopedia_Text.xml
+[2280537.883] LocalizedText - Loading Text/en_US/CatherineDeMedici_ConfigText.xml
+[2280537.884] LocalizedText - Loading Text/en_US/CatherineDeMedici_PackageText.xml
+[2280537.884] LocalizedText - Loading Text/en_US/CatherineDeMedici_Text.xml
+[2280537.902] LocalizedText - Loading Text/CatherineDeMedici_Translations_ConfigText.xml
+[2280537.903] LocalizedText - Loading Text/CatherineDeMedici_Translations_PackageText.xml
+[2280537.904] LocalizedText - Loading Text/CatherineDeMedici_Translations_Text.xml
+[2280537.924] Successfully released save point.
+[2280537.924] Applying Component - GreatWarlordsArt (UpdateArt)
+[2280537.924] ModArtLoader - Loading GreatWarlords.dep
+[2280537.925] Applying Component - GreatWarlordsAudio (UpdateAudio)
+[2280537.925] UpdateAudio - Loading Platforms/Windows/Audio/XP4_DLC03Banks.ini
+[2280537.925] Applying Component - GreatWarlordsGameplay (UpdateDatabase)
+[2280537.925] UpdateDatabase - Loading Data/GreatWarlords_RemoveData.xml
+[2280537.926] UpdateDatabase - Loading Data/GreatWarlords_Civilizations.xml
+[2280537.927] UpdateDatabase - Loading Data/GreatWarlords_Leaders.xml
+[2280537.937] UpdateDatabase - Loading Data/GreatWarlords_Modifiers.xml
+[2280537.939] Applying Component - GreatWarlordsGameplay_Nader (UpdateDatabase)
+[2280537.939] UpdateDatabase - Loading Data/GreatWarlords_Leaders_NaderShah.xml
+[2280537.962] Applying Component - GreatWarlordsColors (UpdateColors)
+[2280537.962] UpdateColors - Loading Data/GreatWarlords_Colors.xml
+[2280537.963] Applying Component - GreatWarlordsGameplay_XP2 (UpdateDatabase)
+[2280537.963] UpdateDatabase - Loading Data/GreatWarlords_RemoveData.xml
+[2280537.963] UpdateDatabase - Loading Data/GreatWarlords_RemoveData_Expansion2.xml
+[2280537.964] UpdateDatabase - Loading Data/GreatWarlords_Expansion2.xml
+[2280537.978] Applying Component - GreatWarlordsGameplay_XP2_Nader (UpdateDatabase)
+[2280537.979] UpdateDatabase - Loading Data/GreatWarlords_Expansion2_NaderShah.xml
+[2280537.979] Applying Component - GreatWarlordsIcons (UpdateIcons)
+[2280537.980] UpdateIcons - Loading Data/GreatWarlords_Icons_Leaders.xml
+[2280537.980] Applying Component - GreatWarlordsARX (UpdateLogitechARX)
+[2280537.980] UpdateARX - Loading Data/ARX/Civ_LEADER_NADER_SHAH.png
+[2280538.025] UpdateARX - Loading Data/ARX/Civ_LEADER_SULEIMAN_ALT.png
+[2280538.048] UpdateARX - Loading Data/ARX/Civ_LEADER_TOKUGAWA.png
+[2280538.076] Applying Component - GreatWarlordsText (UpdateText)
+[2280538.076] Creating database save point.
+[2280538.076] LocalizedText - Loading Text/GreatWarlords_RemoveText.xml
+[2280538.076] LocalizedText - Loading Text/en_US/GreatWarlords_Civilopedia_Text.xml
+[2280538.084] LocalizedText - Loading Text/en_US/GreatWarlords_ConfigText.xml
+[2280538.084] LocalizedText - Loading Text/en_US/GreatWarlords_Text.xml
+[2280538.086] LocalizedText - Loading Text/GreatWarlords_Translations_ConfigText.xml
+[2280538.088] LocalizedText - Loading Text/GreatWarlords_Translations_Text.xml
+[2280538.132] Successfully released save point.
+[2280538.132] Applying Component - EthiopiaArt (UpdateArt)
+[2280538.132] ModArtLoader - Loading Ethiopia.dep
+[2280538.132] Applying Component - EthiopiaGameplay (UpdateDatabase)
+[2280538.133] UpdateDatabase - Loading Data/Ethiopia_RemoveData.xml
+[2280538.140] UpdateDatabase - Loading Data/Ethiopia_Buildings.xml
+[2280538.165] UpdateDatabase - Loading Data/Ethiopia_Civilizations.xml
+[2280538.186] UpdateDatabase - Loading Data/Ethiopia_Districts.xml
+[2280538.189] UpdateDatabase - Loading Data/Ethiopia_Improvements.xml
+[2280538.206] UpdateDatabase - Loading Data/Ethiopia_Leaders.xml
+[2280538.217] UpdateDatabase - Loading Data/Ethiopia_Modifiers.xml
+[2280538.219] UpdateDatabase - Loading Data/Ethiopia_Units.xml
+[2280538.238] Applying Component - EthiopiaColors (UpdateColors)
+[2280538.238] UpdateColors - Loading Data/Ethiopia_Colors.xml
+[2280538.239] Applying Component - EthiopiaGameplay_XP2 (UpdateDatabase)
+[2280538.239] UpdateDatabase - Loading Data/Ethiopia_RemoveData_Expansion2.xml
+[2280538.255] UpdateDatabase - Loading Data/Ethiopia_Expansion2.xml
+[2280538.260] Applying Component - EthiopiaIcons (UpdateIcons)
+[2280538.260] UpdateIcons - Loading Data/Ethiopia_Icons_Buildings.xml
+[2280538.260] UpdateIcons - Loading Data/Ethiopia_Icons_Civilizations.xml
+[2280538.260] UpdateIcons - Loading Data/Ethiopia_Icons_Districts.xml
+[2280538.260] UpdateIcons - Loading Data/Ethiopia_Icons_FontIcons.xml
+[2280538.260] UpdateIcons - Loading Data/Ethiopia_Icons_GameModes.xml
+[2280538.261] UpdateIcons - Loading Data/Ethiopia_Icons_Leaders.xml
+[2280538.261] UpdateIcons - Loading Data/Ethiopia_Icons_Notifications.xml
+[2280538.261] UpdateIcons - Loading Data/Ethiopia_Icons_Projects.xml
+[2280538.261] UpdateIcons - Loading Data/Ethiopia_Icons_Resources.xml
+[2280538.261] UpdateIcons - Loading Data/Ethiopia_Icons_UnitActions.xml
+[2280538.261] UpdateIcons - Loading Data/Ethiopia_Icons_UnitPortraits.xml
+[2280538.262] UpdateIcons - Loading Data/Ethiopia_Icons_Units.xml
+[2280538.262] Applying Component - EthiopiaText (UpdateText)
+[2280538.262] Creating database save point.
+[2280538.262] LocalizedText - Loading Text/Ethiopia_RemoveText.xml
+[2280538.265] LocalizedText - Loading Text/en_US/Ethiopia_Buildings_Text.xml
+[2280538.266] LocalizedText - Loading Text/en_US/Ethiopia_CitizenNames_Text.xml
+[2280538.277] LocalizedText - Loading Text/en_US/Ethiopia_CityNames_Text.xml
+[2280538.297] LocalizedText - Loading Text/en_US/Ethiopia_Civilopedia_Text.xml
+[2280538.320] LocalizedText - Loading Text/en_US/Ethiopia_ConfigText.xml
+[2280538.320] LocalizedText - Loading Text/en_US/Ethiopia_Diplomacy_Text.xml
+[2280538.321] LocalizedText - Loading Text/en_US/Ethiopia_Districts_Text.xml
+[2280538.335] LocalizedText - Loading Text/en_US/Ethiopia_InGameText.xml
+[2280538.336] LocalizedText - Loading Text/en_US/Ethiopia_NamedPlaces_Text.xml
+[2280538.340] LocalizedText - Loading Text/en_US/Ethiopia_PackageText.xml
+[2280538.341] LocalizedText - Loading Text/Ethiopia_Translations_ConfigText.xml
+[2280538.346] LocalizedText - Loading Text/Ethiopia_Translations_PackageText.xml
+[2280538.347] LocalizedText - Loading Text/Ethiopia_Translations_Text.xml
+[2280538.395] Successfully released save point.
+[2280538.395] Applying Component - EthiopiaAudio (UpdateAudio)
+[2280538.395] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC2Banks.ini
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC2_Music_Bank.bnk
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC2_Music_Bank.txt
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC2_Music_Bank.xml
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.bnk
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.txt
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Ambiences.xml
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Music_Bank.bnk
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Music_Bank.txt
+[2280538.406] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Music_Bank.xml
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Notifications.bnk
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Notifications.txt
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Notifications.xml
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_2D.bnk
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_2D.txt
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_2D.xml
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_3D.bnk
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_3D.txt
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Resources_Features_3D.xml
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Speech.bnk
+[2280538.407] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Speech.txt
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Speech.xml
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.bnk
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.txt
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_UI_Bank.xml
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.bnk
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.txt
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.xml
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml
+[2280538.408] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.bnk
+[2280538.409] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.txt
+[2280538.409] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.xml
+[2280538.409] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Wonders.bnk
+[2280538.409] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Wonders.txt
+[2280538.409] UpdateAudio - Loading Platforms/Windows/Audio/XP_Common_Wonders.xml
+[2280538.409] Applying Component - EthiopiaARX (UpdateLogitechARX)
+[2280538.409] UpdateARX - Loading Data/ARX/Civ_LEADER_MENELIK.png
+[2280538.435] Applying Component - BabylonArt (UpdateArt)
+[2280538.436] ModArtLoader - Loading Babylon.dep
+[2280538.436] Applying Component - BabylonAudio (UpdateAudio)
+[2280538.436] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC4Banks.ini
+[2280538.469] Applying Component - BabylonARX (UpdateLogitechARX)
+[2280538.470] UpdateARX - Loading Data/ARX/Civ_LEADER_HAMMURABI.png
+[2280538.479] Applying Component - BabylonGameplay (UpdateDatabase)
+[2280538.479] UpdateDatabase - Loading Data/Babylon_Buildings.xml
+[2280538.482] UpdateDatabase - Loading Data/Babylon_Civilizations.xml
+[2280538.495] UpdateDatabase - Loading Data/Babylon_GreatPeople.xml
+[2280538.524] UpdateDatabase - Loading Data/Babylon_GreatWorks.xml
+[2280538.531] UpdateDatabase - Loading Data/Babylon_Improvements.xml
+[2280538.534] UpdateDatabase - Loading Data/Babylon_Leaders.xml
+[2280538.545] UpdateDatabase - Loading Data/Babylon_Modifiers.xml
+[2280538.556] UpdateDatabase - Loading Data/Babylon_Units.xml
+[2280538.559] Applying Component - BabylonColors (UpdateColors)
+[2280538.559] UpdateColors - Loading Data/Babylon_Colors.xml
+[2280538.559] UpdateColors - Loading Data/Babylon_Colors_Config.xml
+[2280538.559] Applying Component - BabylonGameplay_XP2 (UpdateDatabase)
+[2280538.559] UpdateDatabase - Loading Data/Babylon_Expansion2.xml
+[2280538.578] Applying Component - BabylonGameplay_GranColombia_Maya (UpdateDatabase)
+[2280538.578] UpdateDatabase - Loading Data/Babylon_GranColombia_Maya.xml
+[2280538.594] Applying Component - BabylonText (UpdateText)
+[2280538.594] Creating database save point.
+[2280538.594] LocalizedText - Loading Text/en_US/Babylon_CitizenNames_Text.xml
+[2280538.595] LocalizedText - Loading Text/en_US/Babylon_CityNames_Text.xml
+[2280538.614] LocalizedText - Loading Text/en_US/Babylon_Civilopedia_Text.xml
+[2280538.633] LocalizedText - Loading Text/en_US/Babylon_ConfigText.xml
+[2280538.634] LocalizedText - Loading Text/en_US/Babylon_Diplomacy_Text.xml
+[2280538.654] LocalizedText - Loading Text/en_US/Babylon_GreatPeople_Text.xml
+[2280538.656] LocalizedText - Loading Text/en_US/Babylon_GreatWorks_Text.xml
+[2280538.657] LocalizedText - Loading Text/en_US/Babylon_Improvements_Text.xml
+[2280538.657] LocalizedText - Loading Text/en_US/Babylon_Leaders_Text.xml
+[2280538.659] LocalizedText - Loading Text/Babylon_Translations_ConfigText.xml
+[2280538.664] LocalizedText - Loading Text/Babylon_Translations_Text.xml
+[2280538.749] Successfully released save point.
+[2280538.749] Applying Component - BabylonIcons (UpdateIcons)
+[2280538.749] UpdateIcons - Loading Data/Babylon_Icons_Buildings.xml
+[2280538.749] UpdateIcons - Loading Data/Babylon_Icons_Civilizations.xml
+[2280538.749] UpdateIcons - Loading Data/Babylon_Icons_FontIcons.xml
+[2280538.749] UpdateIcons - Loading Data/Babylon_Icons_GreatWorkTypes.xml
+[2280538.749] UpdateIcons - Loading Data/Babylon_Icons_GreatWorks.xml
+[2280538.749] UpdateIcons - Loading Data/Babylon_Icons_Leaders.xml
+[2280538.750] UpdateIcons - Loading Data/Babylon_Icons_Projects.xml
+[2280538.750] UpdateIcons - Loading Data/Babylon_Icons_Stats.xml
+[2280538.750] UpdateIcons - Loading Data/Babylon_Icons_UnitActions.xml
+[2280538.750] UpdateIcons - Loading Data/Babylon_Icons_UnitPortraits.xml
+[2280538.750] UpdateIcons - Loading Data/Babylon_Icons_Units.xml
+[2280538.750] Applying Component - GreatBuildersArt (UpdateArt)
+[2280538.750] ModArtLoader - Loading GreatBuilders.dep
+[2280538.750] Applying Component - GreatBuildersAudio (UpdateAudio)
+[2280538.751] UpdateAudio - Loading Platforms/Windows/Audio/XP4_DLC07Banks.ini
+[2280538.751] Applying Component - GreatBuildersGameplay (UpdateDatabase)
+[2280538.751] UpdateDatabase - Loading Data/GreatBuilders_Germany.xml
+[2280538.760] UpdateDatabase - Loading Data/GreatBuilders_Modifiers.xml
+[2280538.761] Applying Component - GreatBuildersGameplay_Byzantium (UpdateDatabase)
+[2280538.761] UpdateDatabase - Loading Data/GreatBuilders_Byzantium.xml
+[2280538.779] Applying Component - GreatBuildersColors (UpdateColors)
+[2280538.779] UpdateColors - Loading Data/GreatBuilders_Colors.xml
+[2280538.779] Applying Component - GreatBuildersGameplay_XP2 (UpdateDatabase)
+[2280538.779] UpdateDatabase - Loading Data/GreatBuilders_Korea_Expansion2.xml
+[2280538.807] Applying Component - GreatBuildersIcons (UpdateIcons)
+[2280538.807] UpdateIcons - Loading Data/GreatBuilders_Icons_Leaders.xml
+[2280538.808] Applying Component - GreatBuildersText (UpdateText)
+[2280538.808] Creating database save point.
+[2280538.808] LocalizedText - Loading Text/GreatBuilders_RemoveText.xml
+[2280538.808] LocalizedText - Loading Text/en_US/GreatBuilders_Civilopedia_Text.xml
+[2280538.822] LocalizedText - Loading Text/en_US/GreatBuilders_ConfigText.xml
+[2280538.823] LocalizedText - Loading Text/en_US/GreatBuilders_Text.xml
+[2280538.837] LocalizedText - Loading Text/GreatBuilders_Translations_ConfigText.xml
+[2280538.838] LocalizedText - Loading Text/GreatBuilders_Translations_Text.xml
+[2280538.887] Successfully released save point.
+[2280538.888] Applying Component - PortugalArt (UpdateArt)
+[2280538.888] ModArtLoader - Loading Portugal.dep
+[2280538.888] Applying Component - PortugalAudio (UpdateAudio)
+[2280538.888] UpdateAudio - Loading Platforms/Windows/Audio/XP3_DLC6Banks.ini
+[2280538.898] Applying Component - PortugalGameplay (UpdateDatabase)
+[2280538.898] UpdateDatabase - Loading Data/Portugal_Buildings.xml
+[2280538.909] UpdateDatabase - Loading Data/Portugal_Civilizations.xml
+[2280538.915] UpdateDatabase - Loading Data/Portugal_Improvements.xml
+[2280538.933] UpdateDatabase - Loading Data/Portugal_Leaders.xml
+[2280538.937] UpdateDatabase - Loading Data/Portugal_Modifiers.xml
+[2280538.940] UpdateDatabase - Loading Data/Portugal_Units.xml
+[2280538.954] Applying Component - PortugalGameplayXP2 (UpdateDatabase)
+[2280538.955] UpdateDatabase - Loading Data/Portugal_Moments.xml
+[2280538.955] Applying Component - PortugalColors (UpdateColors)
+[2280538.955] UpdateColors - Loading Data/Portugal_Colors.xml
+[2280538.956] Applying Component - PortugalGameplay_XP2 (UpdateDatabase)
+[2280538.956] UpdateDatabase - Loading Data/Portugal_Expansion2.xml
+[2280538.974] Applying Component - PortugalGameplayIcons (UpdateIcons)
+[2280538.974] UpdateIcons - Loading Data/Portugal_Icons_Buildings.xml
+[2280538.974] UpdateIcons - Loading Data/Portugal_Icons_Civilizations.xml
+[2280538.974] UpdateIcons - Loading Data/Portugal_Icons_Leaders.xml
+[2280538.974] UpdateIcons - Loading Data/Portugal_Icons_UnitActions.xml
+[2280538.975] UpdateIcons - Loading Data/Portugal_Icons_UnitPortraits.xml
+[2280538.975] UpdateIcons - Loading Data/Portugal_Icons_Units.xml
+[2280538.975] UpdateIcons - Loading Data/Portugal_Icons_Wonders.xml
+[2280538.975] Applying Component - PortugalARX (UpdateLogitechARX)
+[2280538.975] UpdateARX - Loading Data/ARX/Civ_LEADER_JOAO_III.png
+[2280538.989] Applying Component - PortugalText (UpdateText)
+[2280538.989] Creating database save point.
+[2280538.989] LocalizedText - Loading Text/en_US/Portugal_Buildings_Text.xml
+[2280538.990] LocalizedText - Loading Text/en_US/Portugal_CitizenNames_Text.xml
+[2280538.991] LocalizedText - Loading Text/en_US/Portugal_CityNames_Text.xml
+[2280539.006] LocalizedText - Loading Text/en_US/Portugal_Civilopedia_Text.xml
+[2280539.023] LocalizedText - Loading Text/en_US/Portugal_ConfigText.xml
+[2280539.024] LocalizedText - Loading Text/en_US/Portugal_Diplomacy_Text.xml
+[2280539.038] LocalizedText - Loading Text/en_US/Portugal_NamedPlaces_Text.xml
+[2280539.039] LocalizedText - Loading Text/en_US/Portugal_PackageText.xml
+[2280539.040] LocalizedText - Loading Text/Portugal_Translations_ConfigText.xml
+[2280539.044] LocalizedText - Loading Text/Portugal_Translations_PackageText.xml
+[2280539.045] LocalizedText - Loading Text/Portugal_Translations_Text.xml
+[2280539.085] Successfully released save point.
+[2280539.086] Applying Component - Portugal_XP1Files (ImportFiles)
+[2280539.086] Applying Component - mappinmanager (ReplaceUIScript)
+[2280539.087] Applying Component - mappinpopup (ReplaceUIScript)
+[2280539.087] Applying Component - dmt_files (ImportFiles)
+[2280539.089] Applying Component - qd_diplomacyactionview (ReplaceUIScript)
+[2280540.069] Modding Framework - Finished Apply Components
+[2280540.069] Applied all components of enabled mods.
+[2280540.069] UpdateContent - Importing implicit files, post components
+[2280540.097] Localization database has been updated.  Caching data.
+[2280540.666] Initializing Gameplay DLL.
+[2280540.666] Saving a debug version of the gameplay database.
+[2280540.723] Performing post configure processing.
+[2280541.132] Reloading icons.
+[2280541.807] Reloading colors.
+[2280543.793] Successfully reconfigured game.
+[2280549.534] Stage: Initializing a new game
+[2280551.257] Reloading Tuner states.
+[2281151.428] Modding Framework - Shutting down framework.
+[2281151.428] Releasing Modding Framework Services...
+[2281151.428] Services released!

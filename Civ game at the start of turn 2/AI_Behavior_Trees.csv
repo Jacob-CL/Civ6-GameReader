@@ -1,0 +1,43 @@
+Game Turn, Player, System, Tree, Node, Result, Data
+1, 1, Operation, Settle City Op, FAILURE, Concurrent, 
+1, 1, Operation, Settle City Op, SUCCESS, Decode Trigger, Value: 175
+1, 1, Operation, Settle City Op, SUCCESS, Operation Defend Units, 
+1, 1, Operation, Settle City Op, FAILURE, Sequence, 
+1, 1, Operation, Settle City Op, FAILURE, Operation Change Target, Too weak or invalid target
+1, 1, Operation, Settle City Op, READY, Concurrent, 
+1, 1, Operation, Settle City Op, READY, Priority, 
+1, 1, Operation, Settle City Op, READY, Find Available Unit, Not seeking units
+1, 1, Operation, Settle City Op, READY, Concurrent, 
+1, 1, Operation, Settle City Op, READY, Contract Manager Decorator, No contract,
+1, 1, Operation, Settle City Op, READY, Build Unit, Not Building
+1, 1, Operation, Settle City Op, READY, Contract Manager Decorator, No contract,
+1, 1, Operation, Settle City Op, READY, Concurrent, 
+1, 1, Operation, Settle City Op, READY, Recruit Units, Recruited: 0; Recruiting: UNIT_SETTLER Total: 0. Ready: NO
+1, 1, Operation, Settle City Op, READY, Operation Move, Inactive
+1, 1, Operation, Settle City Op, READY, Lock Units, Units Locked
+1, 1, Operation, Settle City Op, READY, Concurrent, 
+1, 1, Operation, Settle City Op, READY, Recruit Units, Recruited: 0; Recruiting: UNIT_SETTLER Total: 0. Ready: NO
+1, 1, Operation, Settle City Op, READY, Make Formation, 
+1, 1, Operation, Settle City Op, READY, Operation Attack Units, 
+1, 1, Operation, Settle City Op, READY, Operation Move, Inactive
+1, 1, Operation, Settle City Op, READY, Concurrent, 
+1, 1, Operation, Settle City Op, READY, Operation Change Target, OK
+1, 1, Operation, Settle City Op, READY, Recruit Units, Recruited: 0; Recruiting: UNIT_SETTLER Total: 0. Ready: NO
+1, 1, Operation, Settle City Op, READY, Operation Attack Units, 
+1, 1, Operation, Settle City Op, READY, Operation Naval Escort, 0 unescorted formations, 0 escorts recruited
+1, 1, Operation, Settle City Op, READY, Operation Move, Inactive
+1, 1, Operation, Settle City Op, READY, Settle, Settling unit to make new city
+1, 1, City LOC_CITY_NAME_TBILISI, Simple City Tree, SUCCESS, Concurrent, 
+1, 1, City LOC_CITY_NAME_TBILISI, Simple City Tree, FAILURE, City Attack, Cannot attack
+1, 1, Seek Tech Boost TECH_CURRENCY, Build Trigger Unit, RUNNING, Sequence, 
+1, 1, Seek Tech Boost TECH_CURRENCY, Build Trigger Unit, SUCCESS, Decode Trigger, Unit: UNIT_TRADER; Value: 0
+1, 1, Seek Tech Boost TECH_CURRENCY, Build Trigger Unit, RUNNING, Turn Limiter, Child running 0 of 6 turns
+1, 1, Seek Tech Boost TECH_CURRENCY, Build Trigger Unit, RUNNING, Add Goal Tech, CIVIC_FOREIGN_TRADE: Accepted
+1, 1, Seek Tech Boost TECH_CURRENCY, Build Trigger Unit, READY, Contract Manager Decorator, No contract,
+1, 1, Seek Tech Boost TECH_CURRENCY, Build Trigger Unit, READY, Build Unit, Not Building
+1, 2, City LOC_CITY_NAME_GENEVA, Simple City Tree, SUCCESS, Concurrent, 
+1, 2, City LOC_CITY_NAME_GENEVA, Simple City Tree, FAILURE, City Attack, Cannot attack
+1, 3, City LOC_CITY_NAME_KUMASI, Simple City Tree, SUCCESS, Concurrent, 
+1, 3, City LOC_CITY_NAME_KUMASI, Simple City Tree, FAILURE, City Attack, Cannot attack
+1, 4, City LOC_CITY_NAME_SAMARKAND, Simple City Tree, SUCCESS, Concurrent, 
+1, 4, City LOC_CITY_NAME_SAMARKAND, Simple City Tree, FAILURE, City Attack, Cannot attack

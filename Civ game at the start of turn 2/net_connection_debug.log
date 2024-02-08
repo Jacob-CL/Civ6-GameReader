@@ -1,0 +1,12 @@
+[2024-02-08 19:55:29]	Attempting to host game.  ServerType: 0
+[2024-02-08 19:55:29]	Network Session Hosted.
+[2024-02-08 19:56:00]	Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2024-02-08 19:56:00]	Serialization, writing Game Configuration
+[2024-02-08 19:56:58]	Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2024-02-08 19:56:58]	Serialization, writing Game State
+[2024-02-08 19:56:58]	Serialization, waiting for request of type SAVE, reason = 1
+[2024-02-08 19:56:58]	Serialization, waiting for request of type LOAD, reason = 0
+[2024-02-08 19:58:52]	Serialization Request. Type: 1, Location Type: 1, Device: 1, Options 00000004
+[2024-02-08 19:58:52]	Serialization, writing Game State
+[2024-02-08 19:58:52]	Serialization, waiting for request of type SAVE, reason = 1
+[2024-02-08 19:58:52]	Serialization, waiting for request of type LOAD, reason = 0

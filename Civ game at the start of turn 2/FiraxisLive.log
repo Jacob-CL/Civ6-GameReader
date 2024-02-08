@@ -1,0 +1,257 @@
+Using FiraxisLive API 916463: flClient Live Build:916463
+Using ctpLogPath: C:\Users\User\AppData\Local\Firaxis Games\Sid Meier's Civilization VI/Logs\
+Using ctpGameDataPath: D:\Program Files (x86)\Steam\steamapps\common\Sid Meier's Civilization VI\\CTP\gamedata\
+Creating firaxis live...
+FiraxisLive created
+Setting firaxis live debug info...
+Adding firaxis live notification handlers...
+Starting firaxis live...
+[2/8/2024 08:54:26.308] FiraxisLive.cpp(284) FiraxisLive::Start - Build: flClient Live Build:916463
+[2/8/2024 08:54:26.308] FiraxisLive.cpp(292) FiraxisLive::Start - Client build version: 970508 (0x00000000000ecf0c) "970508"
+[2/8/2024 08:54:26.308] FiraxisLive.cpp(303) FiraxisLive::Start - Creating server connection...
+[2/8/2024 08:54:26.309] FiraxisLive.cpp(342) FiraxisLive::Start - Starting up threads...
+[2/8/2024 08:54:26.309] Win32Thread.cpp(277) Thread "FiraxisLive Thread" (ID:0x00000830) has started.
+[2/8/2024 08:54:26.309] FiraxisLive.cpp(352) FiraxisLive::Start - Running
+[2/8/2024 08:54:26.309] CTPFiraxisLive.cpp(22) CTP version: 2.7.0
+[2/8/2024 08:54:26.311] CTPFiraxisLive.cpp(3166) Set locale success
+FiraxisLive started
+[2/8/2024 08:54:26.333] Win32TCPSocket.cpp(157) 2076: Attempting to connect to login.firaxislive.com:443
+[2/8/2024 08:54:26.559] Win32TCPSocket.cpp(167) 2076: Connected to 52.87.79.131:443 (resolved from login.firaxislive.com:443)
+[2/8/2024 08:54:26.960] ServerConnection.cpp(398) FiraxisLive::Connected
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+FiraxisLiveClient StateNotify: PreRun
+FiraxisLiveClient StateNotify: FirstConnect
+SetLoginState: bFiraxisLiveState=false, bMy2KState=false, bAnonymousLogin=false, eAccountType=0, iCOPPALocked=255
+FiraxisLiveClient OnDataPushNotify: KeyName=App/FiraxisLive/Configuration/1, NumObjects=1
+* KeyName=App/FiraxisLive/OnlineTelemetryConfiguration.xml/blacklist-2018-09-20, Size=876, CreatedDate=1537454249, LastUpdate=1537454249
+FiraxisLiveClient OnDataPushNotify: KeyName=App/FiraxisLive/MarketingMessage, NumObjects=1
+* KeyName=App/FiraxisLive/MarketingMessage/civ6-motd-2023-10-19.xml, Size=13401, CreatedDate=1697738823, LastUpdate=1697738823
+FiraxisLiveClient StateNotify: Running
+SetLoginState: bFiraxisLiveState=false, bMy2KState=false, bAnonymousLogin=false, eAccountType=0, iCOPPALocked=255
+AppFiraxisLiveClient deferring logon from app init complete
+AppFiraxisLiveClient starting logon due to ui ready
+Beginning platform logon...
+[2/8/2024 08:55:01.220] CTPFiraxisLive.cpp(2086) Starting SSO login...
+My2KLogon successful
+[2/8/2024 08:55:02.225] CTPFiraxisLive.cpp(108) SsoLoginCallback success
+[2/8/2024 08:55:02.225] CTPFiraxisLive.cpp(3064) CTP Access Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDc0Njg5MDIsImlhdCI6MTcwNzM4MjUwMiwianRpIjoiZWMxMGU5YTgxNGVhNDMwZTk2OGI1ODNlZjhmZTBiMzIiLCJ0dHkiOjAsInBpZCI6ImJlNzZjMWUxZTAyMDQxNTRhZTE5MzQwNGRhODA3ZmYxIiwiZ2lkIjoiNGQ2NGNiMjg5MWQzZGY3Y2Y1NjNhM2Q2NjFlZGI0NzkiLCJsb2MiOiJlbi1VUyIsImN0eSI6IkNhbmJlcnJhIiwiY3RyIjoiQVUiLCJsYXQiOi0zNS4yODI4LCJsb24iOjE0OS4xMjgzLCJydGkiOiI4ZWMwNDc4YmY5NDM0MTMyYmQ4MTIzYmZjNTljZjA0YyIsInJleCI6MTcwNzM4OTcwMiwiaXNzIjoiNWU4OTM1NDMyZDcyYTFkMzA2ODFlZTI2NGFhYjZiOWIiLCJzdWIiOiIwYWYyMjRiNDAwY2E0MjJhODFiYzg5YmI1MTNhY2FkMCIsImF0eSI6Miwib3R5IjozLCJhZ3AiOjYsInNpZCI6IjM4ZjNkODI3OWEyYTQzODdhZDZmZmUzMDRkY2E4ZTk5IiwiZnBpIjoidUY5VDZMSm1zV0c4akdOQk9kMEdpam54Vkh5bEtDUkg5RENleHlzdDBRVT0iLCJmcGEiOiI3ZDhtVDJzZ3NHMUYyNCtTV2RiNjJBPT0iLCJkb2IiOiJ1QWlQeUVqTmhMVVE2VWIxOHZLTTd3PT0iLCJkdHkiOjMsImFnYyI6MiwiYXBjIjowfQ.AHteW1TE-rGGqkb14CNXQl33iE_kXv96bVVdE4_-eV0
+[2/8/2024 08:55:02.225] CTPFiraxisLive.cpp(3080) No Parent Account ID
+[2/8/2024 08:55:02.264] ServerConnection.cpp(978) Sending queued messages
+[2/8/2024 08:55:02.616] ServerConnection.cpp(498) Received LogoutMsg
+[2/8/2024 08:55:02.666] Win32TCPSocket.cpp(653) 2076: Close
+FiraxisLiveClient UserStateNotify: LoggingIn
+FiraxisLiveClient LoginStatusNotify: [type=Login, Successful, account=Platform]: OK
+Age Status = 4
+SetLoginState: bFiraxisLiveState=false, bMy2KState=true, bAnonymousLogin=false, eAccountType=3, iCOPPALocked=0
+FiraxisLiveClient ConnectFailureNotify: Bad my2K ID
+[2/8/2024 08:55:08.324] CTPFiraxisLive.cpp(2282) Logging out...
+[2/8/2024 08:55:08.324] CTPFiraxisLive.cpp(123) LogoutCallback success
+FiraxisLiveClient StateNotify: Stopped
+SetLoginState: bFiraxisLiveState=false, bMy2KState=true, bAnonymousLogin=false, eAccountType=3, iCOPPALocked=0
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(2586) Failed to get legal manifest with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(292) TelemetryCallback success
+AppFiraxisLiveClient::DoUpdate - Kando has become connected
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(2318) Failed to get account linked with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 08:55:08.327] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:55:08.338] CTPFiraxisLive.cpp(2318) Failed to get account linked with error 2562 (ERROR_NOT_LOGGED_IN)
+FiraxisLiveClient LoginStatusNotify: [type=Logout, Successful, account=Unknown]: OK
+SetLoginState: bFiraxisLiveState=false, bMy2KState=false, bAnonymousLogin=false, eAccountType=0, iCOPPALocked=0
+[2/8/2024 08:55:08.390] CTPFiraxisLive.cpp(2318) Failed to get account linked with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 08:55:08.390] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:55:08.390] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:55:08.390] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:55:08.882] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:55:08.882] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:55:08.882] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:56:07.795] AnalyticsManager.cpp(285) AnalyticsManager - Queued 1 data points, with a total of 2 attributes.
+[2/8/2024 08:56:07.807] Win32TCPSocket.cpp(157) 5096: Attempting to connect to login.firaxislive.com:443
+[2/8/2024 08:56:08.032] Win32TCPSocket.cpp(167) 5096: Connected to 52.70.226.157:443 (resolved from login.firaxislive.com:443)
+[2/8/2024 08:56:08.384] ServerConnection.cpp(398) FiraxisLive::Connected
+[2/8/2024 08:56:08.485] ServerConnection.cpp(978) Sending queued messages
+FiraxisLiveClient StateNotify: WaitingForServerConnection
+FiraxisLiveClient StateNotify: KeyExchange
+FiraxisLiveClient StateNotify: PreRun
+FiraxisLiveClient StateNotify: Running
+SetLoginState: bFiraxisLiveState=false, bMy2KState=true, bAnonymousLogin=false, eAccountType=0, iCOPPALocked=0
+[2/8/2024 08:56:16.715] InternalAttrib.cpp(119) Add: Invalid attribute name, ignored!
+[2/8/2024 08:56:52.273] FiraxisLive.cpp(584) Failed to get account ID with error: Get account ID failed with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 08:56:52.473] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:56:52.474] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:56:52.495] AnalyticsManager.cpp(285) AnalyticsManager - Queued 26 data points, with a total of 104 attributes.
+[2/8/2024 08:56:52.495] ServerConnection.cpp(978) Sending queued messages
+[2/8/2024 08:56:58.811] FiraxisLive.cpp(584) Failed to get account ID with error: Get account ID failed with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 08:56:58.832] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:56:58.832] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:56:58.832] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:56:58.832] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:56:58.833] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:56:58.833] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:56:58.833] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:56:58.833] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:56:58.833] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:57:07.520] AnalyticsManager.cpp(285) AnalyticsManager - Queued 2 data points, with a total of 44 attributes.
+[2/8/2024 08:57:07.520] ServerConnection.cpp(978) Sending queued messages
+[2/8/2024 08:58:07.738] ServerConnection.cpp(516) FiraxisLive::Server dropped us, disconnecting
+FiraxisLiveClient ConnectFailureNotify: Internal Server Error
+[2/8/2024 08:58:07.738] CTPFiraxisLive.cpp(2282) Logging out...
+[2/8/2024 08:58:07.738] CTPFiraxisLive.cpp(2292) Logout failed with error: 2562 (ERROR_NOT_LOGGED_IN)
+FiraxisLiveClient UserStateNotify: Error
+[2/8/2024 08:58:07.788] Win32TCPSocket.cpp(653) 5096: Close
+FiraxisLiveClient StateNotify: Retry
+FiraxisLiveClient StateNotify: Stopped
+SetLoginState: bFiraxisLiveState=false, bMy2KState=true, bAnonymousLogin=false, eAccountType=0, iCOPPALocked=0
+[2/8/2024 08:58:52.872] FiraxisLive.cpp(584) Failed to get account ID with error: Get account ID failed with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.897] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 08:58:52.898] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 08:58:52.899] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 08:58:52.899] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 09:05:58.072] FiraxisLive.cpp(584) Failed to get account ID with error: Get account ID failed with error 2562 (ERROR_NOT_LOGGED_IN)
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2403) Queuing telemetry event...
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(2468) Successfully queued telemetry event
+[2/8/2024 09:06:03.657] CTPFiraxisLive.cpp(292) TelemetryCallback success
+[2/8/2024 09:06:10.466] CTPFiraxisLive.cpp(465) FlushAllQueuesCallback success
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 1 from "StateChange"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "StateChange", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 2 from "UserStateChange"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "UserStateChange", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 3 from "ConnectionFailure"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "ConnectionFailure", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 4 from "KVPData"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPData", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 5 from "KVPDataError"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataError", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 6 from "KVPDataProgress"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataProgress", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 7 from "KVPDataList"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "KVPDataList", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 8 from "SimpleKVP"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "SimpleKVP", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 9 from "SimpleKVPInfo"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "SimpleKVPInfo", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 10 from "DataPush"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "DataPush", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 11 from "MatchListData"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchListData", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 12 from "MatchCreateData"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchCreateData", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 13 from "MatchJoin"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchJoin", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 14 from "MatchStartMatch"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchStartMatch", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 15 from "MatchEndMatch"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchEndMatch", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 16 from "MatchKillMatch"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchKillMatch", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 17 from "MatchQuitMatch"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchQuitMatch", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 18 from "MatchEndTurn"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchEndTurn", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 19 from "MatchKickPlayer"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchKickPlayer", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 20 from "MatchUpdateAttributes"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchUpdateAttributes", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 21 from "MatchUpdateSaveGame"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchUpdateSaveGame", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 22 from "MatchSetPlayerMetaData"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerMetaData", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 23 from "MatchSetPlayerOrder"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerOrder", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 24 from "MatchSetPlayerStatus"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetPlayerStatus", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 25 from "MatchSetSlotType"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchSetSlotType", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 26 from "MatchGetInfo"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchGetInfo", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 27 from "MatchGetSaveGame"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "MatchGetSaveGame", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 28 from "my2KLogonData"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLogonData", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 29 from "my2KNewAccountInfo"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KNewAccountInfo", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 30 from "my2KDOBInfo"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KDOBInfo", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 31 from "my2KLegalAccept"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLegalAccept", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 32 from "my2KConnectionStatus"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KConnectionStatus", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 33 from "my2KLoggedOffStatus"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLoggedOffStatus", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 34 from "my2KLoginStatus"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KLoginStatus", it has been removed as well.
+[2/8/2024 09:06:10.499] Notifications.cpp(170) Notifications: Removed receipt 35 from "my2KGrantedEntitlements"
+[2/8/2024 09:06:10.499] Notifications.cpp(174) Notifications: No more callbacks exist for notification "my2KGrantedEntitlements", it has been removed as well.
+[2/8/2024 09:06:10.499] FiraxisLive.cpp(113) FiraxisLive: Releasing...
+[2/8/2024 09:06:10.499] FiraxisLive.cpp(1479) FiraxisLive::Shutdown - Shutting down...
+[2/8/2024 09:06:10.499] FiraxisLive.cpp(1486) FiraxisLive::Shutdown - Removing FiraxisLive my2K Manager...
+[2/8/2024 09:06:10.501] FiraxisLive.cpp(1493) FiraxisLive::Shutdown - Creating End Session data...
+[2/8/2024 09:06:10.501] FiraxisLive.cpp(1497) FiraxisLive::Shutdown - Flushing all analytics...
+[2/8/2024 09:06:10.501] FiraxisLive.cpp(1501) FiraxisLive::Shutdown - Flushing KVPQueue::Default data...
+[2/8/2024 09:06:10.501] FiraxisLive.cpp(1505) FiraxisLive::Shutdown - Flushing messages...
+[2/8/2024 09:06:10.549] Win32TCPSocket.cpp(157) 2568: Attempting to connect to login.firaxislive.com:443
+[2/8/2024 09:06:10.775] Win32TCPSocket.cpp(167) 2568: Connected to 44.199.141.241:443 (resolved from login.firaxislive.com:443)
+[2/8/2024 09:06:11.127] ServerConnection.cpp(398) FiraxisLive::Connected
+[2/8/2024 09:06:11.227] ServerConnection.cpp(978) Sending queued messages
+[2/8/2024 09:06:11.257] FiraxisLive.cpp(1561) FiraxisLive::Shutdown - Stopping FiraxisLive processing thread...
+[2/8/2024 09:06:11.278] Win32Thread.cpp(353) Thread "FiraxisLive Thread" (ID:0x00000830) has shut down.
+[2/8/2024 09:06:11.278] Win32Thread.cpp(39) Thread "FiraxisLive Thread" (ID:0x00000830) is being destroyed.
+[2/8/2024 09:06:11.278] FiraxisLive.cpp(1565) FiraxisLive::Shutdown - Removing FiraxisLive AnalyticsManager...
+[2/8/2024 09:06:11.278] FiraxisLive.cpp(1568) FiraxisLive::Shutdown - Removing FiraxisLive MatchMaking...
+[2/8/2024 09:06:11.279] FiraxisLive.cpp(1571) FiraxisLive::Shutdown - Removing FiraxisLive Key-Value-Pair Manager...
+[2/8/2024 09:06:11.279] FiraxisLive.cpp(1575) FiraxisLive::Shutdown - Removing FiraxisLive connector...
+[2/8/2024 09:06:11.279] Win32TCPSocket.cpp(653) 2568: Close
+[2/8/2024 09:06:11.610] FiraxisLive.cpp(1578) FiraxisLive::Shutdown - Removing Notifications...
+[2/8/2024 09:06:11.610] Notifications.cpp(18) Notifications: Going away...
+[2/8/2024 09:06:11.610] FiraxisLive.cpp(1587) FiraxisLive::Shutdown - Complete

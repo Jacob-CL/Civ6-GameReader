@@ -1,0 +1,19 @@
+[2024-02-08 19:55:41]	LoadGameViewState::Begin()
+[2024-02-08 19:55:41]	LoadGameViewState::LoadUI()
+[2024-02-08 19:55:42]	CONFIGURE_CONTENT Begin
+[2024-02-08 19:56:00]	CONFIGURE_CONTENT took 18.0761 seconds
+[2024-02-08 19:56:00]	GAMECORE_NEW_GAME Begin
+[2024-02-08 19:56:06]		,Block on asset load took 0.0000 seconds
+[2024-02-08 19:56:07]		,InitializeNewGame took 1.7230 seconds
+[2024-02-08 19:56:07]	GAMECORE_NEW_GAME End
+[2024-02-08 19:56:07]	GAMECORE_INITIALIZATION_DONE Begin
+[2024-02-08 19:56:16]		,GameViewState::LoadUI took 0.0000 seconds
+[2024-02-08 19:56:16]		,Post-GameCore asset load took 0.4145 seconds
+[2024-02-08 19:56:16]	GAMECORE_INITIALIZATION_DONE took 8.9028 seconds
+[2024-02-08 19:56:16]	WAIT_FOR_PLAYERS Begin
+[2024-02-08 19:56:52]		,GameViewState::StartupGame took 35.5631 seconds
+[2024-02-08 19:56:52]		,StartupGame asset load took 0.0000 seconds
+[2024-02-08 19:56:52]	WAIT_FOR_PLAYERS End
+[2024-02-08 19:56:53]	PostLoadTime: 1.3125 seconds
+[2024-02-08 19:56:58]	LoadGameViewState::End()
+[2024-02-08 19:56:58]	LoadGameViewState::UnloadUI()

@@ -1,0 +1,8 @@
+Game Turn, Player, Num Cities, Population, Techs, Civics, Land Units, corps, Armies, Naval Units, TILES: Owned, Improved, BALANCE: Gold, Faith, YIELDS: Science, Culture, Gold, Faith, Production, Food
+1, CIVILIZATION_KOREA, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0
+1, CIVILIZATION_GEORGIA, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0
+1, CIVILIZATION_GENEVA, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0
+1, CIVILIZATION_KUMASI, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0
+1, CIVILIZATION_SAMARKAND, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0
+1, CIVILIZATION_FREE_CITIES, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+2, CIVILIZATION_KOREA, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0

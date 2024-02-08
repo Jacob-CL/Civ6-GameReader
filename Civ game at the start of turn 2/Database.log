@@ -1,0 +1,24 @@
+[2280443.802] [Localization]: StartupErrorMessages.xml
+[2280443.802] [Localization]: Input XML does not contain database entry tags. GameData, GameInfo or Database
+[2280447.544] [Localization]: Validating Foreign Key Constraints...
+[2280447.544] [Localization]: Passed Validation.
+[2280447.772] [Configuration]: Validating Foreign Key Constraints...
+[2280447.773] [Configuration]: Passed Validation.
+[2280453.851] [FullTextSearch]: Initializing FullTextSearch
+[2280456.727] [Gameplay]: Validating Foreign Key Constraints...
+[2280456.741] [Gameplay]: Passed Validation.
+[2280461.445] [Configuration]: Validating Foreign Key Constraints...
+[2280461.445] [Configuration]: Passed Validation.
+[2280463.755] [HallofFame]: Database found. Checking versions...
+[2280463.765] [HallofFame]: Database is up-to-date!
+[2280487.675] [FullTextSearch]: FTS - Creating Context
+[2280524.279] [Configuration]: Validating Foreign Key Constraints...
+[2280524.280] [Configuration]: Passed Validation.
+[2280540.075] [Gameplay]: Validating Foreign Key Constraints...
+[2280540.097] [Gameplay]: Passed Validation.
+[2280552.686] [FullTextSearch]: FTS - Creating Context
+[2280552.687] [FullTextSearch]: FTS - Creating Context
+[2280554.513] [FullTextSearch]: FTS - Creating Context
+[2280555.070] [FullTextSearch]: FTS - Creating Context
+[2280558.739] [FullTextSearch]: FTS - Creating Context
+[2281151.466] [FullTextSearch]: FullTextSearch - Shutting down

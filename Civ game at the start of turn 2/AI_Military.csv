@@ -1,0 +1,8 @@
+Game Turn, Player, Regional Strength, Enemy Strength, Other Strength, Current Explorers, Desired Explorers, Fav Tech, Combat Desire
+1, 0, 0, 0, 0, 1:0, 3:1, NO_TECH, 0.0
+1, 1, 0, 0, 0, 1:0, 3:1, NO_TECH, 0.0
+1, 2, 0, 0, 0, 0:0, 0:0, NO_TECH, 0.0
+1, 3, 0, 0, 0, 0:0, 0:0, NO_TECH, 0.0
+1, 4, 0, 0, 0, 0:0, 0:0, NO_TECH, 0.0
+1, 62, 0, 0, 0, 0:0, 0:0, NO_TECH, 0.5
+2, 0, 0, 0, 0, 1:0, 5:1, NO_TECH, 0.0
